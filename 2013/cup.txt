@@ -1,5 +1,5 @@
-#########################################
-# FIFA Club World Cup / Morocco 2013
+#########################################################
+# FIFA Club World Cup in Morocco, 11–21 December 2013
 
 
 # note: All times Western European Time (UTC±0)

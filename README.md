@@ -14,23 +14,23 @@ Free open public domain football data for the Club World Cup
 
 
 ~~~
-#########################################
+###########################################
 # FIFA Club World Cup / Morocco 2013
 
 ...
 
-(3) Semi-finals
+Semi-finals
 
 (4) Tue Dec/17 19:30   Guangzhou Evergrande FC  0-3  Bayern München    @ Stade Adrar, Agadir
 (6) Wed Dec/18 19:30   Raja Casablanca          3-1  Atlético Mineiro  @ Stade de Marrakech, Marrakesh
 
 
-(5)  Match for third place
+Match for third place
 
 (7) Sat Dec/21 16:30   Guangzhou Evergrande  2-3  Atlético Mineiro   @ Stade de Marrakech, Marrakesh
 
 
-(6) Final
+Final
 
 (8) Sat Dec/21 19:30   Bayern München  2-0  Raja Casablanca   @ Stade de Marrakech, Marrakesh
 ~~~

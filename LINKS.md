@@ -7,6 +7,10 @@
 - Teams: 7 (from 6 confederations)
 - Matches: 8
 
+### Morocco 2014
+
+Dates: 10–20 December 2014
+
 ### Morocco 2013
 
 Dates: 11–21 December 2013
@@ -18,5 +22,6 @@ Dates: 6–16 December 2012
 
 ### Wikipedia
 
+- [2014_FIFA_Club_World_Cup](http://en.wikipedia.org/wiki/2014_FIFA_Club_World_Cup)
 - [2013_FIFA_Club_World_Cup](http://en.wikipedia.org/wiki/2013_FIFA_Club_World_Cup)
 - [2012_FIFA_Club_World_Cup](http://en.wikipedia.org/wiki/2012_FIFA_Club_World_Cup)

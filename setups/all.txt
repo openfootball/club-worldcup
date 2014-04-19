@@ -4,3 +4,4 @@
 cup-world-cup!/leagues
 cup-world-cup!/2012/cup
 cup-world-cup!/2013/cup
+cup-world-cup!/2014/cup
