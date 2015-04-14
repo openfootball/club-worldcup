@@ -1,6 +1,6 @@
 ###############
 # 2013
 
-cup-world-cup!/leagues
-cup-world-cup!/2013--morocco/cup
+cup000-world-cup!/leagues
+cup000-world-cup!/2013--morocco/cup
 
