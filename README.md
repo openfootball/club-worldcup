@@ -39,7 +39,7 @@ Final
 ## Build Your Own `clubworldcup.db` Copy
 
 Use the `sportdb` command line tool to build your own `clubworldcup.db` copy
-from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
+from the plain text fixtures. [More »](https://github.com/openfootball/datafile)
 
 
 ## Questions? Comments?
