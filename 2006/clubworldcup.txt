@@ -1,0 +1,35 @@
+= Club World Cup 2006
+
+# Date       Sun Dec/10 - Sun Dec/17 2006 (7d)
+# Teams      6
+# Matches    7
+
+
+
+» Round 1
+  Sun Dec/10 2006
+    19.20  Auckland City FC (NZL)  v Al Ahly SC (EGY)         0-2 (0-0)
+  Mon Dec/11
+    19.20  Jeonbuk FC (KOR)        v CF América (MEX)         0-1 (0-0)
+
+
+» Semifinals
+  Wed Dec/13
+    19.20  Al Ahly SC (EGY)        v Internacional (BRA)      1-2 (0-1)
+  Thu Dec/14
+    19.20  CF América (MEX)        v FC Barcelona (ESP)       0-4 (0-2)
+
+
+» Match 5th place
+  Fri Dec/15
+    19.20  Auckland City FC (NZL)  v Jeonbuk FC (KOR)         0-3 (0-2)
+
+
+» Match 3rd place
+  Sun Dec/17
+    16.20  Al Ahly SC (EGY)        v CF América (MEX)         2-1 (1-0)
+
+
+» Final
+  Sun Dec/17
+    19.20  Internacional (BRA)     v FC Barcelona (ESP)       1-0 (0-0)

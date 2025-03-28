@@ -1,0 +1,40 @@
+= Club World Cup 2008
+
+# Date       Thu Dec/11 - Sun Dec/21 2008 (10d)
+# Teams      7
+# Matches    8
+
+
+
+» Round 1
+  Thu Dec/11 2008
+    19.45  Adelaide United (AUS)   v Waitakere United (NZL)   2-1 (1-1)
+
+
+» Round 2
+  Sat Dec/13
+    13.45  Al Ahly SC (EGY)        v CF Pachuca (MEX)         2-4 a.e.t. (2-2, 2-0)
+  Sun Dec/14
+    19.30  Adelaide United (AUS)   v Gamba Osaka (JPN)        0-1 (0-1)
+
+
+» Semifinals
+  Wed Dec/17
+    19.30  CF Pachuca (MEX)        v LDU Quito (ECU)          0-2 (0-2)
+  Thu Dec/18
+    19.30  Gamba Osaka (JPN)       v Manchester United (ENG)  3-5 (0-2)
+
+
+» Match 5th place
+  Thu Dec/18
+    16.30  Al Ahly SC (EGY)        v Adelaide United (AUS)    0-1 (0-1)
+
+
+» Match 3rd place
+  Sun Dec/21
+    16.30  CF Pachuca (MEX)        v Gamba Osaka (JPN)        0-1 (0-1)
+
+
+» Final
+  Sun Dec/21
+    19.30  LDU Quito (ECU)         v Manchester United (ENG)  0-1 (0-0)

@@ -1,0 +1,39 @@
+= Club World Cup 2015
+
+# Date       Thu Dec/10 - Sun Dec/20 2015 (10d)
+# Teams      7
+# Matches    8
+
+
+
+» Round 1
+  Thu Dec/10 2015
+    19.45  Sanfrecce Hiroshima (JPN) v Auckland City FC (NZL)   2-0 (1-0)
+
+
+» Round 2
+  Sun Dec/13
+    16.00  CF América (MEX)        v Guangzhou Evergrande (CHN)  1-2 (0-0)
+    19.30  TP Mazembe (COD)        v Sanfrecce Hiroshima (JPN)  0-3 (0-1)
+
+
+» Semifinals
+  Wed Dec/16
+    19.30  Sanfrecce Hiroshima (JPN) v River Plate (ARG)        0-1 (0-0)
+  Thu Dec/17
+    19.30  FC Barcelona (ESP)      v Guangzhou Evergrande (CHN)  3-0 (1-0)
+
+
+» Match 5th place
+  Wed Dec/16
+    16.30  TP Mazembe (COD)        v CF América (MEX)         1-2 (1-2)
+
+
+» Match 3rd place
+  Sun Dec/20
+    16.00  Sanfrecce Hiroshima (JPN) v Guangzhou Evergrande (CHN)  2-1 (0-1)
+
+
+» Final
+  Sun Dec/20
+    19.30  River Plate (ARG)       v FC Barcelona (ESP)       0-3 (0-1)

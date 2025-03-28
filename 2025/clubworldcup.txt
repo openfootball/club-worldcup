@@ -1,0 +1,125 @@
+= Club World Cup 2025
+
+# Date       Sat Jun/14 - Sun Jul/13 2025 (29d)
+# Teams      31
+# Matches    55
+
+
+
+» Group A
+  Sat Jun/14 2025
+    20.00  Al Ahly SC (EGY)        v Inter Miami CF (USA)
+  Sun Jun/15
+    16.00  Palmeiras (BRA)         v FC Porto (POR)
+  Wed Jun/18
+    12.00  Palmeiras (BRA)         v Al Ahly SC (EGY)
+    15.00  Inter Miami CF (USA)    v FC Porto (POR)
+  Mon Jun/23
+    21.00  Inter Miami CF (USA)    v Palmeiras (BRA)
+           FC Porto (POR)          v Al Ahly SC (EGY)
+
+
+» Group B
+  Sun Jun/15
+    12.00  Paris Saint-Germain (FRA) v Atlético Madrid (ESP)
+    19.00  Botafogo RJ (BRA)       v Seattle Sounders (USA)
+  Thu Jun/19
+    15.00  Seattle Sounders (USA)  v Atlético Madrid (ESP)
+    18.00  Paris Saint-Germain (FRA) v Botafogo RJ (BRA)
+  Mon Jun/23
+    12.00  Seattle Sounders (USA)  v Paris Saint-Germain (FRA)
+           Atlético Madrid (ESP)   v Botafogo RJ (BRA)
+
+
+» Group C
+  Sun Jun/15
+    12.00  Bayern München (GER)    v Auckland City FC (NZL)
+  Mon Jun/16
+    18.00  Boca Juniors (ARG)      v SL Benfica (POR)
+  Fri Jun/20
+    12.00  SL Benfica (POR)        v Auckland City FC (NZL)
+    21.00  Bayern München (GER)    v Boca Juniors (ARG)
+  Tue Jun/24
+    15.00  SL Benfica (POR)        v Bayern München (GER)
+           Auckland City FC (NZL)  v Boca Juniors (ARG)
+
+
+» Group D
+  Mon Jun/16
+    15.00  Chelsea FC (ENG)        v N.N.
+    21.00  Flamengo RJ (BRA)       v Espérance de Tunis (TUN)
+  Fri Jun/20
+    14.00  Flamengo RJ (BRA)       v Chelsea FC (ENG)
+    17.00  N.N.                    v Espérance de Tunis (TUN)
+  Tue Jun/24
+    21.00  N.N.                    v Flamengo RJ (BRA)
+           Espérance de Tunis (TUN) v Chelsea FC (ENG)
+
+
+» Group E
+  Tue Jun/17
+    12.00  River Plate (ARG)       v Urawa Red Diamonds (JPN)
+    18.00  CF Monterrey (MEX)      v Inter (ITA)
+  Sat Jun/21
+    12.00  Inter (ITA)             v Urawa Red Diamonds (JPN)
+    18.00  River Plate (ARG)       v CF Monterrey (MEX)
+  Wed Jun/25
+    18.00  Inter (ITA)             v River Plate (ARG)
+           Urawa Red Diamonds (JPN) v CF Monterrey (MEX)
+
+
+» Group F
+  Tue Jun/17
+    12.00  Fluminense RJ (BRA)     v Borussia Dortmund (GER)
+    18.00  Ulsan HD FC (KOR)       v Mamelodi Sundowns (RSA)
+  Sat Jun/21
+    12.00  Mamelodi Sundowns (RSA) v Borussia Dortmund (GER)
+    18.00  Fluminense RJ (BRA)     v Ulsan HD FC (KOR)
+  Wed Jun/25
+    15.00  Mamelodi Sundowns (RSA) v Fluminense RJ (BRA)
+           Borussia Dortmund (GER) v Ulsan HD FC (KOR)
+
+
+» Group G
+  Wed Jun/18
+    12.00  Manchester City (ENG)   v Wydad AC (MAR)
+    21.00  Al Ain FC (UAE)         v Juventus (ITA)
+  Sun Jun/22
+    12.00  Juventus (ITA)          v Wydad AC (MAR)
+    21.00  Manchester City (ENG)   v Al Ain FC (UAE)
+  Thu Jun/26
+    15.00  Juventus (ITA)          v Manchester City (ENG)
+           Wydad AC (MAR)          v Al Ain FC (UAE)
+
+
+» Group H
+  Wed Jun/18
+    15.00  Real Madrid (ESP)       v Al Hilal (KSA)
+    18.00  CF Pachuca (MEX)        v RB Salzburg (AUT)
+  Sun Jun/22
+    15.00  Real Madrid (ESP)       v CF Pachuca (MEX)
+    18.00  RB Salzburg (AUT)       v Al Hilal (KSA)
+  Thu Jun/26
+    20.00  RB Salzburg (AUT)       v Real Madrid (ESP)
+           Al Hilal (KSA)          v CF Pachuca (MEX)
+
+
+» Quarterfinals
+  Fri Jul/4
+    15.00  N.N.                    v N.N.
+    21.00  N.N.                    v N.N.
+  Sat Jul/5
+    12.00  N.N.                    v N.N.
+    16.00  N.N.                    v N.N.
+
+
+» Semifinals
+  Tue Jul/8
+    15.00  N.N.                    v N.N.
+  Wed Jul/9
+    15.00  N.N.                    v N.N.
+
+
+» Final
+  Sun Jul/13
+    15.00  N.N.                    v N.N.

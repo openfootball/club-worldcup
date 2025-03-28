@@ -1,0 +1,35 @@
+= Club World Cup 2005
+
+# Date       Sun Dec/11 - Sun Dec/18 2005 (7d)
+# Teams      6
+# Matches    7
+
+
+
+» Round 1
+  Sun Dec/11 2005
+    19.20  Al Ittihad (KSA)        v Al Ahly SC (EGY)         1-0 (0-0)
+  Mon Dec/12
+    19.20  Sydney FC (AUS)         v Deportivo Saprissa (CRC)  0-1 (0-0)
+
+
+» Semifinals
+  Wed Dec/14
+    19.20  Al Ittihad (KSA)        v São Paulo FC (BRA)       2-3 (1-1)
+  Thu Dec/15
+    19.20  Deportivo Saprissa (CRC) v Liverpool FC (ENG)       0-3 (0-2)
+
+
+» Match 5th place
+  Fri Dec/16
+    19.20  Al Ahly SC (EGY)        v Sydney FC (AUS)          1-2 (1-1)
+
+
+» Match 3rd place
+  Sun Dec/18
+    16.20  Al Ittihad (KSA)        v Deportivo Saprissa (CRC)  2-3 (1-1)
+
+
+» Final
+  Sun Dec/18
+    19.20  São Paulo FC (BRA)      v Liverpool FC (ENG)       1-0 (1-0)
