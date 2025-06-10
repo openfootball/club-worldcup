@@ -1,8 +1,9 @@
 = Club World Cup 2025
 
-# Date       Sat Jun/14 - Sun Jul/13 2025 (29d)
-# Teams      31
-# Matches    55
+# Date       Sat May/31 - Sun Jul/13 2025 (43d)
+# Teams      33
+# Matches    56
+# Stages     Regular Season (55)  Qualification (1)
 
 
 
@@ -10,8 +11,8 @@
   Sat Jun/14 2025
     20.00  Al Ahly SC (EGY)        v Inter Miami CF (USA)
   Sun Jun/15
-    16.00  Palmeiras (BRA)         v FC Porto (POR)
-  Wed Jun/18
+    18.00  Palmeiras (BRA)         v FC Porto (POR)
+  Thu Jun/19
     12.00  Palmeiras (BRA)         v Al Ahly SC (EGY)
     15.00  Inter Miami CF (USA)    v FC Porto (POR)
   Mon Jun/23
@@ -21,13 +22,13 @@
 
 » Group B
   Sun Jun/15
-    12.00  Paris Saint-Germain (FRA) v Atlético Madrid (ESP)
-    19.00  Botafogo RJ (BRA)       v Seattle Sounders (USA)
+    15.00  Paris Saint-Germain (FRA) v Atlético Madrid (ESP)
+    22.00  Botafogo RJ (BRA)       v Seattle Sounders (USA)
   Thu Jun/19
-    15.00  Seattle Sounders (USA)  v Atlético Madrid (ESP)
-    18.00  Paris Saint-Germain (FRA) v Botafogo RJ (BRA)
+    18.00  Seattle Sounders (USA)  v Atlético Madrid (ESP)
+    21.00  Paris Saint-Germain (FRA) v Botafogo RJ (BRA)
   Mon Jun/23
-    12.00  Seattle Sounders (USA)  v Paris Saint-Germain (FRA)
+    15.00  Seattle Sounders (USA)  v Paris Saint-Germain (FRA)
            Atlético Madrid (ESP)   v Botafogo RJ (BRA)
 
 
@@ -46,25 +47,25 @@
 
 » Group D
   Mon Jun/16
-    15.00  Chelsea FC (ENG)        v N.N.
+    15.00  Chelsea FC (ENG)        v Los Angeles FC (USA)
     21.00  Flamengo RJ (BRA)       v Espérance de Tunis (TUN)
   Fri Jun/20
     14.00  Flamengo RJ (BRA)       v Chelsea FC (ENG)
-    17.00  N.N.                    v Espérance de Tunis (TUN)
+    18.00  Los Angeles FC (USA)    v Espérance de Tunis (TUN)
   Tue Jun/24
-    21.00  N.N.                    v Flamengo RJ (BRA)
+    21.00  Los Angeles FC (USA)    v Flamengo RJ (BRA)
            Espérance de Tunis (TUN) v Chelsea FC (ENG)
 
 
 » Group E
   Tue Jun/17
-    12.00  River Plate (ARG)       v Urawa Red Diamonds (JPN)
-    18.00  CF Monterrey (MEX)      v Inter (ITA)
+    15.00  River Plate (ARG)       v Urawa Red Diamonds (JPN)
+    21.00  CF Monterrey (MEX)      v Inter (ITA)
   Sat Jun/21
-    12.00  Inter (ITA)             v Urawa Red Diamonds (JPN)
-    18.00  River Plate (ARG)       v CF Monterrey (MEX)
+    15.00  Inter (ITA)             v Urawa Red Diamonds (JPN)
+    21.00  River Plate (ARG)       v CF Monterrey (MEX)
   Wed Jun/25
-    18.00  Inter (ITA)             v River Plate (ARG)
+    21.00  Inter (ITA)             v River Plate (ARG)
            Urawa Red Diamonds (JPN) v CF Monterrey (MEX)
 
 
@@ -100,7 +101,7 @@
     15.00  Real Madrid (ESP)       v CF Pachuca (MEX)
     18.00  RB Salzburg (AUT)       v Al Hilal (KSA)
   Thu Jun/26
-    20.00  RB Salzburg (AUT)       v Real Madrid (ESP)
+    21.00  RB Salzburg (AUT)       v Real Madrid (ESP)
            Al Hilal (KSA)          v CF Pachuca (MEX)
 
 
@@ -123,3 +124,8 @@
 » Final
   Sun Jul/13
     15.00  N.N.                    v N.N.
+
+
+» Qualification, Playoffs
+  Sat May/31
+    22.30  Los Angeles FC (USA)    v CF América (MEX)         2-1 a.e.t. (1-1, 0-0)
