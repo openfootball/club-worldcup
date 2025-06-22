@@ -38,8 +38,8 @@
   Mon Jun/16
     18.00  Boca Juniors (ARG)      v SL Benfica (POR)         2-2 (2-1)
   Fri Jun/20
-    12.00  SL Benfica (POR)        v Auckland City FC (NZL)
-    21.00  Bayern München (GER)    v Boca Juniors (ARG)
+    12.00  SL Benfica (POR)        v Auckland City FC (NZL)  6-0 (1-0)
+    21.00  Bayern München (GER)    v Boca Juniors (ARG)      2-1 (1-0)
   Tue Jun/24
     15.00  SL Benfica (POR)        v Bayern München (GER)
            Auckland City FC (NZL)  v Boca Juniors (ARG)
@@ -50,8 +50,8 @@
     15.00  Chelsea FC (ENG)        v Los Angeles FC (USA)     2-0 (1-0)
     21.00  Flamengo RJ (BRA)       v Espérance de Tunis (TUN)  2-0 (1-0)
   Fri Jun/20
-    14.00  Flamengo RJ (BRA)       v Chelsea FC (ENG)
-    18.00  Los Angeles FC (USA)    v Espérance de Tunis (TUN)
+    14.00  Flamengo RJ (BRA)       v Chelsea FC (ENG)          3-1 (0-1)
+    18.00  Los Angeles FC (USA)    v Espérance de Tunis (TUN)  0-1 (0-0)
   Tue Jun/24
     21.00  Los Angeles FC (USA)    v Flamengo RJ (BRA)
            Espérance de Tunis (TUN) v Chelsea FC (ENG)
@@ -62,8 +62,8 @@
     15.00  River Plate (ARG)       v Urawa Red Diamonds (JPN)  3-1 (1-0)
     21.00  CF Monterrey (MEX)      v Inter (ITA)              1-1 (1-1)
   Sat Jun/21
-    15.00  Inter (ITA)             v Urawa Red Diamonds (JPN)
-    21.00  River Plate (ARG)       v CF Monterrey (MEX)
+    15.00  Inter (ITA)             v Urawa Red Diamonds (JPN)  2-1 (0-1)
+    21.00  River Plate (ARG)       v CF Monterrey (MEX)        0-0 (0-0)
   Wed Jun/25
     21.00  Inter (ITA)             v River Plate (ARG)
            Urawa Red Diamonds (JPN) v CF Monterrey (MEX)
@@ -74,8 +74,8 @@
     12.00  Fluminense RJ (BRA)     v Borussia Dortmund (GER)  0-0
     18.00  Ulsan HD FC (KOR)       v Mamelodi Sundowns (RSA)  0-1 (0-1)
   Sat Jun/21
-    12.00  Mamelodi Sundowns (RSA) v Borussia Dortmund (GER)
-    18.00  Fluminense RJ (BRA)     v Ulsan HD FC (KOR)
+    12.00  Mamelodi Sundowns (RSA) v Borussia Dortmund (GER)  3-4 (1-3)
+    18.00  Fluminense RJ (BRA)     v Ulsan HD FC (KOR)        4-2 (1-2)
   Wed Jun/25
     15.00  Mamelodi Sundowns (RSA) v Fluminense RJ (BRA)
            Borussia Dortmund (GER) v Ulsan HD FC (KOR)
