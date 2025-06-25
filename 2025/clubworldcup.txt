@@ -2,8 +2,8 @@
 
 # Date       Sat May/31 - Sun Jul/13 2025 (43d)
 # Teams      33
-# Matches    56
-# Stages     Regular Season (55)  Qualification (1)
+# Matches    60
+# Stages     Regular Season (59)  Qualification (1)
 
 
 
@@ -16,8 +16,8 @@
     12.00  Palmeiras (BRA)         v Al Ahly SC (EGY)         2-0 (0-0)
     15.00  Inter Miami CF (USA)    v FC Porto (POR)           2-1 (0-1)
   Mon Jun/23
-    21.00  Inter Miami CF (USA)    v Palmeiras (BRA)
-           FC Porto (POR)          v Al Ahly SC (EGY)
+    21.00  Inter Miami CF (USA)    v Palmeiras (BRA)          2-2 (1-0)
+           FC Porto (POR)          v Al Ahly SC (EGY)         4-4 (1-2)
 
 
 » Group B
@@ -28,8 +28,8 @@
     18.00  Seattle Sounders (USA)  v Atlético Madrid (ESP)    1-3 (0-1)
     21.00  Paris Saint-Germain (FRA) v Botafogo RJ (BRA)        0-1 (0-1)
   Mon Jun/23
-    15.00  Seattle Sounders (USA)  v Paris Saint-Germain (FRA)
-           Atlético Madrid (ESP)   v Botafogo RJ (BRA)
+    15.00  Seattle Sounders (USA)  v Paris Saint-Germain (FRA)  0-2 (0-1)
+           Atlético Madrid (ESP)   v Botafogo RJ (BRA)        1-0 (0-0)
 
 
 » Group C
@@ -38,11 +38,11 @@
   Mon Jun/16
     18.00  Boca Juniors (ARG)      v SL Benfica (POR)         2-2 (2-1)
   Fri Jun/20
-    12.00  SL Benfica (POR)        v Auckland City FC (NZL)  6-0 (1-0)
-    21.00  Bayern München (GER)    v Boca Juniors (ARG)      2-1 (1-0)
+    12.00  SL Benfica (POR)        v Auckland City FC (NZL)   6-0 (1-0)
+    21.00  Bayern München (GER)    v Boca Juniors (ARG)       2-1 (1-0)
   Tue Jun/24
-    15.00  SL Benfica (POR)        v Bayern München (GER)
-           Auckland City FC (NZL)  v Boca Juniors (ARG)
+    15.00  SL Benfica (POR)        v Bayern München (GER)     1-0 (1-0)
+           Auckland City FC (NZL)  v Boca Juniors (ARG)       1-1 (0-1)
 
 
 » Group D
@@ -50,11 +50,11 @@
     15.00  Chelsea FC (ENG)        v Los Angeles FC (USA)     2-0 (1-0)
     21.00  Flamengo RJ (BRA)       v Espérance de Tunis (TUN)  2-0 (1-0)
   Fri Jun/20
-    14.00  Flamengo RJ (BRA)       v Chelsea FC (ENG)          3-1 (0-1)
+    14.00  Flamengo RJ (BRA)       v Chelsea FC (ENG)         3-1 (0-1)
     18.00  Los Angeles FC (USA)    v Espérance de Tunis (TUN)  0-1 (0-0)
   Tue Jun/24
-    21.00  Los Angeles FC (USA)    v Flamengo RJ (BRA)
-           Espérance de Tunis (TUN) v Chelsea FC (ENG)
+    21.00  Los Angeles FC (USA)    v Flamengo RJ (BRA)        1-1 (0-0)
+           Espérance de Tunis (TUN) v Chelsea FC (ENG)         0-3 (0-2)
 
 
 » Group E
@@ -63,7 +63,7 @@
     21.00  CF Monterrey (MEX)      v Inter (ITA)              1-1 (1-1)
   Sat Jun/21
     15.00  Inter (ITA)             v Urawa Red Diamonds (JPN)  2-1 (0-1)
-    21.00  River Plate (ARG)       v CF Monterrey (MEX)        0-0 (0-0)
+    21.00  River Plate (ARG)       v CF Monterrey (MEX)       0-0
   Wed Jun/25
     21.00  Inter (ITA)             v River Plate (ARG)
            Urawa Red Diamonds (JPN) v CF Monterrey (MEX)
@@ -86,8 +86,8 @@
     12.00  Manchester City (ENG)   v Wydad AC (MAR)           2-0 (2-0)
     21.00  Al Ain FC (UAE)         v Juventus (ITA)           0-5 (0-4)
   Sun Jun/22
-    12.00  Juventus (ITA)          v Wydad AC (MAR)
-    21.00  Manchester City (ENG)   v Al Ain FC (UAE)
+    12.00  Juventus (ITA)          v Wydad AC (MAR)           4-1 (2-1)
+    21.00  Manchester City (ENG)   v Al Ain FC (UAE)          6-0 (3-0)
   Thu Jun/26
     15.00  Juventus (ITA)          v Manchester City (ENG)
            Wydad AC (MAR)          v Al Ain FC (UAE)
@@ -98,11 +98,20 @@
     15.00  Real Madrid (ESP)       v Al Hilal (KSA)           1-1 (1-1)
     18.00  CF Pachuca (MEX)        v RB Salzburg (AUT)        1-2 (0-1)
   Sun Jun/22
-    15.00  Real Madrid (ESP)       v CF Pachuca (MEX)
-    18.00  RB Salzburg (AUT)       v Al Hilal (KSA)
+    15.00  Real Madrid (ESP)       v CF Pachuca (MEX)         3-1 (2-0)
+    18.00  RB Salzburg (AUT)       v Al Hilal (KSA)           0-0
   Thu Jun/26
     21.00  RB Salzburg (AUT)       v Real Madrid (ESP)
            Al Hilal (KSA)          v CF Pachuca (MEX)
+
+
+» Round of 16
+  Sat Jun/28
+    12.00  Palmeiras (BRA)         v Botafogo RJ (BRA)
+    16.00  SL Benfica (POR)        v Chelsea FC (ENG)
+  Sun Jun/29
+    12.00  Paris Saint-Germain (FRA) v Inter Miami CF (USA)
+    16.00  Flamengo RJ (BRA)       v Bayern München (GER)
 
 
 » Quarterfinals
