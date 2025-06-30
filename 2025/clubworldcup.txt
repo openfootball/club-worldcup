@@ -65,8 +65,8 @@
     15.00  Inter (ITA)             v Urawa Red Diamonds (JPN)  2-1 (0-1)
     21.00  River Plate (ARG)       v CF Monterrey (MEX)       0-0
   Wed Jun/25
-    21.00  Inter (ITA)             v River Plate (ARG)
-           Urawa Red Diamonds (JPN) v CF Monterrey (MEX)
+    21.00  Inter (ITA)             v River Plate (ARG)        2-0 (0-0)
+           Urawa Red Diamonds (JPN) v CF Monterrey (MEX)      0-4 (0-3)
 
 
 » Group F
@@ -77,8 +77,8 @@
     12.00  Mamelodi Sundowns (RSA) v Borussia Dortmund (GER)  3-4 (1-3)
     18.00  Fluminense RJ (BRA)     v Ulsan HD FC (KOR)        4-2 (1-2)
   Wed Jun/25
-    15.00  Mamelodi Sundowns (RSA) v Fluminense RJ (BRA)
-           Borussia Dortmund (GER) v Ulsan HD FC (KOR)
+    15.00  Mamelodi Sundowns (RSA) v Fluminense RJ (BRA)      0-0
+           Borussia Dortmund (GER) v Ulsan HD FC (KOR)        1-0 (1-0)
 
 
 » Group G
@@ -89,8 +89,8 @@
     12.00  Juventus (ITA)          v Wydad AC (MAR)           4-1 (2-1)
     21.00  Manchester City (ENG)   v Al Ain FC (UAE)          6-0 (3-0)
   Thu Jun/26
-    15.00  Juventus (ITA)          v Manchester City (ENG)
-           Wydad AC (MAR)          v Al Ain FC (UAE)
+    15.00  Juventus (ITA)          v Manchester City (ENG)    2-5 (1-2)
+           Wydad AC (MAR)          v Al Ain FC (UAE)          1-2 (1-1)
 
 
 » Group H
@@ -101,25 +101,31 @@
     15.00  Real Madrid (ESP)       v CF Pachuca (MEX)         3-1 (2-0)
     18.00  RB Salzburg (AUT)       v Al Hilal (KSA)           0-0
   Thu Jun/26
-    21.00  RB Salzburg (AUT)       v Real Madrid (ESP)
-           Al Hilal (KSA)          v CF Pachuca (MEX)
+    21.00  RB Salzburg (AUT)       v Real Madrid (ESP)        0-3 (0-2)
+           Al Hilal (KSA)          v CF Pachuca (MEX)         2-0 (1-0)
 
 
 » Round of 16
   Sat Jun/28
-    12.00  Palmeiras (BRA)         v Botafogo RJ (BRA)
-    16.00  SL Benfica (POR)        v Chelsea FC (ENG)
+    12.00  Palmeiras (BRA)         v Botafogo RJ (BRA)        1-0 a.e.t. (0-0)
+    16.00  SL Benfica (POR)        v Chelsea FC (ENG)         1-4 a.e.t. (1-1)
   Sun Jun/29
-    12.00  Paris Saint-Germain (FRA) v Inter Miami CF (USA)
-    16.00  Flamengo RJ (BRA)       v Bayern München (GER)
+    12.00  Paris Saint-Germain (FRA) v Inter Miami CF (USA)   4-0 (4-0)
+    16.00  Flamengo RJ (BRA)       v Bayern München (GER)     2-4 (1-3)
+  Mon Jun/30
+    15.00  Inter (ITA)             v Fluminense RJ (BRA)
+    21.00  Manchester City (ENG)   v Al Hilal (KSA)
+  Tue Jun/01
+    15.00  Real Madrid (ESP)       v Juventus (ITA)
+    21.00  Borussia Dortmund (GER) v CF Monterrey (MEX)
 
 
 » Quarterfinals
   Fri Jul/4
     15.00  N.N.                    v N.N.
-    21.00  N.N.                    v N.N.
+    21.00  Palmeiras (BRA)         v Chelsea FC (ENG)
   Sat Jul/5
-    12.00  N.N.                    v N.N.
+    12.00  Paris Saint-Germain (FRA) v Bayern München (GER)
     16.00  N.N.                    v N.N.
 
 
