@@ -18,20 +18,20 @@ Free open public domain football data for the Club World Cup
 
 ...
 
-Semi-finals
-
-(4) Tue Dec/17 19:30   Guangzhou Evergrande FC  0-3  Bayern München    @ Stade Adrar, Agadir
-(6) Wed Dec/18 19:30   Raja Casablanca          3-1  Atlético Mineiro  @ Stade de Marrakech, Marrakesh
-
-
-Match for third place
-
-(7) Sat Dec/21 16:30   Guangzhou Evergrande  2-3  Atlético Mineiro   @ Stade de Marrakech, Marrakesh
+▪ Semi-finals
+Tue Dec 17
+  19:30   Guangzhou Evergrande FC  0-3  Bayern München    @ Stade Adrar, Agadir
+Wed Dec 18
+  19:30   Raja Casablanca          3-1  Atlético Mineiro  @ Stade de Marrakech, Marrakesh
 
 
-Final
+▪ Match for third place
+Sat Dec 21
+  16:30   Guangzhou Evergrande  2-3  Atlético Mineiro   @ Stade de Marrakech, Marrakesh
 
-(8) Sat Dec/21 19:30   Bayern München  2-0  Raja Casablanca   @ Stade de Marrakech, Marrakesh
+▪ Final
+Sat Dec 21
+  19:30   Bayern München  2-0  Raja Casablanca   @ Stade de Marrakech, Marrakesh
 ```
 
 
