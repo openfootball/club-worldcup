@@ -1,0 +1,193 @@
+= Club World Cup 2006     # 6 Teams
+
+== América (MEX)     # 23 Players
+
+       1, Guillermo OCHOA,               GK,  b. 1985/07/13
+      12, Alberto BECERRA,               GK,  b. 1979/01/31
+      21, Armando NAVARRETE,             GK,  b. 1980/11/22
+
+       2, Ismael RODRIGUEZ,              DF,  b. 1981/01/10
+       3, Jose CASTRO,                   DF,  b. 1980/08/11
+       4, Oscar ROJAS,                   DF,  b. 1981/08/02
+       5, Duilio DAVINO,                 DF,  b. 1976/03/21
+       6, Diego CERVANTES,               DF,  b. 1984/08/30
+      14, Carlos INFANTE,                DF,  b. 1982/02/14
+      15, Raul SALINAS,                  DF,  b. 1978/10/16
+      16, Ricardo ROJAS (CHI),           DF,  b. 1974/05/07
+
+      10, Cuauhtemoc BLANCO,             MF,  b. 1973/01/17
+      11, FABIANO (BRA),                 MF,  b. 1978/04/06
+      13, Juan MOSQUEDA,                 MF,  b. 1985/04/17
+      17, Ignacio TORRES,                MF,  b. 1983/09/25
+      18, German VILLA,                  MF,  b. 1973/04/02
+      19, Fabian PENA,                   MF,  b. 1973/06/19
+      20, Alejandro ARGUELLO,            MF,  b. 1982/01/25
+      22, Raul Alvin MENDOZA,            MF,  b. 1984/07/27
+
+       7, Claudio LOPEZ (ARG),           FW,  b. 1974/07/17
+       8, Matías VUOSO,                  FW,  b. 1981/11/03
+       9, Salvador CABANAS (PAR),        FW,  b. 1980/08/05
+      23, Nelson CUEVAS (PAR),           FW,  b. 1980/01/10
+
+       -, Luis Fernando Tena Garduño (MEX), MG,  b. 1958/01/20
+
+
+== Jeonbuk Motors (KOR)     # 23 Players
+
+       1, LEE Kwang Suk,                 GK,  b. 1975/03/05
+      21, KWOUN Suntae,                  GK,  b. 1984/09/11
+      23, SUNG Kyung Il,                 GK,  b. 1983/03/01
+
+       2, CHOI Chulsoon,                 DF,  b. 1987/02/08
+       4, CHOI Jin Cheul,                DF,  b. 1971/03/26
+       5, KIM Young Sun,                 DF,  b. 1975/04/03
+       6, KIM Hyun Su,                   DF,  b. 1973/02/14
+      11, WANG Jung Hyun,                DF,  b. 1976/08/30
+      16, LIM You Hwan,                  DF,  b. 1983/12/02
+      18, HEO Hoon Goo,                  DF,  b. 1983/06/25
+      20, KIM In Ho,                     DF,  b. 1983/06/09
+
+       7, JANG Ji Hyun,                  MF,  b. 1975/04/11
+       8, CHUNG Jung Kwan,               MF,  b. 1981/09/09
+       9, HAN Je Kwang,                  MF,  b. 1985/03/18
+      10, BOTTI (BRA),                   MF,  b. 1981/02/23
+      12, JEON Kwang Hwan,               MF,  b. 1982/07/29
+      13, SHIN Sang Hoon,                MF,  b. 1983/06/20
+      14, Lee HYUN-SEUNG,                MF,  b. 1988/12/14
+      17, KIM Young Sin,                 MF,  b. 1986/02/28
+      19, KWON Jip,                      MF,  b. 1984/02/13
+      22, KIM Hyeung Bum,                MF,  b. 1984/01/01
+
+       3, JUNG Soo Jong,                 FW,  b. 1987/05/01
+      15, ZECARLO (BRA),                 FW,  b. 1983/04/24
+
+       -, CHOI Kanghee (KOR),            MG,  b. 1959/04/12
+
+
+== Barcelona (ESP)     # 23 Players
+
+       1, Víctor VALDÉS,                 GK,  b. 1982/01/14
+      25, JORQUERA,                      GK,  b. 1979/03/03
+      28, RUBEN,                         GK,  b. 1984/06/22
+
+       2, BELLETTI (BRA),                DF,  b. 1976/06/20
+       4, Rafael MARQUEZ (MEX),          DF,  b. 1979/02/13
+       5, Carles PUYOL,                  DF,  b. 1978/04/13
+      11, Gianluca ZAMBROTTA (ITA),      DF,  b. 1977/02/19
+      12, Giovanni VAN BRONCKHORST (NED), DF,  b. 1975/02/05
+      15, EDMILSON (BRA),                DF,  b. 1976/07/10
+      16, SYLVINHO (BRA),                DF,  b. 1974/04/12
+      21, Lilian THURAM (FRA),           DF,  b. 1972/01/01
+      23, OLEGUER,                       DF,  b. 1980/02/02
+
+       3, Thiago MOTTA (ITA),            MF,  b. 1982/08/28
+       6, Xavi HERNANDEZ,                MF,  b. 1980/01/25
+      20, DECO (POR),                    MF,  b. 1977/08/27
+      24, Andres INIESTA,                MF,  b. 1984/05/11
+      32, MARC CROSAS,                   MF,  b. 1988/01/09
+
+       7, Eidur GUDJOHNSEN (ISL),        FW,  b. 1978/09/15
+       8, Ludovic GIULY (FRA),           FW,  b. 1976/07/10
+      10, RONALDINHO (BRA),              FW,  b. 1980/03/21
+      18, EZQUERRO,                      FW,  b. 1976/12/14
+      22, Javier SAVIOLA (ARG),          FW,  b. 1981/12/11
+      31, Giovani DOS SANTOS (MEX),      FW,  b. 1989/05/11
+
+       -, Frank RIJKAARD (NED),          MG,  b. 1962/09/30
+
+
+== Internacional (BRA)     # 23 Players
+
+       1, CLEMER,                        GK,  b. 1968/10/20
+      12, RENAN,                         GK,  b. 1985/01/24
+      22, MARCELO,                       GK,  b. 1984/11/28
+
+       2, CEARA,                         DF,  b. 1980/06/18
+       3, INDIO,                         DF,  b. 1975/02/14
+       4, FABIANO ELLER,                 DF,  b. 1977/11/19
+       6, Martin HIDALGO (PER),          DF,  b. 1976/06/15
+      13, EDIGLE,                        DF,  b. 1978/05/13
+      15, RUBENS CARDOSO,                DF,  b. 1976/09/06
+      21, ELDER GRANJA,                  DF,  b. 1982/07/02
+
+       5, WELLINGTON MONTEIRO,           MF,  b. 1978/09/07
+       7, ALEX,                          MF,  b. 1982/03/25
+       8, EDINHO,                        MF,  b. 1983/01/15
+      14, FABINHO,                       MF,  b. 1976/10/16
+      16, ADRIANO,                       MF,  b. 1977/08/11
+      17, Fabián VARGAS (COL),           MF,  b. 1980/04/17
+      19, LEO,                           MF,  b. 1983/12/14
+      20, PERDIGAO,                      MF,  b. 1977/06/28
+
+       9, FERNANDAO,                     FW,  b. 1978/03/18
+      10, IARLEY,                        FW,  b. 1974/03/29
+      11, ALEXANDRE PATO,                FW,  b. 1989/09/02
+      18, LUIZ ADRIANO,                  FW,  b. 1987/04/12
+      23, MICHEL,                        FW,  b. 1980/07/13
+
+       -, ABEL (BRA),                    MG,  b. 1952/09/01
+
+
+== Al Ahly FC (EGY)     # 23 Players
+
+       1, ESSAM ELHADARY,                GK,  b. 1973/01/15
+      19, Amir ABDELHAMID,               GK,  b. 1979/04/24
+      21, Nader EL SAYED,                GK,  b. 1972/12/31
+
+       2, Islam EL SHATER,               DF,  b. 1976/11/16
+       3, Tarek SAID,                    DF,  b. 1978/04/05
+       4, Emad EL NAHAS,                 DF,  b. 1976/02/15
+       5, Ahmed EL SAYED,                DF,  b. 1980/10/30
+       6, WAEL GOMAA,                    DF,  b. 1975/08/03
+       7, Shady MOHAMED,                 DF,  b. 1977/11/29
+       8, AHMED SEDIK,                   DF,  b. 1983/08/16
+      11, Mohamed ABDELLAH,              DF,  b. 1981/05/23
+      12, Ahmed Shadid,                  DF,  b. 1986/01/01
+      15, Abdellah GALAL,                DF,  b. 1986/01/20
+      20, MOHAMED SEDIK,                 DF,  b. 1978/11/25
+
+      10, WAEL RIAD,                     MF,  b. 1982/08/02
+      13, Hossam ASHOUR,                 MF,  b. 1986/03/09
+      14, Hassan MOSTAFA,                MF,  b. 1979/11/20
+      16, Akwety MENSAH (GHA),           MF,  b. 1983/04/15
+      17, MOHAMED SHAWKY,                MF,  b. 1981/10/05
+
+       9, EMAD METEAB,                   FW,  b. 1983/02/20
+      18, Osama HOSNY,                   FW,  b. 1982/06/18
+      22, Mohamed ABOUTRIKA,             FW,  b. 1978/11/07
+      23, FLAVIO (ANG),                  FW,  b. 1979/12/30
+
+       -, MANUEL JOSE (POR),             MG,  b. 1946/04/09
+
+
+== Auckland City FC (NZL)     # 22 Players
+
+       1, Ross NICHOLSON,                GK,  b. 1975/08/08
+      12, Richard GILLESPIE,             GK,  b. 1981/09/14
+      23, Mark FULCHER,                  GK,  b. 1976/03/29
+
+       3, Ben SIGMUND,                   DF,  b. 1981/02/03
+       5, Jonathan PERRY,                DF,  b. 1976/11/22
+       7, James PRITCHETT,               DF,  b. 1982/07/01
+      13, Cole TINKLER,                  DF,  b. 1986/05/05
+      17, Paul VODANOVICH,               DF,  b. 1984/02/25
+      18, Luiz DEL MONTE (BRA),          DF,  b. 1980/03/09
+      20, Greg UHLMANN,                  DF,  b. 1977/04/11
+      21, Riki VAN STEEDEN,              DF,  b. 1976/12/24
+
+       2, Jason HAYNE,                   MF,  b. 1986/07/08
+       4, Paul SEAMAN (WAL),             MF,  b. 1975/05/21
+       6, Liam MULROONEY (ENG),          MF,  b. 1978/03/28
+       8, Jonathan SMITH,                MF,  b. 1978/09/02
+      11, Neil SYKES (ENG),              MF,  b. 1974/12/17
+      16, Teru IWAMOTO (JPN),            MF,  b. 1972/05/02
+      19, Chad COOMBES,                  MF,  b. 1983/09/09
+      22, Bryan LITTLE (SCO),            MF,  b. 1978/05/18
+
+       9, Paul URLOVIC,                  FW,  b. 1978/11/21
+      10, Grant YOUNG (RSA),             FW,  b. 1971/03/03
+      14, Keryn JORDAN (RSA),            FW,  b. 1975/11/01
+
+       -, Allan JONES (NZL),             MG,  b. 1940/07/06
+
+

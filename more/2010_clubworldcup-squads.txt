@@ -1,0 +1,223 @@
+= Club World Cup 2010     # 7 Teams
+
+== Hekari United FC (PNG)     # 23 Players
+
+       1, Simione TAMANISAU (FIJ),       GK,  b. 1982/06/05
+      20, Gure GABINA,                   GK,  b. 1985/01/31
+      22, David AUA,                     GK,  b. 1978/11/26
+
+       2, OMO (SOL),                     DF,  b. 1976/10/12
+       4, Trevor IRE,                    DF,  b. 1980/11/09
+      13, Andrew LEPANI,                 DF,  b. 1979/08/28
+      16, Pita BOLATOGA (FIJ),           DF,  b. 1984/11/30
+      19, Koriak UPAIGA,                 DF,  b. 1987/06/13
+      25, Alvin SINGH (FIJ),             DF,  b. 1988/06/09
+
+       6, Abraham INIGA (SOL),           MF,  b. 1979/11/21
+       7, Benjamin MELA (SOL),           MF,  b. 1983/09/07
+      12, David MUTA,                    MF,  b. 1987/10/24
+      14, Niel HANS,                     MF,  b. 1988/04/24
+      15, Samuel KINI,                   MF,  b. 1986/10/10
+      18, Eric KOMENG,                   MF,  b. 1984/06/16
+      21, Malakai TIWA (FIJ),            MF,  b. 1986/10/03
+      28, Henry FAARODO (SOL),           MF,  b. 1982/10/05
+
+       9, Tuimasi MANUCA (FIJ),          FW,  b. 1985/05/14
+      10, Osea VAKATALESAU (FIJ),        FW,  b. 1986/01/15
+      11, Joachim WAROI (SOL),           FW,  b. 1988/09/20
+      17, Kema JACK,                     FW,  b. 1982/01/10
+      23, Ian YANUM,                     FW,  b. 1983/02/11
+      27, Rex HONU (SOL),                FW,  b. 1984/07/17
+
+       -, Tommy MANA (SOL),              MG,  b. 1970/07/26
+
+
+== Al-Wahda Sports Club (UAE)     # 23 Players
+
+       1, MUTAZ ABDULLA,                 GK,  b. 1974/11/08
+      18, Ali AL HOSANI,                 GK,  b. 1988/05/26
+      40, Adel AL HOSANI,                GK,  b. 1989/08/23
+
+       8, Omar AHMED,                    DF,  b. 1981/06/16
+      13, Talal AL JNEIBI,               DF,  b. 1986/03/23
+      21, BASHEER SAEED,                 DF,  b. 1981/06/28
+      23, Haidar Mohamed,                DF,  b. 1979/12/25
+      26, MAHMOUD KHAMIS,                DF,  b. 1987/10/28
+      28, EISA AHMED,                    DF,  b. 1987/01/13
+      36, HAMDAN AL KAMALI,              DF,  b. 1989/05/02
+
+       2, YAQOUB AL HOSANI,              MF,  b. 1987/06/01
+       6, MAGRAO (BRA),                  MF,  b. 1978/12/20
+      12, KHALID JALAL,                  MF,  b. 1991/04/05
+      15, FAHED MASOUD,                  MF,  b. 1980/12/31
+      24, ABDULRAHEEM JUMAA,             MF,  b. 1979/05/23
+      39, AMER BAZUHAIR,                 MF,  b. 1991/06/07
+      80, HUGO (BRA),                    MF,  b. 1980/10/27
+
+       7, Mohamed AL SHEHHI,             FW,  b. 1988/03/28
+       9, FERNANDO BAIANO (BRA),         FW,  b. 1979/03/18
+      10, ISMAEIL MATAR,                 FW,  b. 1983/04/07
+      11, SAEED AL KATHIRI,              FW,  b. 1988/03/28
+      20, Modibi DIARRA (CIV),           FW,  b. 1983/07/01
+      27, SALEM SALEH,                   FW,  b. 1991/05/14
+
+       -, Josef HICKERSBERGER (AUT),     MG,  b. 1948/04/27
+
+
+== Internacional (BRA)     # 22 Players
+
+       1, RENAN,                         GK,  b. 1985/01/24
+      22, Roberto ABBONDANZIERI (ARG),   GK,  b. 1972/08/19
+      23, LAURO,                         GK,  b. 1980/09/03
+
+       2, BOLIVAR,                       DF,  b. 1980/08/16
+       3, INDIO,                         DF,  b. 1975/02/14
+       4, NEI,                           DF,  b. 1985/12/06
+       6, KLEBER,                        DF,  b. 1980/04/01
+      14, RONALDO ALVES,                 DF,  b. 1989/07/09
+      16, JUAN JESUS,                    DF,  b. 1991/06/10
+      21, DANIEL,                        DF,  b. 1990/09/14
+
+       5, Pablo GUINAZU (ARG),           MF,  b. 1978/08/26
+       7, TINGA,                         MF,  b. 1978/01/13
+       8, GIULIANO,                      MF,  b. 1990/05/31
+      10, Andres D ALESSANDRO (ARG),     MF,  b. 1981/04/15
+      12, DERLEY,                        MF,  b. 1986/08/02
+      15, SASHA,                         MF,  b. 1992/02/24
+      17, ANDREZINHO,                    MF,  b. 1983/07/30
+      18, OSCAR,                         MF,  b. 1991/09/09
+      20, WILSON MATIAS,                 MF,  b. 1983/09/14
+
+       9, ALECSANDRO,                    FW,  b. 1981/02/04
+      11, RAFAEL SOBIS,                  FW,  b. 1985/06/17
+      19, LEANDRO DAMIAO,                FW,  b. 1989/07/22
+
+       -, Celso ROTH (BRA),              MG,  b. 1957/11/30
+
+
+== Seongnam (KOR)     # 22 Players
+
+       1, JUNG Sungryong,                GK,  b. 1985/01/04
+      31, LEE Sang Gi,                   GK,  b. 1987/03/08
+      41, KANG Sung Kwan,                GK,  b. 1987/11/06
+
+       2, KO Jae Sung,                   DF,  b. 1985/01/28
+       3, YUN Youngsun,                  DF,  b. 1988/10/04
+       4, Sasa OGNENOVSKI (AUS),         DF,  b. 1979/04/03
+       5, CHO Byung Kuk,                 DF,  b. 1981/07/01
+      13, JEONG Ho Jeong,                DF,  b. 1988/09/01
+      16, KIM Sung Hwan,                 DF,  b. 1986/12/15
+      22, HONG Chul,                     DF,  b. 1990/09/17
+      26, JANG Suk Won,                  DF,  b. 1989/08/11
+      38, YONG Hyun Jin,                 DF,  b. 1988/07/19
+
+       6, CHEON Kwang Jin,               MF,  b. 1981/06/30
+      11, Mauricio MOLINA (COL),         MF,  b. 1980/04/30
+      30, JO Jae Cheol,                  MF,  b. 1986/05/18
+      32, PARK Sang Hee,                 MF,  b. 1987/12/02
+
+       8, CHOI Sung Kuk,                 FW,  b. 1983/02/08
+       9, Cho Dong-Gun,                  FW,  b. 1986/04/16
+      10, RADONCIC Dzenan (MNE),         FW,  b. 1983/08/02
+      14, SONG Ho Young,                 FW,  b. 1988/01/21
+      18, NAMKUNG Do,                    FW,  b. 1982/06/04
+      20, KIM Jin Ryong,                 FW,  b. 1982/10/09
+
+       -, Tae-Yong Shin (KOR),           MG,  b. 1970/10/11
+
+
+== Internazionale (ITA)     # 23 Players
+
+       1, JULIO CESAR (BRA),             GK,  b. 1979/09/03
+      12, Luca CASTELLAZZI,              GK,  b. 1975/07/19
+      21, Paolo ORLANDONI,               GK,  b. 1972/08/12
+
+       2, Ivan CORDOBA (COL),            DF,  b. 1976/08/11
+       4, Javier ZANETTI,                DF,  b. 1973/08/10
+       6, LUCIO (BRA),                   DF,  b. 1978/05/08
+      13, MAICON (BRA),                  DF,  b. 1981/07/26
+      23, Marco MATERAZZI,               DF,  b. 1973/08/19
+      26, Cristian CHIVU (ROU),          DF,  b. 1980/10/26
+      36, Simone BENEDETTI,              DF,  b. 1992/04/03
+      39, Davide Santon,                 DF,  b. 1991/01/02
+
+       5, Dejan STANKOVIC (SRB),         MF,  b. 1978/09/11
+       8, Thiago MOTTA,                  MF,  b. 1982/08/28
+      10, Wesley SNEIJDER (NED),         MF,  b. 1984/06/09
+      11, Sulley MUNTARI (GHA),          MF,  b. 1984/08/27
+      17, McDonald MARIGA (KEN),         MF,  b. 1987/04/04
+      19, Esteban CAMBIASSO (ARG),       MF,  b. 1980/08/18
+      40, Obiora NWANKWO (NGA),          MF,  b. 1991/07/12
+      88, Jonathan BIABIANY (FRA),       MF,  b. 1988/04/28
+
+       9, Samuel ETOO (CMR),             FW,  b. 1981/03/10
+      22, Diego MILITO (ARG),            FW,  b. 1979/06/12
+      27, Goran PANDEV (MKD),            FW,  b. 1983/07/27
+      31, Denis Alibec (ROU),            FW,  b. 1991/01/05
+
+       -, Rafael BENITEZ (ESP),          MG,  b. 1960/04/16
+
+
+== Pachuca (MEX)     # 23 Players
+
+       1, Miguel CALERO (COL),           GK,  b. 1971/04/14
+      23, Carlos VELAZQUEZ,              GK,  b. 1984/06/02
+      30, Rodolfo COTA,                  GK,  b. 1987/07/03
+
+       2, Leobardo López,                DF,  b. 1983/09/04
+       4, Marco PEREZ,                   DF,  b. 1987/12/09
+      12, Juan Carlos ROJAS,             DF,  b. 1984/06/06
+      14, Daniel ARREOLA,                DF,  b. 1985/10/08
+      16, Carlos GERARDO RODRÍGUEZ,      DF,  b. 1985/04/16
+      22, Paul AGUILAR,                  DF,  b. 1986/03/06
+      26, Javier MUNOZ (ARG),            DF,  b. 1980/06/11
+
+       6, Marco VIDAL,                   MF,  b. 1986/02/21
+       7, Edy BRAMBILA,                  MF,  b. 1986/01/15
+      11, Braulio LUNA,                  MF,  b. 1974/09/08
+      15, Luis MONTES,                   MF,  b. 1986/05/15
+      18, José TORRES (USA),             MF,  b. 1987/10/29
+      21, Alejandro MANSO (ARG),         MF,  b. 1979/06/06
+      24, Raul MARTINEZ,                 MF,  b. 1987/04/01
+      27, Carlos PENA,                   MF,  b. 1990/03/29
+
+       9, Herculez GOMEZ (USA),          FW,  b. 1982/04/06
+      10, Edgar BENITEZ (PAR),           FW,  b. 1987/11/08
+      13, Victor MANON,                  FW,  b. 1992/02/06
+      19, Dario CVITANICH (ARG),         FW,  b. 1984/05/16
+      25, Franco ARIZALA (COL),          FW,  b. 1986/06/04
+
+       -, Pablo Alejandro Marini (ARG),  MG,  b. 1967/01/31
+
+
+== TP Mazembe (COD)     # 22 Players
+
+       1, Robert KIDIABA,                GK,  b. 1976/02/01
+      21, Aime BAKULA,                   GK,  b. 1985/02/14
+      22, Laurent NGOME (CMR),           GK,  b. 1983/02/23
+
+       2, Joel KIMWAKI,                  DF,  b. 1986/10/14
+       3, Kiritcho KASUSULA,             DF,  b. 1982/08/05
+       4, Miala NKULUKUTA,               DF,  b. 1982/09/06
+       5, Mukinayi TSHANI,               DF,  b. 1978/09/04
+      12, Bawaka MABELE,                 DF,  b. 1989/07/09
+      28, Tshizeu KANYIMBU,              DF,  b. 1976/06/02
+
+      13, Mbenza BEDI,                   MF,  b. 1984/09/11
+      16, Stoppila SUNZU (ZAM),          MF,  b. 1989/06/22
+      20, Pamphile MIHAYO,               MF,  b. 1976/09/17
+      24, Narcisse EKANGA (EQG),         MF,  b. 1985/07/30
+      30, Lufulwabo KAYEMBE,             MF,  b. 1987/08/09
+
+       6, Deo KANDA,                     FW,  b. 1989/08/11
+       7, Patient MWEPU,                 FW,  b. 1987/12/06
+       8, Mianga NDONGA,                 FW,  b. 1992/05/02
+      10, Given SINGULUMA (ZAM),         FW,  b. 1986/07/19
+      11, Patou Kabangu,                 FW,  b. 1985/12/31
+      15, Alain KALUYITUKA,              FW,  b. 1987/01/02
+      18, Luyeye MVETE,                  FW,  b. 1981/04/28
+      27, Ngandu KASONGO,                FW,  b. 1981/12/06
+
+       -, Lamine N DIAYE (SEN),          MG,  b. 1956/10/18
+
+

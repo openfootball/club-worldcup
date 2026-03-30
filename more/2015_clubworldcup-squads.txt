@@ -1,0 +1,226 @@
+= Club World Cup 2015     # 7 Teams
+
+== Barcelona (ESP)     # 23 Players
+
+       1, Marc-Andre TER STEGEN (GER),   GK,  b. 1992/04/30
+      13, Claudio BRAVO (CHI),           GK,  b. 1983/04/13
+      25, Jordi MASIP,                   GK,  b. 1989/01/03
+
+       2, DOUGLAS (BRA),                 DF,  b. 1990/08/06
+       3, Gerard PIQUE,                  DF,  b. 1987/02/02
+       6, DANI ALVES (BRA),              DF,  b. 1983/05/06
+      14, Javier MASCHERANO (ARG),       DF,  b. 1984/06/08
+      15, Marc BARTRA,                   DF,  b. 1991/01/15
+      18, Jordi ALBA,                    DF,  b. 1989/03/21
+      21, ADRIANO (BRA),                 DF,  b. 1984/10/26
+      23, Thomas VERMAELEN (BEL),        DF,  b. 1985/11/14
+      24, Jérémy MATHIEU (FRA),          DF,  b. 1983/10/29
+
+       4, Ivan RAKITIC (CRO),            MF,  b. 1988/03/10
+       5, Sergio BUSQUETS,               MF,  b. 1988/07/16
+      20, Sergi ROBERTO,                 MF,  b. 1992/02/07
+      26, Sergi SAMPER,                  MF,  b. 1995/01/20
+      28, Gerard GUMBAU,                 MF,  b. 1994/12/18
+
+       8, Andres INIESTA,                FW,  b. 1984/05/11
+       9, Luis SUAREZ (URU),             FW,  b. 1987/01/24
+      10, Lionel MESSI (ARG),            FW,  b. 1987/06/24
+      11, NEYMAR (BRA),                  FW,  b. 1992/02/05
+      17, Munir EL HADDADI (MAR),        FW,  b. 1995/09/01
+      19, Sandro RAMIREZ,                FW,  b. 1995/07/09
+
+       -, Luis Enrique Martínez García (ESP), MG,  b. 1970/05/08
+
+
+== River Plate (ARG)     # 23 Players
+
+       1, Marcelo BAROVERO,              GK,  b. 1984/02/18
+      12, Augusto BATALLA,               GK,  b. 1996/04/30
+      26, Julio CHIARINI,                GK,  b. 1982/03/04
+
+       2, Jonatan MAIDANA,               DF,  b. 1985/07/29
+       3, Eder BALANTA (COL),            DF,  b. 1993/02/28
+       6, Leandro VEGA,                  DF,  b. 1996/05/27
+      20, Milton CASCO,                  DF,  b. 1988/04/11
+      21, Leonel VANGIONI,               DF,  b. 1987/05/05
+      24, Emanuel MAMMANA,               DF,  b. 1996/02/10
+      25, Gabriel MERCADO,               DF,  b. 1987/03/18
+
+       5, Matias KRANEVITTER,            MF,  b. 1993/05/21
+       8, Carlos SANCHEZ (URU),          MF,  b. 1984/12/02
+      10, Gonzalo MARTINEZ,              MF,  b. 1993/06/13
+      15, Leonardo PISCULICHI,           MF,  b. 1984/01/18
+      16, Nicolas BERTOLO,               MF,  b. 1986/01/02
+      18, Camilo MAYADA (URU),           MF,  b. 1991/01/08
+      23, Leonardo PONZIO,               MF,  b. 1982/01/29
+      27, Luis GONZALEZ,                 MF,  b. 1981/01/19
+
+       7, Rodrigo MORA (URU),            FW,  b. 1987/10/29
+      11, Javier SAVIOLA,                FW,  b. 1981/12/11
+      13, Lucas ALARIO,                  FW,  b. 1992/10/08
+      19, Tabare VIUDEZ (URU),           FW,  b. 1989/09/08
+      22, Sebastian DRIUSSI,             FW,  b. 1996/02/09
+
+       -, Marcelo Daniel Gallardo (ARG), MG,  b. 1976/01/18
+
+
+== Sanfrecce Hiroshima (JPN)     # 23 Players
+
+       1, Takuto Hayashi,                GK,  b. 1982/08/09
+      13, Takuya MASUDA,                 GK,  b. 1989/06/29
+      21, Ryotaro Hironaga,              GK,  b. 1990/01/09
+
+       4, Hiroki MIZUMOTO,               DF,  b. 1985/09/12
+       5, Kazuhiko CHIBA,                DF,  b. 1985/06/21
+      19, Sho Sasaki,                    DF,  b. 1989/10/02
+      33, Tsukasa Shiotani,              DF,  b. 1988/12/05
+      34, Soya TAKAHASHI,                DF,  b. 1996/02/29
+
+       6, Toshihiro Aoyama,              MF,  b. 1986/02/22
+       8, Kazuyuki MORISAKI,             MF,  b. 1981/05/09
+      14, Mihael MIKIC (CRO),            MF,  b. 1980/01/06
+      16, Satoru YAMAGISHI,              MF,  b. 1983/05/03
+      18, Yoshifumi Kashiwa,             MF,  b. 1987/07/28
+      24, Gakuto Notsuda,                MF,  b. 1994/06/06
+      25, Yusuke Chajima,                MF,  b. 1991/07/20
+      27, Kohei SHIMIZU,                 MF,  b. 1989/04/30
+      28, Takuya MARUTANI,               MF,  b. 1989/05/30
+      30, Kosei Shibasaki,               MF,  b. 1984/08/28
+      37, Kazuya Miyahara,               MF,  b. 1996/03/22
+
+       9, DOUGLAS (BRA),                 FW,  b. 1987/12/30
+      11, Hisato SATO,                   FW,  b. 1982/03/12
+      22, Yusuke MINAGAWA,               FW,  b. 1991/10/09
+      29, Takuma ASANO,                  FW,  b. 1994/11/10
+
+       -, Hajime Moriyasu (JPN),         MG,  b. 1968/08/23
+
+
+== Auckland City FC (NZL)     # 23 Players
+
+       1, Jacob SPOONLEY,                GK,  b. 1987/03/03
+      18, Danyon DRAKE,                  GK,  b. 1993/12/12
+      24, Liam ANDERSON,                 GK,  b. 1994/10/20
+
+       2, Marko DORDEVIC (SRB),          DF,  b. 1983/05/22
+       3, Takuya IWATA (JPN),            DF,  b. 1983/04/22
+       4, Mario BILEN (CRO),             DF,  b. 1985/01/23
+       5, Angel BERLANGA (ESP),          DF,  b. 1987/02/24
+       6, Jesse EDGE,                    DF,  b. 1995/02/26
+       8, Michael DEN HEIJER,            DF,  b. 1996/04/14
+      22, Andrew MILNE,                  DF,  b. 1992/01/03
+
+       7, Mikel ALVARO (ESP),            MF,  b. 1982/12/20
+       9, Darren WHITE (ENG),            MF,  b. 1989/03/24
+      11, Te Atawhai HUDSON-WIHONGI,     MF,  b. 1995/03/27
+      12, Adam MCGEORGE,                 MF,  b. 1989/03/30
+      13, Alfred ROGERS (ENG),           MF,  b. 1995/02/06
+      14, Clayton LEWIS,                 MF,  b. 1997/02/12
+      16, KIM Daewook (KOR),             MF,  b. 1987/11/23
+      19, Micah LEAALAFA (SOL),          MF,  b. 1991/06/01
+      23, Sam BURFOOT (ENG),             MF,  b. 1994/04/10
+
+      10, Ryan DE VRIES,                 FW,  b. 1991/09/14
+      17, Joao MOREIRA (POR),            FW,  b. 1986/02/07
+      20, Emiliano TADE (ARG),           FW,  b. 1988/03/03
+      21, Nathanael HAILEMARIAM,         FW,  b. 1994/03/08
+
+       -, Ramon TRIBULIETX (ESP),        MG,  b. 1972/09/20
+
+
+== Guangzhou FC (CHN)     # 23 Players
+
+      13, FANG Jingqi,                   GK,  b. 1993/01/17
+      19, ZENG Cheng,                    GK,  b. 1987/01/08
+      22, LI Shuai,                      GK,  b. 1982/08/18
+
+       3, MEI Fang,                      DF,  b. 1989/11/14
+       5, ZHANG Linpeng,                 DF,  b. 1989/05/09
+       6, FENG Xiaoting,                 DF,  b. 1985/10/22
+      17, LIU Jian,                      DF,  b. 1985/01/20
+      25, ZOU Zheng,                     DF,  b. 1988/02/07
+      28, KIM Younggwon (KOR),           DF,  b. 1990/02/27
+      33, Rong HAO,                      DF,  b. 1987/04/07
+      35, LI Xuepeng,                    DF,  b. 1988/09/18
+
+       8, PAULINHO (BRA),                MF,  b. 1988/07/25
+      10, ZHENG Zhi,                     MF,  b. 1980/08/20
+      12, WANG Shangyuan,                MF,  b. 1993/06/02
+      16, HUANG Bowen,                   MF,  b. 1987/07/13
+      21, ZHAO Xuri,                     MF,  b. 1985/12/03
+      27, ZHENG Long,                    MF,  b. 1988/04/15
+
+       7, ALAN (BRA),                    FW,  b. 1989/07/10
+       9, ELKESON (BRA),                 FW,  b. 1989/07/13
+      11, GOULART (BRA),                 FW,  b. 1991/06/05
+      20, YU Hanchao,                    FW,  b. 1987/02/25
+      29, GAO Lin,                       FW,  b. 1986/02/14
+      56, ROBINHO (BRA),                 FW,  b. 1984/01/25
+
+       -, Luiz Elena Felipe Scolari (BRA), MG,  b. 1948/11/09
+
+
+== América (MEX)     # 23 Players
+
+       1, Hugo GONZALEZ,                 GK,  b. 1990/08/01
+      13, Luis PINEDA,                   GK,  b. 1992/12/28
+      23, Moises MUNOZ,                  GK,  b. 1980/02/01
+
+       2, Paolo GOLTZ (ARG),             DF,  b. 1985/05/12
+       3, Gil BURON,                     DF,  b. 1994/06/11
+       4, Erik PIMENTEL,                 DF,  b. 1990/05/15
+       6, Miguel SAMUDIO (PAR),          DF,  b. 1986/08/24
+      12, Pablo AGUILAR (PAR),           DF,  b. 1987/04/02
+      15, Osmar MARES,                   DF,  b. 1987/06/17
+      17, Ventura ALVARADO (USA),        DF,  b. 1992/08/16
+
+       8, Andres ANDRADE (COL),          MF,  b. 1989/02/23
+      10, Osvaldo MARTINEZ (PAR),        MF,  b. 1986/04/08
+      14, Rubens SAMBUEZA (ARG),         MF,  b. 1984/01/01
+      18, Carlos ROSEL,                  MF,  b. 1995/08/31
+      21, José GUERRERO,                 MF,  b. 1987/11/18
+      22, Paul AGUILAR,                  MF,  b. 1986/03/06
+
+       9, Dario BENEDETTO (ARG),         FW,  b. 1990/05/17
+      11, Michael ARROYO (ECU),          FW,  b. 1987/04/23
+      16, Diego PINEDA,                  FW,  b. 1995/04/08
+      19, Martin ZUNIGA,                 FW,  b. 1993/04/14
+      24, Oribe PERALTA,                 FW,  b. 1984/01/12
+      26, Francisco RIVERA,              FW,  b. 1994/09/23
+      31, Carlos Quintero (COL),         FW,  b. 1987/09/19
+
+       -, Marcos Ignacio Ambríz Espinoza (MEX), MG,  b. 1965/02/07
+
+
+== TP Mazembe (COD)     # 23 Players
+
+       1, Robert KIDIABA,                GK,  b. 1976/02/01
+      21, Aime BAKULA,                   GK,  b. 1985/02/14
+      22, Sylvain GBOHOUO (CIV),         GK,  b. 1988/10/29
+
+       2, Joel KIMWAKI,                  DF,  b. 1986/10/14
+       5, Patient MWEPU,                 DF,  b. 1987/12/06
+       6, Salif COULIBALY (MLI),         DF,  b. 1988/05/13
+      14, Kabaso CHONGO (ZAM),           DF,  b. 1992/02/11
+      24, Yaw FRIMPONG (GHA),            DF,  b. 1986/12/04
+      27, Richard BOATENG (GHA),         DF,  b. 1988/11/25
+
+       4, Nathan SINKALA (ZAM),          MF,  b. 1990/11/22
+       7, Roger ASSALE (CIV),            MF,  b. 1993/11/13
+      10, Given SINGULUMA (ZAM),         MF,  b. 1986/07/19
+      12, Bope BOKADI,                   MF,  b. 1992/05/21
+      16, Koffi KOUAME (CIV),            MF,  b. 1990/12/21
+      18, Rainford KALABA (ZAM),         MF,  b. 1986/08/14
+      19, Daniel ADJEI (GHA),            MF,  b. 1988/06/17
+      23, Gladson AWAKO (GHA),           MF,  b. 1990/12/31
+      29, Boubacar DIARRA (MLI),         MF,  b. 1994/04/18
+
+       9, Mbwana SAMATTA (TAN),          FW,  b. 1992/12/23
+      11, Adama TRAORE (MLI),            FW,  b. 1995/06/05
+      17, Jonathan BOLINGI,              FW,  b. 1994/06/30
+      20, Solomon ASANTE (GHA),          FW,  b. 1990/03/06
+      28, Thomas ULIMWENGU (TAN),        FW,  b. 1993/06/14
+
+       -, Patrice Carteron (FRA),        MG,  b. 1970/07/30
+
+

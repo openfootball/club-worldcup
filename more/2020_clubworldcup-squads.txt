@@ -1,0 +1,194 @@
+= Club World Cup 2020     # 6 Teams
+
+== Al Duhail (QAT)     # 23 Players
+
+       1, MOHAMMED ALBAKARI,             GK,  b. 1997/03/28
+      16, KHALIFA ABABACAR,              GK,  b. 1989/07/07
+      21, SALAH ZAKARIA,                 GK,  b. 1999/04/24
+
+       2, MOHAMED MOUSSA,                DF,  b. 1986/01/01
+       3, ALI MALOLAH,                   DF,  b. 1999/02/26
+       4, BENATIA Mehdi (MAR),           DF,  b. 1987/04/17
+       5, BASSAM HISHAM,                 DF,  b. 1997/12/16
+       6, AHMED YASSER,                  DF,  b. 1994/05/17
+       7, ISMAIL MOHAMAD,                DF,  b. 1990/04/05
+      18, SULTAN AL BRAKE,               DF,  b. 1996/04/07
+      20, ALI AFIF,                      DF,  b. 1988/01/20
+      23, ASSIM MADIBO,                  DF,  b. 1996/10/22
+
+       8, LUIZ JUNIOR,                   MF,  b. 1989/01/13
+      12, KARIM BOUDIAF,                 MF,  b. 1990/09/16
+      14, ABDULLAH ALAHRAK,              MF,  b. 1997/05/10
+      22, KHALED MOHAMMED,               MF,  b. 2000/06/07
+      24, Ali KARIMI (IRN),              MF,  b. 1994/02/11
+
+      10, EDMILSON JUNIOR (BEL),         FW,  b. 1994/08/19
+      13, MUBARAK SHANAN,                FW,  b. 2004/02/20
+      19, ALMOEZ ALI,                    FW,  b. 1996/08/19
+      26, OLUNGA Michael (KEN),          FW,  b. 1994/03/26
+      29, MOHAMMED MUNTARI,              FW,  b. 1993/12/20
+      77, DUDU (BRA),                    FW,  b. 1992/01/07
+
+       -, Sabri LAMOUCHI (FRA),          MG,  b. 1971/11/09
+
+
+== Bayern München (GER)     # 23 Players
+
+       1, Manuel NEUER,                  GK,  b. 1986/03/27
+      34, SCHNELLER Lukas,               GK,  b. 2001/10/26
+      39, HOFFMANN Ron-Thorben,          GK,  b. 1999/04/04
+
+       4, Niklas SUELE,                  DF,  b. 1995/09/03
+       5, Benjamin PAVARD (FRA),         DF,  b. 1996/03/28
+      17, BOATENG Jerome,                DF,  b. 1988/09/03
+      20, SARR Bouna (SEN),              DF,  b. 1992/01/31
+      21, Lucas HERNANDEZ (FRA),         DF,  b. 1996/02/14
+      27, ALABA David (AUT),             DF,  b. 1992/06/24
+
+       6, Joshua KIMMICH,                MF,  b. 1995/02/08
+      18, Leon GORETZKA,                 MF,  b. 1995/02/06
+      22, ROCA Marc (ESP),               MF,  b. 1996/11/26
+      24, TOLISSO Corentin (FRA),        MF,  b. 1994/08/03
+      28, Tiago Filipe Oliveira Dantas (POR), MF,  b. 2000/12/24
+      29, Kingsley COMAN (FRA),          MF,  b. 1996/06/13
+      42, Jamal MUSIALA,                 MF,  b. 2003/02/26
+
+       7, Serge GNABRY,                  FW,  b. 1995/07/14
+       9, Robert LEWANDOWSKI (POL),      FW,  b. 1988/08/21
+      10, Leroy SANE,                    FW,  b. 1996/01/11
+      11, DOUGLAS COSTA (BRA),           FW,  b. 1990/09/14
+      13, Eric Maxim CHOUPO-MOTING (CMR), FW,  b. 1989/03/23
+      19, Alphonso DAVIES (CAN),         FW,  b. 2000/11/02
+      25, Thomas MUELLER,                FW,  b. 1989/09/13
+
+       -, Hans-Dieter Flick (GER),       MG,  b. 1965/02/24
+
+
+== Ulsan (KOR)     # 23 Players
+
+       1, JO Suhuk,                      GK,  b. 1987/03/18
+      21, JO Hyeonwoo,                   GK,  b. 1991/09/25
+      25, SEO Juhwan,                    GK,  b. 1999/06/24
+
+       2, BAE Jaewoo,                    DF,  b. 1993/05/17
+       3, DAVIDSON Jason (AUS),          DF,  b. 1991/06/29
+       4, BULTHUIS Davy (NED),           DF,  b. 1990/06/28
+       5, KIM Taehyeon,                  DF,  b. 2000/09/17
+      23, KIM Taehwan,                   DF,  b. 1989/07/24
+      44, KIM Keehee,                    DF,  b. 1989/07/13
+      66, SEOL Youngwoo,                 DF,  b. 1998/12/05
+
+       6, SHIN Hyungmin,                 MF,  b. 1986/07/18
+      10, YOON Bitgaram,                 MF,  b. 1990/05/07
+      13, KIM Minjun,                    MF,  b. 2000/02/12
+      16, WON Dujae,                     MF,  b. 1997/11/18
+      17, KIM Sungjoon,                  MF,  b. 1988/04/08
+      20, KANG Donghyeok,                MF,  b. 1999/07/21
+      24, KANG Yungu,                    MF,  b. 2002/04/08
+      28, LEE Ho,                        MF,  b. 1984/10/22
+
+       7, KIM Insung,                    FW,  b. 1989/09/09
+       9, KIM Jihyun,                    FW,  b. 1996/07/22
+      11, LEE Dongjun,                   FW,  b. 1997/02/01
+      29, LEE Hyeongkyeong,              FW,  b. 1998/05/11
+      91, HINTERSEER Lukas (AUT),        FW,  b. 1991/03/28
+
+       -, Myung-Bo Hong (KOR),           MG,  b. 1969/02/12
+
+
+== Al Ahly FC (EGY)     # 23 Players
+
+       1, MOHAMED ELSHENAWY,             GK,  b. 1988/12/18
+      16, ALY LOTFY,                     GK,  b. 1989/10/14
+      31, MOSTAFA SHOUBIR,               GK,  b. 2000/05/15
+
+       3, AHMED RAMADAN,                 DF,  b. 1997/03/23
+       6, YASSER IBRAHIM,                DF,  b. 1993/02/10
+      12, AYMAN ASHRAF,                  DF,  b. 1991/04/09
+      13, Badr BENOUN (MAR),             DF,  b. 1993/09/30
+      20, SAAD SAMIR ,                   DF,  b. 1989/04/01
+      21, Ali MAALOUL (TUN),             DF,  b. 1990/01/01
+
+       8, HAMDY FATHY,                   MF,  b. 1994/09/29
+      14, HUSSEIN ELSHAHAT,              MF,  b. 1992/06/21
+      15, DIENG Aliou (MLI),             MF,  b. 1997/10/16
+      17, AMRO ELSOULIA,                 MF,  b. 1990/04/02
+      19, MOHAMED AFSHA,                 MF,  b. 1996/03/06
+      25, AKRAM TAWFIK,                  MF,  b. 1997/11/08
+
+       7, KAHRABA,                       FW,  b. 1994/04/13
+       9, Marwan Mohsen,                 FW,  b. 1989/02/26
+      10, MOHAMED SHERIF,                FW,  b. 1996/02/04
+      18, SALAH MOHSEN,                  FW,  b. 1998/09/01
+      26, BWALYA Walter (COD),           FW,  b. 1995/05/05
+      27, TAHER MOHAMED,                 FW,  b. 1997/03/07
+      28, AJAYI Junior (NGA),            FW,  b. 1996/01/29
+      30, MOHAMED HANY,                  FW,  b. 1996/02/02
+
+       -, Pitso MOSIMANE (RSA),          MG,  b. 1964/07/26
+
+
+== Palmeiras (BRA)     # 23 Players
+
+       1, WEVERTON,                      GK,  b. 1987/12/13
+      22, JAILSON,                       GK,  b. 1981/07/20
+      24, VINICIUS,                      GK,  b. 1994/03/28
+
+       2, MARCOS ROCHA,                  DF,  b. 1988/12/11
+       3, EMERSON,                       DF,  b. 1995/04/05
+       4, KUSCEVIC Benjamin (CHI),       DF,  b. 1996/05/02
+       6, EMPEREUR (ITA),                DF,  b. 1994/03/10
+      12, MAYKE,                         DF,  b. 1992/11/10
+      13, LUAN GARCIA,                   DF,  b. 1993/05/10
+      15, Gustavo GOMEZ (PAR),           DF,  b. 1993/05/06
+      16, Lucas Esteves Souza,           DF,  b. 2000/06/24
+      17, Matias VINA (URU),             DF,  b. 1997/11/09
+
+       5, PATRICK DE PAULA,              MF,  b. 1999/09/08
+       8, ZE RAFAEL,                     MF,  b. 1993/06/16
+      14, GUSTAVO SCARPA,                MF,  b. 1994/01/05
+      20, LUCAS LIMA,                    MF,  b. 1990/07/09
+      23, RAPHAEL VEIGA,                 MF,  b. 1995/06/19
+      25, GABRIEL MENINO,                MF,  b. 2000/09/29
+      28, DANILO,                        MF,  b. 2001/04/29
+      30, FELIPE MELO,                   MF,  b. 1983/06/26
+
+      10, LUIZ ADRIANO,                  FW,  b. 1987/04/12
+      11, RONY,                          FW,  b. 1995/05/11
+      29, WILLIAN,                       FW,  b. 1986/11/19
+
+       -, Abel Fernando Moreira Ferreira (POR), MG,  b. 1978/12/22
+
+
+== Tigres UANL (MEX)     # 23 Players
+
+       1, GUZMAN Nahuel (ARG),           GK,  b. 1986/02/10
+      35, CHAVEZ Juan Pablo,             GK,  b. 1996/07/16
+      50, DELGADO Arturo,                GK,  b. 2002/02/18
+
+       3, SALCEDO Carlos,                DF,  b. 1993/09/29
+       4, AYALA Hugo,                    DF,  b. 1987/03/31
+      13, REYES Diego,                   DF,  b. 1992/09/19
+      14, PURATA Juan Jose,              DF,  b. 1998/01/09
+      18, CRUZ Aldo,                     DF,  b. 1997/09/24
+      21, MEZA Francisco (COL),          DF,  b. 1991/08/29
+      28, RODRIGUEZ Luis,                DF,  b. 1991/01/21
+      43, AVALOS Erick,                  DF,  b. 2000/04/21
+
+       5, RAFAEL CARIOCA (BRA),          MF,  b. 1989/06/18
+       8, SIERRA Jordan (ECU),           MF,  b. 1997/04/23
+      17, FERNANDEZ Leonardo (URU),      MF,  b. 1998/11/08
+      19, PIZARRO Guido (ARG),           MF,  b. 1990/02/26
+      20, AQUINO Javier,                 MF,  b. 1990/02/11
+      22, FULGENCIO Raymundo,            MF,  b. 2000/02/12
+      23, QUINONES Luis (COL),           MF,  b. 1991/06/26
+      29, DUENAS Jesus,                  MF,  b. 1989/03/16
+
+      10, GIGNAC Andre Pierre (FRA),     FW,  b. 1985/12/05
+      32, GONZALEZ Carlos (PAR),         FW,  b. 1993/02/04
+      33, QUINONES Julian (COL),         FW,  b. 1997/03/24
+      52, OGAMA Patrick,                 FW,  b. 2000/03/22
+
+       -, Ricardo Ferretti (BRA),        MG,  b. 1954/02/22
+
+

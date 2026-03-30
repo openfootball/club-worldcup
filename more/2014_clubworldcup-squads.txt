@@ -1,0 +1,225 @@
+= Club World Cup 2014     # 7 Teams
+
+== Auckland City FC (NZL)     # 23 Players
+
+       1, Tamati WILLIAMS,               GK,  b. 1984/01/19
+      18, Lewis CAUNTER (ENG),           GK,  b. 1993/04/24
+      24, Jacob SPOONLEY,                GK,  b. 1987/03/03
+
+       2, Simon ARMS,                    DF,  b. 1993/01/21
+       3, Takuya IWATA (JPN),            DF,  b. 1983/04/22
+       5, Angel BERLANGA (ESP),          DF,  b. 1987/02/24
+       6, John IRVING (ENG),             DF,  b. 1988/09/17
+       7, James PRITCHETT,               DF,  b. 1982/07/01
+       9, Darren WHITE (ENG),            DF,  b. 1989/03/24
+      15, Ivan VICELICH,                 DF,  b. 1976/09/03
+      16, KIM Daewook (KOR),             DF,  b. 1987/11/23
+      17, Marko DORDEVIC (SRB),          DF,  b. 1983/05/22
+      22, Andrew MILNE,                  DF,  b. 1992/01/03
+
+       4, Mario BILEN (CRO),             MF,  b. 1985/01/23
+       8, Tim PAYNE,                     MF,  b. 1994/01/10
+      11, Cameron LINDSAY,               MF,  b. 1992/12/21
+      23, Sam BURFOOT (ENG),             MF,  b. 1994/04/10
+
+      10, Ryan DE VRIES,                 FW,  b. 1991/09/14
+      13, Joao MOREIRA (POR),            FW,  b. 1986/02/07
+      14, Sanni ISSA (NGA),              FW,  b. 1991/08/17
+      19, David BROWNE (PNG),            FW,  b. 1995/12/27
+      20, Emiliano TADE (ARG),           FW,  b. 1988/03/03
+      25, Fabrizio TAVANO (ITA),         FW,  b. 1993/08/16
+
+       -, Ramon TRIBULIETX (ESP),        MG,  b. 1972/09/20
+
+
+== Moghreb Tétouan (MAR)     # 23 Players
+
+      12, Mohamed EL YOUSFI,             GK,  b. 1991/01/18
+      22, Adnane EL ASSIMI,              GK,  b. 1993/01/08
+      31, Fouade BABA ALLA (FRA),        GK,  b. 1985/09/23
+
+       3, Mohamed ABARHOUN,              DF,  b. 1989/05/03
+       5, Serigne FALL (SEN),            DF,  b. 1987/12/26
+       6, Mehdi KHALLATI,                DF,  b. 1991/12/07
+       7, Youssef BOUCHATTA,             DF,  b. 1990/07/19
+      14, Anas LAMRABAT,                 DF,  b. 1993/07/13
+      16, Bilal ZAROUH,                  DF,  b. 1991/01/18
+      30, EL MOUSSAOUI Hamza,            DF,  b. 1993/04/07
+
+       8, Noussair EL MAIMOUNI,          MF,  b. 1991/02/20
+      17, Mohammed FAOUZI,               MF,  b. 1985/02/22
+      20, Ahmed Jahouh,                  MF,  b. 1988/07/31
+      21, Rafik Abdessamad,              MF,  b. 1982/04/08
+      23, Said GRADA,                    MF,  b. 1987/07/18
+      25, Anouar HADOUIR (NED),          MF,  b. 1982/09/14
+      26, Abdeladim KHADROUF,            MF,  b. 1985/01/03
+
+       9, Mouhssine IAJOUR,              FW,  b. 1985/06/14
+      10, Zaid KROUCH,                   FW,  b. 1991/01/27
+      11, El Mehdi AZIM,                 FW,  b. 1987/11/22
+      19, Zouheir NAIM,                  FW,  b. 1985/11/08
+      24, Abdelmaoula EL HARDOUMI,       FW,  b. 1984/02/09
+      87, Salman OUALD EL HAJ,           FW,  b. 1988/09/28
+
+       -, Abelaziz AMRI (MAR),           MG,  b. 1950/02/16
+
+
+== Western Sydney Wanderers (AUS)     # 23 Players
+
+       1, Ante COVIC,                    GK,  b. 1975/06/13
+      20, Dean BOUZANIS,                 GK,  b. 1990/10/02
+      40, Thomas Heward-Belle,           GK,  b. 1997/03/11
+
+       2, Shannon COLE,                  DF,  b. 1984/08/04
+       3, Daniel MULLEN,                 DF,  b. 1989/10/26
+       4, Nikolai Topor-Stanley,         DF,  b. 1985/03/11
+       5, Brendan HAMILL,                DF,  b. 1992/09/18
+       6, Antony GOLEC,                  DF,  b. 1990/05/29
+      13, Matthew SPIRANOVIC,            DF,  b. 1988/06/27
+      22, Seyi ADELEKE (NGA),            DF,  b. 1991/11/17
+      32, Daniel ALESSI,                 DF,  b. 1997/08/26
+
+       7, Labinot HALITI,                MF,  b. 1985/10/26
+       8, Mateo POLJAK (CRO),            MF,  b. 1989/09/10
+      17, Romeo CASTELEN (NED),          MF,  b. 1983/05/03
+      18, Iacopo LA ROCCA (ITA),         MF,  b. 1984/02/17
+      23, Jason TRIFIRO,                 MF,  b. 1988/06/03
+
+       9, Tomi JURIC,                    FW,  b. 1991/07/22
+      10, Vitor SABA (BRA),              FW,  b. 1990/07/11
+      12, Nikita Rukavytsya,             FW,  b. 1987/06/22
+      16, Jaushua SOTIRIO,               FW,  b. 1995/10/11
+      19, Mark BRIDGE,                   FW,  b. 1985/11/07
+      31, Alusine FOFANAH,               FW,  b. 1997/11/21
+      35, Kearyn BACCUS,                 FW,  b. 1991/09/05
+
+       -, Tony Popović (AUS),            MG,  b. 1973/07/04
+
+
+== ES Sétif (ALG)     # 23 Players
+
+       1, Sofiane KHEDAIRIA,             GK,  b. 1989/04/01
+      22, Omar SAADOUNE,                 GK,  b. 1992/12/19
+      24, Abderaouf BELHANI,             GK,  b. 1986/11/26
+
+       4, Said ARROUSSI,                 DF,  b. 1991/07/23
+       6, Amine MEGATELI,                DF,  b. 1987/05/04
+      17, Benjamin ZE ONDO (GAB),        DF,  b. 1987/06/18
+      18, Lyes BOUKRIA,                  DF,  b. 1981/09/09
+      20, Farid MELLOULI,                DF,  b. 1984/07/07
+      26, Mohamed LAGRAA,                DF,  b. 1986/11/07
+      35, Sofiane BOUCHAR,               DF,  b. 1994/05/21
+
+      10, Akram Djahnit,                 MF,  b. 1991/04/03
+      13, Sid LAMRI,                     MF,  b. 1991/02/03
+      16, Mohamed RAIT,                  MF,  b. 1986/05/16
+      21, Issam BAOUZ,                   MF,  b. 1990/11/30
+      29, Toufik ZERARA,                 MF,  b. 1986/02/03
+      30, Eudes DAGOULOU (CTA),          MF,  b. 1990/02/09
+
+       3, Sofiane YOUNES,                FW,  b. 1982/11/25
+       8, Ahmed GASMI,                   FW,  b. 1984/11/22
+       9, Mohamed Benyettou,             FW,  b. 1989/11/01
+      19, Abdelmalik ZIAYA,              FW,  b. 1984/01/23
+      23, Zahir NEMDIL,                  FW,  b. 1987/03/03
+      25, El Hedi BELAMEIRI,             FW,  b. 1991/04/24
+      91, Ilias KORBIAA,                 FW,  b. 1991/04/21
+
+       -, Kheïreddine Madoui (ALG),      MG,  b. 1977/03/27
+
+
+== San Lorenzo (ARG)     # 23 Players
+
+       1, Leonardo FRANCO,               GK,  b. 1977/05/20
+      12, Sebastian TORRICO,             GK,  b. 1980/02/22
+      33, Jose DEVECCHI,                 GK,  b. 1995/07/09
+
+       2, Mauro CETTO,                   DF,  b. 1982/04/14
+       3, Mario YEPES (COL),             DF,  b. 1976/01/13
+      13, Ramiro ARIAS,                  DF,  b. 1993/01/06
+      14, Walter Kannemann,              DF,  b. 1991/03/14
+      21, Emmanuel MAS,                  DF,  b. 1989/01/15
+      27, Matias CATALAN,                DF,  b. 1992/08/19
+      29, Fabricio FONTANINI,            DF,  b. 1990/03/30
+
+       5, Juan MERCIER,                  MF,  b. 1980/02/02
+       7, Julio BUFFARINI,               MF,  b. 1988/08/18
+       8, Enzo KALINSKI,                 MF,  b. 1987/03/10
+      10, Leandro ROMAGNOLI,             MF,  b. 1981/03/17
+      11, Pablo BARRIENTOS,              MF,  b. 1985/01/17
+      20, Nestor ORTIGOZA,               MF,  b. 1984/10/07
+      24, Juan CAVALLARO,                MF,  b. 1994/06/28
+      31, Facundo QUIGNON,               MF,  b. 1993/05/02
+
+       9, Martin CAUTERUCCIO (URU),      FW,  b. 1987/04/14
+      15, Hector VILLALBA,               FW,  b. 1994/07/26
+      22, Nicolas BLANDI,                FW,  b. 1990/01/13
+      26, Mauro MATOS,                   FW,  b. 1982/08/06
+      30, Gonzalo VERON,                 FW,  b. 1989/12/24
+
+       -, Edgardo BAUZA (ARG),           MG,  b. 1958/01/26
+
+
+== Cruz Azul (MEX)     # 23 Players
+
+       1, Jose CORONA,                   GK,  b. 1981/01/26
+      12, Guillermo ALLISON,             GK,  b. 1990/09/25
+      25, Yosgart GUTIERREZ,             GK,  b. 1981/03/15
+
+       2, Fausto PINTO,                  DF,  b. 1983/08/08
+       3, Francisco RODRIGUEZ,           DF,  b. 1981/10/20
+       4, Julio DOMÍNGUEZ,               DF,  b. 1987/11/08
+      15, Gerardo FLORES,                DF,  b. 1986/02/05
+      16, Rogelio CHÁVEZ,                DF,  b. 1984/10/28
+      17, Emanuel LOESCHBOR,             DF,  b. 1986/10/16
+
+       5, Alejandro CASTRO,              MF,  b. 1987/03/27
+       6, Gerardo TORRADO,               MF,  b. 1979/04/30
+       7, Pablo BARRERA,                 MF,  b. 1987/06/21
+      10, Christian GIMÉNEZ,             MF,  b. 1981/02/01
+      19, Alejandro VELA,                MF,  b. 1984/03/28
+      21, Xavier BAEZ,                   MF,  b. 1987/07/22
+      27, Hernan BERNARDELLO (ARG),      MF,  b. 1986/08/03
+
+       8, Marco FABIAN,                  FW,  b. 1989/07/21
+       9, Hugo PAVONE (ARG),             FW,  b. 1982/05/27
+      11, Joao ROJAS (ECU),              FW,  b. 1989/06/14
+      18, Ismael VALADEZ,                FW,  b. 1985/09/14
+      20, Pablo TORRES,                  FW,  b. 1984/03/10
+      23, Anibal ZURDO,                  FW,  b. 1981/12/03
+      33, Mauro FORMICA (ARG),           FW,  b. 1988/04/04
+
+       -, Luis Fernando Tena Garduño (MEX), MG,  b. 1958/01/20
+
+
+== Real Madrid (ESP)     # 22 Players
+
+       1, Iker CASILLAS,                 GK,  b. 1981/05/20
+      13, Keylor NAVAS (CRC),            GK,  b. 1986/12/15
+      25, Fernando PACHECO,              GK,  b. 1992/05/18
+
+       2, Raphael VARANE (FRA),          DF,  b. 1993/04/25
+       3, PEPE (POR),                    DF,  b. 1983/02/26
+       4, Sergio RAMOS,                  DF,  b. 1986/03/30
+       5, FABIO COENTRAO (POR),          DF,  b. 1988/03/11
+      12, MARCELO (BRA),                 DF,  b. 1988/05/12
+      15, Dani CARVAJAL,                 DF,  b. 1992/01/11
+      17, Álvaro ARBELOA,                DF,  b. 1983/01/17
+      18, NACHO,                         DF,  b. 1990/01/18
+
+       6, Sami KHEDIRA (GER),            MF,  b. 1987/04/04
+       8, Toni Kroos (GER),              MF,  b. 1990/01/04
+      10, James RODRIGUEZ (COL),         MF,  b. 1991/07/12
+      11, Gareth BALE (WAL),             MF,  b. 1989/07/16
+      23, ISCO,                          MF,  b. 1992/04/21
+      24, Asier ILLARRAMENDI,            MF,  b. 1990/03/08
+      26, Alvaro MEDRAN,                 MF,  b. 1994/03/15
+
+       7, CRISTIANO RONALDO (POR),       FW,  b. 1985/02/05
+       9, Karim BENZEMA (FRA),           FW,  b. 1987/12/19
+      14, Javier HERNANDEZ (MEX),        FW,  b. 1988/06/01
+      20, JESE,                          FW,  b. 1993/02/26
+
+       -, Carlo Ancelotti (ITA),         MG,  b. 1959/06/10
+
+

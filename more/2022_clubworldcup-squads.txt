@@ -1,0 +1,226 @@
+= Club World Cup 2022     # 7 Teams
+
+== Auckland City FC (NZL)     # 23 Players
+
+       1, Conor TRACEY,                  GK,  b. 1997/04/13
+      18, Finn DOCKERTY,                 GK,  b. 2003/08/18
+      24, Cameron BROWN,                 GK,  b. 1999/07/09
+
+       3, Adam MITCHELL,                 DF,  b. 1996/06/01
+       4, Christian GRAY,                DF,  b. 1996/11/29
+       5, Nikko BOXALL,                  DF,  b. 1992/02/24
+      12, Regont MURATI,                 DF,  b. 1996/05/14
+      13, Nathan LOBO,                   DF,  b. 2002/12/16
+      14, Jordan VALE,                   DF,  b. 1994/01/15
+      15, Aidan CAREY,                   DF,  b. 2001/07/10
+      25, Takuya IWATA (JPN),            DF,  b. 1983/04/22
+
+       2, Mario ILICH,                   MF,  b. 1995/06/23
+       7, Cameron HOWIESON,              MF,  b. 1994/12/22
+       8, Gerard GARRIGA (ESP),          MF,  b. 1993/05/28
+      17, Reid DRAKE,                    MF,  b. 1996/01/19
+      21, Michael DEN HEIJER,            MF,  b. 1996/04/14
+      23, Matthew ELLIS,                 MF,  b. 2001/02/27
+
+       9, Angus  KILKOLLY,               FW,  b. 1996/04/18
+      10, Dylan MANICKUM,                FW,  b. 1992/06/16
+      11, Ryan DE VRIES,                 FW,  b. 1991/09/14
+      16, Joseph LEE,                    FW,  b. 2002/07/12
+      19, William GILLION,               FW,  b. 2002/10/17
+      20, Emiliano TADE (ARG),           FW,  b. 1988/03/03
+
+       -, Albert RIERA (NZL),            MG,  b. 1983/12/28
+
+
+== Al Hilal (KSA)     # 23 Players
+
+       1, Abdullah Al-Mayouf,            GK,  b. 1987/01/23
+      21, MOHAMMED ALOWAIS,              GK,  b. 1991/10/10
+      31, HABIB ALWATYAN,                GK,  b. 1996/08/08
+
+       4, KHALIFAH ALDAWSARI,            DF,  b. 1999/01/02
+       5, ALI ALBULAYHI,                 DF,  b. 1989/11/21
+      20, JANG Hyunsoo (KOR),            DF,  b. 1991/09/28
+      42, MUATH FAGIHY,                  DF,  b. 2002/05/30
+      66, SAUD ABDULHAMID,               DF,  b. 1999/07/18
+      67, MOHAMMED ALKHAIBARI,           DF,  b. 2002/04/18
+      70, MOHAMMED JAHFALI,              DF,  b. 1990/10/24
+
+       6, Gustavo CUELLAR (COL),         MF,  b. 1992/10/14
+       8, ABDULLAH OTAYF,                MF,  b. 1992/08/03
+      10, Luciano VIETTO (ARG),          MF,  b. 1993/12/05
+      16, Nasser ALDAWSARI,              MF,  b. 1998/12/19
+      28, MOHAMED KANNO,                 MF,  b. 1994/09/22
+      29, SALEM ALDAWSARI,               MF,  b. 1991/08/19
+      43, MUSAB ALJUWAYR,                MF,  b. 2003/06/20
+      96, MICHAEL (BRA),                 MF,  b. 1996/03/12
+
+       9, Odion IGHALO (NGA),            FW,  b. 1989/06/16
+      11, SALEH ALSHEHRI,                FW,  b. 1993/11/01
+      14, ABDULLAH ALHAMDDAN,            FW,  b. 1999/09/13
+      17, Moussa Marega (MLI),           FW,  b. 1991/04/14
+      19, Andre CARRILLO (PER),          FW,  b. 1991/06/14
+
+       -, Ramón Ángel Díaz (ARG),        MG,  b. 1959/08/29
+
+
+== Wydad Athletic Club (MAR)     # 23 Players
+
+       1, Yanis HENIN,                   GK,  b. 1999/06/24
+      26, Ahmed TAGNAOUTI,               GK,  b. 1996/04/05
+      32, Youssef EL MOTIE,              GK,  b. 1994/12/16
+
+       3, BENAYADA Hocine (ALG),         DF,  b. 1992/08/08
+       4, Amine ABOULFATH,               DF,  b. 1997/10/29
+      14, Yahya ATTIAT-ALLAH,            DF,  b. 1995/03/02
+      22, EL AMLOUD Ayoub,               DF,  b. 1994/04/08
+      25, Amine FARHANE,                 DF,  b. 1998/03/23
+      31, Hamza AIT ALLAL,               DF,  b. 2000/01/08
+      35, Arsene ZOLA (COD),             DF,  b. 1996/02/23
+
+       2, Ismail MOUTARAJJI,             MF,  b. 2000/02/01
+       5, Yahya JABRANE,                 MF,  b. 1991/06/18
+       6, Jalal DAOUDI,                  MF,  b. 1988/08/17
+       8, Reda JAADI,                    MF,  b. 1995/02/14
+      10, EL HASSOUNI Aymane,            MF,  b. 1995/02/22
+      13, Abdellah HAIMOUD,              MF,  b. 2001/05/21
+
+       9, Didier LAMKEL ZE (CMR),        FW,  b. 1996/09/17
+      11, Mohammad OUNNAJEM,             FW,  b. 1992/01/04
+      17, Badi AOUK,                     FW,  b. 1995/03/29
+      20, Bouly Junior SAMBOU (SEN),     FW,  b. 1998/12/01
+      23, Hicham BOUSSEFIANE,            FW,  b. 1998/01/09
+      30, Saifeddine BOUHRA,             FW,  b. 2000/03/05
+      33, Hamid AHADAD,                  FW,  b. 1994/11/30
+
+       -, Mehdi NAFTI (TUN),             MG,  b. 1978/11/28
+
+
+== Al Ahly FC (EGY)     # 23 Players
+
+       1, MOHAMED ELSHENAWY,             GK,  b. 1988/12/18
+      16, ALY LOTFY,                     GK,  b. 1989/10/14
+      33, Hamza Alaa,                    GK,  b. 2001/03/01
+
+       2, KHALED ABDELFATTAH,            DF,  b. 1999/01/22
+       4, METWALY MAHMOUD,               DF,  b. 1993/01/04
+       5, Rami RABIA,                    DF,  b. 1993/05/20
+       6, YASSER IBRAHIM,                DF,  b. 1993/02/10
+      21, Ali MAALOUL (TUN),             DF,  b. 1990/01/01
+      24, MOHAMED ABDELMONEIM,           DF,  b. 1999/02/01
+      30, MOHAMED HANY,                  DF,  b. 1996/02/02
+      40, MOHAMED ASHRAF,                DF,  b. 2001/10/01
+
+       7, KAHRABA,                       MF,  b. 1994/04/13
+       8, HAMDY FATHY,                   MF,  b. 1994/09/29
+       9, AHMED ABDELKADER,              MF,  b. 1999/05/23
+      13, MARAWAN ATTIA,                 MF,  b. 1998/08/01
+      14, HUSSEIN ELSHAHAT,              MF,  b. 1992/06/21
+      15, DIENG Aliou (MLI),             MF,  b. 1997/10/16
+      17, AMRO ELSOULIA,                 MF,  b. 1990/04/02
+      19, MOHAMED AFSHA,                 MF,  b. 1996/03/06
+      34, MOHMAMED FAKHRY,               MF,  b. 1999/03/04
+
+      10, MOHAMED SHERIF,                FW,  b. 1996/02/04
+      23, Percy TAU (RSA),               FW,  b. 1994/05/13
+      27, TAHER MOHAMED,                 FW,  b. 1997/03/07
+
+       -, Marcel KOLLER (SUI),           MG,  b. 1960/11/11
+
+
+== Real Madrid (ESP)     # 23 Players
+
+      13, Andriy LUNIN (UKR),            GK,  b. 1999/02/11
+      26, Luis LOPEZ,                    GK,  b. 2001/05/08
+      30, Lucas CANIZARES,               GK,  b. 2002/05/10
+
+       2, Dani CARVAJAL,                 DF,  b. 1992/01/11
+       3, EDER MILITAO (BRA),            DF,  b. 1998/01/18
+       4, ALABA David (AUT),             DF,  b. 1992/06/24
+       5, Jesus VALLEJO,                 DF,  b. 1997/01/05
+       6, NACHO,                         DF,  b. 1990/01/18
+      16, Alvaro ODRIOZOLA,              DF,  b. 1995/12/14
+      22, Antonio RUEDIGER (GER),        DF,  b. 1993/03/03
+
+       8, Toni Kroos (GER),              MF,  b. 1990/01/04
+      10, Luka MODRIC (CRO),             MF,  b. 1985/09/09
+      12, Eduardo CAMAVINGA (FRA),       MF,  b. 2002/11/10
+      15, Federico VALVERDE (URU),       MF,  b. 1998/07/22
+      18, Aurelien TCHOUAMENI (FRA),     MF,  b. 2000/01/27
+      19, Dani CEBALLOS,                 MF,  b. 1996/08/07
+      31, Mario MARTIN,                  MF,  b. 2004/03/05
+      33, Sergio ARRIBAS,                MF,  b. 2001/09/30
+
+       9, Karim BENZEMA (FRA),           FW,  b. 1987/12/19
+      11, Marco ASENSIO,                 FW,  b. 1996/01/21
+      20, VINICIUS JR (BRA),             FW,  b. 2000/07/12
+      21, RODRYGO (BRA),                 FW,  b. 2001/01/09
+      24, Mariano DIAZ,                  FW,  b. 1993/08/01
+
+       -, Carlo Ancelotti (ITA),         MG,  b. 1959/06/10
+
+
+== Seattle Sounders FC (USA)     # 23 Players
+
+      24, Stefan FREI,                   GK,  b. 1986/04/20
+      29, Jacob CASTRO,                  GK,  b. 1999/12/18
+      30, Stefan CLEVELAND,              GK,  b. 1994/05/25
+
+       3, Xavier ARREAGA (ECU),          DF,  b. 1994/09/28
+       5, Nouhou TOLO (CMR),             DF,  b. 1997/06/23
+      16, Alex ROLDAN (SLV),             DF,  b. 1996/07/28
+      25, Jackson RAGEN,                 DF,  b. 1998/09/24
+      28, Yeimar GOMEZ ANDRADE (COL),    DF,  b. 1992/06/30
+      45, Ethan DOBBELAERE,              DF,  b. 2002/11/14
+      92, Abdoulaye CISSOKO (FRA),       DF,  b. 1999/12/27
+
+       6, JOAO PAULO (BRA),              MF,  b. 1991/03/08
+       7, Cristian ROLDAN,               MF,  b. 1995/06/03
+      10, Nicolas LODEIRO (URU),         MF,  b. 1989/03/21
+      11, Albert RUSNAK (SVK),           MF,  b. 1994/07/07
+      22, Kelyn ROWE,                    MF,  b. 1991/12/02
+      75, Daniel LEYVA,                  MF,  b. 2003/05/05
+      84, Joshua ATENCIO,                MF,  b. 2002/01/31
+      99, Dylan TEVES,                   MF,  b. 2000/05/14
+
+       9, Raul RUIDIAZ (PER),            FW,  b. 1990/07/25
+      12, Fredy Montero (COL),           FW,  b. 1987/07/26
+      13, Jordan MORRIS,                 FW,  b. 1994/10/26
+      19, HEBER (BRA),                   FW,  b. 1991/08/10
+      23, LEO CHU (BRA),                 FW,  b. 2000/04/06
+
+       -, Brian SCHMETZER (USA),         MG,  b. 1962/08/18
+
+
+== Flamengo (BRA)     # 23 Players
+
+       1, SANTOS,                        GK,  b. 1990/03/17
+      25, MATHEUS CUNHA,                 GK,  b. 2001/05/24
+      45, HUGO SOUZA,                    GK,  b. 1999/01/31
+
+       2, Guillermo VARELA (URU),        DF,  b. 1993/03/24
+       3, RODRIGO CAIO,                  DF,  b. 1993/08/17
+       4, LEO PEREIRA,                   DF,  b. 1996/01/31
+       6, AYRTON LUCAS,                  DF,  b. 1997/06/19
+      15, FABRICIO BRUNO,                DF,  b. 1996/02/12
+      16, FILIPE LUIS,                   DF,  b. 1985/08/09
+      23, DAVID LUIZ,                    DF,  b. 1987/04/22
+      30, PABLO,                         DF,  b. 1991/06/21
+      34, MATHEUZINHO,                   DF,  b. 2000/09/08
+
+       5, Erick PULGAR (CHI),            MF,  b. 1994/01/15
+       7, EVERTON RIBEIRO,               MF,  b. 1989/04/10
+       8, THIAGO MAIA,                   MF,  b. 1997/03/23
+      14, Giorgian DE ARRASCAETA (URU),  MF,  b. 1994/06/01
+      20, GERSON,                        MF,  b. 1997/05/20
+      32, Arturo VIDAL (CHI),            MF,  b. 1987/05/22
+      42, MATHEUS FRANCA,                MF,  b. 2004/04/01
+
+       9, PEDRO,                         FW,  b. 1997/06/20
+      10, GABRIEL BARBOSA,               FW,  b. 1996/08/30
+      11, EVERTON,                       FW,  b. 1996/03/22
+      31, MARINHO,                       FW,  b. 1990/05/29
+
+       -, VITOR PEREIRA (POR),           MG,  b. 1968/07/26
+
+

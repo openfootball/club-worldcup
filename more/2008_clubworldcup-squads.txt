@@ -1,0 +1,222 @@
+= Club World Cup 2008     # 7 Teams
+
+== Manchester United (ENG)     # 23 Players
+
+       1, Edwin VAN DER SAR (NED),       GK,  b. 1970/10/29
+      29, Tomasz KUSZCZAK (POL),         GK,  b. 1982/03/20
+      40, Ben AMOS,                      GK,  b. 1990/04/10
+
+       2, Gary NEVILLE,                  DF,  b. 1975/02/18
+       3, Patrice EVRA (FRA),            DF,  b. 1981/05/15
+       5, Rio FERDINAND,                 DF,  b. 1978/11/07
+      15, Nemanja VIDIC (SRB),           DF,  b. 1981/10/21
+      21, RAFAEL (BRA),                  DF,  b. 1990/07/09
+      22, John O SHEA (IRL),             DF,  b. 1981/04/30
+      23, Jonny EVANS (NIR),             DF,  b. 1988/01/03
+
+      16, Michael CARRICK,               MF,  b. 1981/07/28
+      18, Paul SCHOLES,                  MF,  b. 1974/11/16
+      24, Darren FLETCHER (SCO),         MF,  b. 1984/02/01
+      28, Darron GIBSON (IRL),           MF,  b. 1987/10/25
+
+       7, CRISTIANO RONALDO (POR),       FW,  b. 1985/02/05
+       8, ANDERSON (BRA),                FW,  b. 1988/04/13
+       9, Dimitar BERBATOV (BUL),        FW,  b. 1981/01/30
+      10, Wayne ROONEY,                  FW,  b. 1985/10/24
+      11, Ryan GIGGS (WAL),              FW,  b. 1973/11/29
+      13, PARK Ji Sung (KOR),            FW,  b. 1981/02/25
+      17, NANI (POR),                    FW,  b. 1986/11/17
+      19, Danny WELBECK,                 FW,  b. 1990/11/26
+      32, Carlos TEVEZ (ARG),            FW,  b. 1984/02/05
+
+       -, Alex FERGUSON (SCO),           MG,  b. 1941/12/31
+
+
+== Adelaide United (AUS)     # 22 Players
+
+      20, Eugen GALEKOVIC,               GK,  b. 1981/06/12
+      30, Mark Birighitti,               GK,  b. 1991/04/17
+      40, Lucas ANDREUCCI,               GK,  b. 1991/02/15
+
+       2, Robert CORNTHWAITE,            DF,  b. 1985/10/24
+       3, ALEMAO (BRA),                  DF,  b. 1982/11/29
+       4, Angelo COSTANZO,               DF,  b. 1976/05/09
+       5, Michael VALKANIS,              DF,  b. 1973/08/23
+       6, CASSIO (BRA),                  DF,  b. 1980/01/08
+      14, Scott JAMIESON,                DF,  b. 1988/10/13
+      16, Daniel MULLEN,                 DF,  b. 1989/10/26
+      19, Sasa OGNENOVSKI,               DF,  b. 1979/04/03
+      23, Michael MARRONE,               DF,  b. 1987/01/27
+
+       8, Kristian SARKIES,              MF,  b. 1986/10/25
+      11, Osama MALIK,                   MF,  b. 1990/09/30
+      13, Travis DODD,                   MF,  b. 1980/01/06
+      15, Gyawe SALLEY,                  MF,  b. 1982/03/16
+      18, Fabian BARBIERO,               MF,  b. 1984/05/02
+      21, Jason SPAGNUOLO,               MF,  b. 1984/08/02
+      22, DIEGO (BRA),                   MF,  b. 1979/12/08
+      24, Paul REID,                     MF,  b. 1979/07/06
+
+      10, CRISTIANO (BRA),               FW,  b. 1981/06/03
+      25, Robert YOUNIS,                 FW,  b. 1985/08/14
+
+       -, Aurelio VIDMAR (AUS),          MG,  b. 1967/02/03
+
+
+== LDU Quito (ECU)     # 23 Players
+
+       1, Jose CEVALLOS,                 GK,  b. 1971/04/17
+      22, Alexander DOMINGUEZ,           GK,  b. 1987/06/05
+      25, Daniel VITERI,                 GK,  b. 1981/12/12
+
+       2, Norberto ARAUJO,               DF,  b. 1978/10/13
+       3, Renan CALLE,                   DF,  b. 1976/09/08
+       4, Paul AMBROSI,                  DF,  b. 1980/10/14
+      13, Néicer REASCO,                 DF,  b. 1977/07/23
+      14, Diego CALDERON,                DF,  b. 1986/10/26
+      23, Jairo CAMPOS,                  DF,  b. 1984/07/19
+
+       5, Alfonso OBREGON,               MF,  b. 1972/05/12
+       7, Luis Bolaños,                  MF,  b. 1985/03/27
+       8, Patricio URRUTIA,              MF,  b. 1977/10/15
+      10, Edder VACA,                    MF,  b. 1985/12/25
+      11, Danny VACA,                    MF,  b. 1990/05/12
+      15, William ARAUJO,                MF,  b. 1979/06/05
+      17, Christian SUAREZ,              MF,  b. 1985/11/02
+      20, Pedro LARREA,                  MF,  b. 1986/05/21
+      21, Alejandro MANSO (ARG),         MF,  b. 1979/06/06
+      24, Alejandro ESPINOSA,            MF,  b. 1988/08/13
+      28, Israel CHANGO,                 MF,  b. 1989/01/16
+
+       9, Agustin DELGADO,               FW,  b. 1974/12/23
+      16, Claudio BIELER (ARG),          FW,  b. 1984/03/01
+      19, Reinaldo NAVIA (CHI),          FW,  b. 1978/05/10
+
+       -, Edgardo BAUZA (ARG),           MG,  b. 1958/01/26
+
+
+== Gamba Osaka (JPN)     # 23 Players
+
+       1, Naoki MATSUYO,                 GK,  b. 1974/04/09
+      22, Yosuke FUJIGAYA,               GK,  b. 1981/02/13
+      29, Atsushi KIMURA,                GK,  b. 1984/05/01
+
+       2, Sota NAKAZAWA,                 DF,  b. 1982/10/26
+       5, Satoshi YAMAGUCHI,             DF,  b. 1978/04/17
+       6, Yohei FUKUMOTO,                DF,  b. 1987/04/12
+      19, Takumi SHIMOHIRA,              DF,  b. 1988/10/06
+      21, Akira KAJI,                    DF,  b. 1980/01/13
+
+       7, Yasuhito ENDO,                 MF,  b. 1980/01/28
+       8, Shinichi TERADA,               MF,  b. 1985/06/10
+      10, Takahiro FUTAGAWA,             MF,  b. 1980/06/27
+      13, Michihiro YASUDA,              MF,  b. 1987/12/20
+      16, Hayato SASAKI,                 MF,  b. 1982/11/29
+      17, Tomokazu MYOJIN,               MF,  b. 1978/01/24
+      20, Shu Kurata,                    MF,  b. 1988/11/26
+      23, Takuya TAKEI,                  MF,  b. 1986/01/25
+      27, Hideo HASHIMOTO,               MF,  b. 1979/05/21
+
+       9, LUCAS (BRA),                   FW,  b. 1979/01/03
+      11, Ryuji BANDO,                   FW,  b. 1979/08/02
+      14, Shoki HIRAI,                   FW,  b. 1987/12/04
+      18, RONI (BRA),                    FW,  b. 1977/04/28
+      24, Kenta HOSHIHARA,               FW,  b. 1988/05/01
+      30, Masato YAMAZAKI,               FW,  b. 1981/12/04
+
+       -, Akira NISHINO (JPN),           MG,  b. 1955/04/07
+
+
+== Pachuca (MEX)     # 23 Players
+
+       1, Miguel CALERO (COL),           GK,  b. 1971/04/14
+      23, Carlos VELAZQUEZ,              GK,  b. 1984/06/02
+      30, Rodolfo COTA,                  GK,  b. 1987/07/03
+
+       2, Leobardo López,                DF,  b. 1983/09/04
+       3, Julio MANZUR (PAR),            DF,  b. 1981/01/22
+       4, Marco PEREZ,                   DF,  b. 1987/12/09
+      12, Juan Carlos ROJAS,             DF,  b. 1984/06/06
+      16, Carlos GERARDO RODRÍGUEZ,      DF,  b. 1985/04/16
+      21, Fausto PINTO,                  DF,  b. 1983/08/08
+      22, Paul AGUILAR,                  DF,  b. 1986/03/06
+
+       6, Jaime CORREA,                  MF,  b. 1979/08/06
+       8, Gabriel CABALLERO,             MF,  b. 1971/02/05
+      11, José MARÍA CÁRDENAS,           MF,  b. 1985/04/02
+      15, Luis MONTES,                   MF,  b. 1986/05/15
+      18, José TORRES (USA),             MF,  b. 1987/10/29
+      24, Raul MARTINEZ,                 MF,  b. 1987/04/01
+
+       7, Damian ALVAREZ (ARG),          FW,  b. 1979/05/21
+       9, Bruno MARIONI (ARG),           FW,  b. 1975/06/15
+      10, CHRISTIAN CORREA (BRA),        FW,  b. 1975/04/23
+      13, Edwin BORBOA,                  FW,  b. 1983/01/11
+      19, Christian GIMÉNEZ,             FW,  b. 1981/02/01
+      27, Edy BRAMBILA,                  FW,  b. 1986/01/15
+      29, Victor MANON,                  FW,  b. 1992/02/06
+
+       -, Enrique MEZA (MEX),            MG,  b. 1948/03/03
+
+
+== Al Ahly FC (EGY)     # 23 Players
+
+       1, Amir ABDELHAMID,               GK,  b. 1979/04/24
+       2, RAMZI SALEH (PLE),             GK,  b. 1980/08/08
+      31, AHMED ADEL,                    GK,  b. 1987/04/10
+
+       5, Ahmed EL SAYED,                DF,  b. 1980/10/30
+       6, AHMED SEDIK,                   DF,  b. 1983/08/16
+       7, Shady MOHAMED,                 DF,  b. 1977/11/29
+      11, Sayed MOAWAD,                  DF,  b. 1979/05/25
+      21, Rami ADEL,                     DF,  b. 1979/08/18
+      26, WAEL GOMAA,                    DF,  b. 1975/08/03
+      32, MOHAMED SAMIR,                 DF,  b. 1987/11/05
+
+       8, Mohamed BARAKAT,               MF,  b. 1976/09/07
+      12, GILBERTO (ANG),                MF,  b. 1982/09/21
+      13, HUSSEIN YASSER,                MF,  b. 1982/10/09
+      17, AHMED HASSAN,                  MF,  b. 1975/05/02
+      19, HUSSEIN ALY,                   MF,  b. 1982/03/19
+      24, AHMED FATHI,                   MF,  b. 1984/11/10
+      25, Hossam ASHOUR,                 MF,  b. 1986/03/09
+      27, EINO,                          MF,  b. 1983/09/10
+
+      10, Ahmed BELAL,                   FW,  b. 1980/08/20
+      15, Hani ELAGIZY,                  FW,  b. 1985/01/18
+      18, Osama HOSNY,                   FW,  b. 1982/06/18
+      22, Mohamed ABOUTRIKA,             FW,  b. 1978/11/07
+      23, FLAVIO (ANG),                  FW,  b. 1979/12/30
+
+       -, MANUEL JOSE (POR),             MG,  b. 1946/04/09
+
+
+== Waitakere United (NZL)     # 20 Players
+
+       1, Richard GILLESPIE,             GK,  b. 1981/09/14
+      22, Daniel ROBINSON (ENG),         GK,  b. 1982/09/01
+
+       2, Jonathan PERRY,                DF,  b. 1976/11/22
+       3, Aaron SCOTT,                   DF,  b. 1986/07/18
+       5, Danny HAY,                     DF,  b. 1975/05/15
+       6, Hone FOWLER,                   DF,  b. 1985/04/19
+      16, Neil EMBLEN (ENG),             DF,  b. 1971/06/19
+      20, Jason ROWLEY,                  DF,  b. 1985/07/19
+
+       7, Daniel ELLENSOHN,              MF,  b. 1985/08/09
+       8, Paul SEAMAN (WAL),             MF,  b. 1975/05/21
+      10, Allan PEARCE,                  MF,  b. 1983/04/07
+      11, Neil SYKES (ENG),              MF,  b. 1974/12/17
+      14, Jeff CAMPBELL,                 MF,  b. 1979/08/25
+      15, Christopher BALE (WAL),        MF,  b. 1982/05/30
+      17, Jake BUTLER,                   MF,  b. 1984/11/12
+      29, PIMENTA (BRA),                 MF,  b. 1982/11/14
+
+       9, Benjamin TOTORI (SOL),         FW,  b. 1986/02/20
+      12, Roy Krishna (FIJ),             FW,  b. 1987/08/30
+      13, Daniel KOPRIVCIC,              FW,  b. 1981/08/03
+      21, Kayne VINCENT (JPN),           FW,  b. 1988/10/29
+
+       -, Chris MILICICH (NZL),          MG,  b. 1965/11/13
+
+
