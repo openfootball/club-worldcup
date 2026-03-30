@@ -1,0 +1,139 @@
+= Club World Cup 2013
+
+# Dates    Wed Dec 11 - Sat Dec 21 2013 (10d)
+# Teams    7
+#   Raja Casablanca (MAR)
+#   Auckland City FC (NZL)
+#   Guangzhou FC (CHN)
+#   Al Ahly FC (EGY)
+#   CF Monterrey (MEX)
+#   FC Bayern München (GER)
+#   Atlético Mineiro (BRA)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Agadir Stadium, Agadir (MAR)
+#   Marrakech Stadium, Marrakesh (MAR)
+
+▪ Play-off for quarter-final
+Wed Dec 11 19:30 UTC+0 @ Agadir Stadium, Agadir
+  Raja Casablanca (MAR) v Auckland City FC (NZL)  2-1
+     (Mouhssine IAJOUR 38', HAFIDI Abdelilah 90+1';
+      Roy Krishna 62')
+
+Raja Casablanca: Khalid ASKRI - Zakaria EL HACHIMI, Mohamed OULHAJ, Adil KARROUCHY, Ismail Benlamaalem [Y 56'] -
+      Mohsine MOUTAOUALI [c], Chemseddine Chitibi (73' Deo KANDA), HAFIDI Abdelilah (90+3' Ahmed RAHMANI),
+      Kouko GUEHI, Issam ERRAKI - Mouhssine IAJOUR (84' Mabide Vivien)
+Auckland City FC: Tamati WILLIAMS - Takuya IWATA, Angel BERLANGA, John IRVING (85' James PRITCHETT),
+      Ivan VICELICH [c] - Mario BILEN, Christopher BALE, Daniel KOPRIVCIC (81' David BROWNE),
+      Cristobal MARQUEZ - Roy Krishna, Adam DICKINSON (63' Emiliano TADE)
+
+Refs: Bakary GASSAMA (GAM), Angesom OGBAMARIAM (ERI), Evarist MENKOUANDE (CMR)
+
+
+▪ Quarter-final
+Sat Dec 14 16:00 UTC+0 @ Agadir Stadium, Agadir
+  Guangzhou FC (CHN) v Al Ahly FC (EGY)  2-0
+     (ELKESON 48', Dario CONCA 66')
+
+Guangzhou FC: ZENG Cheng - ZHANG Linpeng [Y 54'], FENG Xiaoting, KIM Younggwon, SUN Xiang [Y 44'] (78' ZHAO Xuri) -
+      ZHENG Zhi [c], HUANG Bowen - ELKESON, MURIQUI, Dario CONCA, GAO Lin (62' Rong HAO)
+Al Ahly FC: SHERIF EKRAMY - Rami RABIA, SAAD SAMIR , Mohamed NAGUIB - Walid Soliman,
+      Ahmed Shadid, ABDALLA SAID, Mohamed ABOUTRIKA (45' Dominique DA SYLVA),
+      AHMED FATHI, Hossam ASHOUR (77' TREZIGUET) - EMAD METEAB [c] (63' Sayed Hamdi)
+
+Refs: Sandro RICCI (BRA), Emerson DE CARVALHO (BRA), Marcelo Carvalho Van Gasse (BRA)
+
+
+Sat Dec 14 19:30 UTC+0 @ Agadir Stadium, Agadir
+  Raja Casablanca (MAR) v CF Monterrey (MEX)  2-1 a.e.t.
+     (Chemseddine Chitibi 23', Kouko GUEHI 94';
+      José BASANTA 52')
+
+Raja Casablanca: Khalid ASKRI [Y 117'] - Zakaria EL HACHIMI, Mohamed OULHAJ, Adil KARROUCHY [Y 56'],
+      Ismail Benlamaalem - Mohsine MOUTAOUALI [c], Chemseddine Chitibi [Y 29'] (66' Mabide Vivien),
+      HAFIDI Abdelilah (80' Yassine SALHI), Kouko GUEHI, Issam ERRAKI - Mouhssine IAJOUR (108' Idrissa COULIBALY)
+CF Monterrey: Jonathan OROZCO - Severo MEZA, Leobardo López, Ricardo OSORIO [Y 23'],
+      Efrain JUAREZ (100' Darvin CHAVEZ), José BASANTA [c] - Lucas SILVA, Jesus ZAVALA [Y 79'] (98' Marlon De Jesús),
+      Neri CARDOZO - Cesar DELGADO (75' Omar ARELLANO), Humberto SUAZO [Y 85']
+
+Refs: Alireza FAGHANI (IRN), Hassan KAMRANIFAR (IRN), Reza SOKHANDAN (IRN)
+
+
+▪ Semi-final
+Tue Dec 17 19:30 UTC+0 @ Agadir Stadium, Agadir
+  Guangzhou FC (CHN) v FC Bayern München (GER)  0-3
+     (Franck RIBÉRY 39', Mario MANDZUKIC 43', Mario GOETZE 46')
+
+Guangzhou FC: ZENG Cheng - ZHANG Linpeng, FENG Xiaoting, KIM Younggwon, SUN Xiang -
+      ZHENG Zhi [c], HUANG Bowen (45' Rong HAO), ZHAO Xuri [Y 67'] (75' FENG Junyan) -
+      ELKESON, MURIQUI (71' GAO Lin), Dario CONCA
+FC Bayern München: Manuel NEUER - Daniel VAN BUYTEN, RAFINHA, BOATENG Jerome, Philipp LAHM [c],
+      ALABA David - Thiago Alcântara, Franck RIBÉRY (71' Xherdan SHAQIRI),
+      Mario GOETZE, Toni Kroos (57' MARTINEZ Javi) - Mario MANDZUKIC (74' Claudio PIZARRO)
+
+Refs: Bakary GASSAMA (GAM), Angesom OGBAMARIAM (ERI), Evarist MENKOUANDE (CMR)
+
+
+▪ Match for fifth place
+Wed Dec 18 16:30 UTC+0 @ Marrakech Stadium, Marrakesh
+  Al Ahly FC (EGY) v CF Monterrey (MEX)  1-5
+     (EMAD METEAB 7';
+      Neri CARDOZO 2', Cesar DELGADO 21', 64', Leobardo López 26', Humberto SUAZO 44'(p))
+
+Al Ahly FC: SHERIF EKRAMY - Rami RABIA [Y 80'], WAEL GOMAA [c], Mohamed NAGUIB -
+      Shehab AHMED, Walid Soliman (65' Ahmed SHOKRY), Ahmed Shadid (45' SAAD SAMIR ),
+      ABDALLA SAID, AHMED FATHI [Y 42'], TREZIGUET - EMAD METEAB (67' AMR GAMAL)
+CF Monterrey: Juan de Dios IBARRA - Severo MEZA, Leobardo López, Ricardo OSORIO, Darvin CHAVEZ,
+      Efrain JUAREZ [Y 37'] (85' Alejandro GARCIA), José BASANTA [c] - Lucas SILVA (88' Jesus ZAVALA),
+      Neri CARDOZO (77' Omar ARELLANO) - Cesar DELGADO, Humberto SUAZO
+
+Refs: Mark GEIGER (USA), Sean HURD (USA), Joe FLETCHER (CAN)
+
+
+▪ Semi-final
+Wed Dec 18 19:30 UTC+0 @ Marrakech Stadium, Marrakesh
+  Raja Casablanca (MAR) v Atlético Mineiro (BRA)  3-1
+     (Mouhssine IAJOUR 50', Mohsine MOUTAOUALI 83'(p), Mabide Vivien 90+3';
+      RONALDINHO 63')
+
+Raja Casablanca: Khalid ASKRI - Zakaria EL HACHIMI, Mohamed OULHAJ, Adil KARROUCHY, Ismail Benlamaalem -
+      Mohsine MOUTAOUALI [c], Chemseddine Chitibi (55' Mabide Vivien), HAFIDI Abdelilah (75' Deo KANDA),
+      Kouko GUEHI, Issam ERRAKI - Mouhssine IAJOUR (87' Idrissa COULIBALY)
+Atlético Mineiro: VICTOR - MARCOS ROCHA (62' LUAN), LEONARDO SILVA, REVER [c] [Y 82'] -
+      PIERRE, LUCAS (84' ALECSANDRO), JOSUÉ (56' LEANDRO DONIZETE) - JO, DIEGO TARDELLI,
+      RONALDINHO, FERNANDINHO
+
+Refs: Carlos VELASCO CARBALLO (ESP), Roberto Alonso Fernández (ESP), Juan Carlos Yuste Jiménez (ESP)
+
+
+▪ Match for third place
+Sat Dec 21 16:30 UTC+0 @ Marrakech Stadium, Marrakesh
+  Guangzhou FC (CHN) v Atlético Mineiro (BRA)  2-3
+     (MURIQUI 8', Dario CONCA 14'(p);
+      DIEGO TARDELLI 1', RONALDINHO 45', LUAN 90')
+
+Guangzhou FC: LI Shuai - ZHANG Linpeng, FENG Xiaoting, KIM Younggwon, SUN Xiang [Y 32'] (63' Rong HAO) -
+      ZHENG Zhi [c] (84' ZHAO Xuri), HUANG Bowen - ELKESON (76' FENG Junyan),
+      MURIQUI, Dario CONCA, GAO Lin
+Atlético Mineiro: VICTOR - MARCOS ROCHA, LEONARDO SILVA, REVER [c] [Y 89'] - PIERRE, LUCAS [Y 13'] (32' JUNIOR CESAR),
+      JOSUÉ (78' LEANDRO DONIZETE) - JO (59' LUAN), DIEGO TARDELLI, RONALDINHO [R 86'],
+      FERNANDINHO
+
+Refs: Alireza FAGHANI (IRN), Hassan KAMRANIFAR (IRN), Reza SOKHANDAN (IRN)
+
+
+▪ Final
+Sat Dec 21 19:30 UTC+0 @ Marrakech Stadium, Marrakesh
+  FC Bayern München (GER) v Raja Casablanca (MAR)  2-0
+     (DANTE 6', Thiago Alcântara 21')
+
+FC Bayern München: Manuel NEUER - DANTE, RAFINHA, BOATENG Jerome, Philipp LAHM [c], ALABA David -
+      Thiago Alcântara, Franck RIBÉRY, Xherdan SHAQIRI (79' Mario GOETZE),
+      Thomas MUELLER (75' Mario MANDZUKIC), Toni Kroos (59' MARTINEZ Javi)
+Raja Casablanca: Khalid ASKRI - Zakaria EL HACHIMI, Mohamed OULHAJ [Y 54'], Adil KARROUCHY,
+      Ismail Benlamaalem - Mohsine MOUTAOUALI [c], Chemseddine Chitibi (49' Mabide Vivien),
+      HAFIDI Abdelilah (87' Badr KACHANI), Kouko GUEHI, Issam ERRAKI - Mouhssine IAJOUR (77' Rachid SOULAIMANI [Y 78'])
+
+Refs: Sandro RICCI (BRA), Emerson DE CARVALHO (BRA), Marcelo Carvalho Van Gasse (BRA)
+
+

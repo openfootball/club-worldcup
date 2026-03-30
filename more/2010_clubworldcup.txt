@@ -1,0 +1,57 @@
+= Club World Cup 2010
+
+# Dates    Wed Dec 8 - Sat Dec 18 2010 (10d)
+# Teams    7
+#   Al-Wahda Sports Club (UAE)
+#   Hekari United FC (PNG)
+#   TP Mazembe (COD)
+#   Pachuca (MEX)
+#   Seongnam (KOR)
+#   Internacional (BRA)
+#   Internazionale (ITA)
+# Matches  8
+# Venues   2 (in 1 city)
+#   Zayed Sports City Stadium, Abu Dhabi (UAE)
+#   Mohammed Bin Zayed Stadium, Abu Dhabi (UAE)
+
+
+▪ Play-off for quarter-final
+Wed Dec 8
+  20:00 UTC+4   Al-Wahda Sports Club (UAE)  3-0  Hekari United FC (PNG)   @ Abu Dhabi
+                  (HUGO 39', FERNANDO BAIANO 43', ABDULRAHEEM JUMAA 70')
+
+▪ Quarter-final
+Fri Dec 10
+  20:00 UTC+4   TP Mazembe (COD)  1-0  Pachuca (MEX)   @ Abu Dhabi
+                  (Mbenza BEDI 20')
+Sat Dec 11
+  20:00 UTC+4   Al-Wahda Sports Club (UAE)  1-4  Seongnam (KOR)   @ Abu Dhabi
+                  (FERNANDO BAIANO 26';
+                   Mauricio MOLINA 3', Sasa OGNENOVSKI 29', CHOI Sung Kuk 70', CHO Dong Geon 80')
+
+▪ Semi-final
+Tue Dec 14
+  20:00 UTC+4   TP Mazembe (COD)  2-0  Internacional (BRA)   @ Abu Dhabi
+                  (Mulota KABANGU 52', Alain KALUYITUKA 85')
+
+▪ Match for fifth place
+Wed Dec 15
+  18:00 UTC+4   Pachuca (MEX)  2-2 a.e.t., 4-2 pen.  Al-Wahda Sports Club (UAE)   @ Abu Dhabi
+                  (Dario CVITANICH 81', 88';
+                   ISMAEIL MATAR 43', MAHMOUD KHAMIS 76')
+
+▪ Semi-final
+Wed Dec 15
+  21:00 UTC+4   Seongnam (KOR)  0-3  Internazionale (ITA)   @ Abu Dhabi
+                  (Dejan STANKOVIC 2', Javier ZANETTI 31', Diego MILITO 72')
+
+▪ Match for third place
+Sat Dec 18
+  18:00 UTC+4   Internacional (BRA)  4-2  Seongnam (KOR)   @ Abu Dhabi
+                  (TINGA 14', ALECSANDRO 26', 70', Andres D ALESSANDRO 51';
+                   Mauricio MOLINA 83', 90+2')
+
+▪ Final
+Sat Dec 18
+  21:00 UTC+4   TP Mazembe (COD)  0-3  Internazionale (ITA)   @ Abu Dhabi
+                  (Goran PANDEV 12', Samuel ETOO 16', Jonathan BIABIANY 84')

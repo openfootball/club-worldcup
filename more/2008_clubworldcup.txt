@@ -1,0 +1,58 @@
+= Club World Cup 2008
+
+# Dates    Thu Dec 11 - Sun Dec 21 2008 (10d)
+# Teams    7
+#   Adelaide United (AUS)
+#   Waitakere United (NZL)
+#   Al Ahly FC (EGY)
+#   Pachuca (MEX)
+#   Gamba Osaka (JPN)
+#   LDU Quito (ECU)
+#   Manchester United (ENG)
+# Matches  8
+# Venues   3 (in 3 cities)
+#   Toyota Stadium, Japan (JPN)
+#   Olympic Stadium, Tokyo (JPN)
+#   International Stadium Yokohama, Yokohama (JPN)
+
+
+▪ Play-off for quarter-final
+Thu Dec 11
+  19:45 UTC+9   Adelaide United (AUS)  2-1  Waitakere United (NZL)   @ Tokyo
+                  (Daniel MULLEN 39', Travis DODD 83';
+                   Paul SEAMAN 34')
+
+▪ Quarter-final
+Sat Dec 13
+  13:45 UTC+9   Al Ahly FC (EGY)  2-4 a.e.t.  Pachuca (MEX)   @ Tokyo
+                  (Fausto PINTO 28'(og), FLAVIO 45';
+                   Luis MONTES 47', Christian GIMÉNEZ 73', 110', Damian ALVAREZ 98')
+Sun Dec 14
+  19:30 UTC+9   Adelaide United (AUS)  0-1  Gamba Osaka (JPN)   @ Japan
+                  (Yasuhito ENDO 23')
+
+▪ Semi-final
+Wed Dec 17
+  19:30 UTC+9   Pachuca (MEX)  0-2  LDU Quito (ECU)   @ Tokyo
+                  (Claudio BIELER 4', Luis Bolaños 26')
+
+▪ Match for fifth place
+Thu Dec 18
+  16:30 UTC+9   Al Ahly FC (EGY)  0-1  Adelaide United (AUS)   @ Yokohama
+                  (CRISTIANO 7')
+
+▪ Semi-final
+Thu Dec 18
+  19:30 UTC+9   Gamba Osaka (JPN)  3-5  Manchester United (ENG)   @ Yokohama
+                  (Masato YAMAZAKI 74', Yasuhito ENDO 85'(p), Hideo HASHIMOTO 90+1';
+                   Nemanja VIDIC 28', CRISTIANO RONALDO 45+1', Wayne ROONEY 75', 79', Darren FLETCHER 78')
+
+▪ Match for third place
+Sun Dec 21
+  16:30 UTC+9   Pachuca (MEX)  0-1  Gamba Osaka (JPN)   @ Yokohama
+                  (Masato YAMAZAKI 29')
+
+▪ Final
+Sun Dec 21
+  19:30 UTC+9   LDU Quito (ECU)  0-1  Manchester United (ENG)   @ Yokohama
+                  (Wayne ROONEY 73')

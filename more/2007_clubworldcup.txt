@@ -1,0 +1,52 @@
+= Club World Cup 2007
+
+# Dates    Fri Dec 7 - Sun Dec 16 2007 (9d)
+# Teams    7
+#   Sepahan (IRN)
+#   Waitakere United (NZL)
+#   Étoile du Sahel (TUN)
+#   Pachuca (MEX)
+#   Urawa Reds (JPN)
+#   Boca Juniors (ARG)
+#   Milan (ITA)
+# Matches  7
+# Venues   3 (in 3 cities)
+#   Toyota Stadium, Japan (JPN)
+#   Olympic Stadium, Tokyo (JPN)
+#   International Stadium Yokohama, Yokohama (JPN)
+
+
+▪ Play-off for Quarter-final
+Fri Dec 7
+  19:45 UTC+9   Sepahan (IRN)  3-1  Waitakere United (NZL)   @ Tokyo
+                  (EMAD MOHAMMED 2', 4', ABDUL WAHAB ABU AL HAIL 47';
+                   Hadi AGHILY 74'(og))
+
+▪ Quarter-final
+Sun Dec 9
+  14:45 UTC+9   Étoile du Sahel (TUN)  1-0  Pachuca (MEX)   @ Tokyo
+                  (Moussa NARRY 85')
+Mon Dec 10
+  19:30 UTC+9   Sepahan (IRN)  1-3  Urawa Reds (JPN)   @ Japan
+                  (Mahmoud KARIMI 80';
+                   Yuichiro NAGAI 32', WASHINGTON 54', Hadi AGHILY 70'(og))
+
+▪ Semi-final
+Wed Dec 12
+  19:30 UTC+9   Étoile du Sahel (TUN)  0-1  Boca Juniors (ARG)   @ Tokyo
+                  (Neri CARDOZO 37')
+Thu Dec 13
+  19:30 UTC+9   Urawa Reds (JPN)  0-1  Milan (ITA)   @ Yokohama
+                  (Clarence SEEDORF 68')
+
+▪ Match for third place
+Sun Dec 16
+  16:00 UTC+9   Étoile du Sahel (TUN)  2-2 a.e.t., 2-4 pen.  Urawa Reds (JPN)   @ Yokohama
+                  (Sabeur FREJ 5'(p), Amine CHERMITI 75';
+                   WASHINGTON 35', 70')
+
+▪ Final
+Sun Dec 16
+  19:30 UTC+9   Boca Juniors (ARG)  2-4  Milan (ITA)   @ Yokohama
+                  (Rodrigo PALACIO 22', Pablo LEDESMA 85';
+                   Filippo INZAGHI 21', 71', Alessandro NESTA 50', KAKA 61')

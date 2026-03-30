@@ -1,0 +1,143 @@
+= Club World Cup 2016
+
+# Dates    Thu Dec 8 - Sun Dec 18 2016 (10d)
+# Teams    7
+#   Kashima Antlers (JPN)
+#   Auckland City FC (NZL)
+#   Jeonbuk Motors (KOR)
+#   América (MEX)
+#   Mamelodi Sundowns (RSA)
+#   Atlético Nacional (COL)
+#   Real Madrid (ESP)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Suita City Football Stadium, Osaka (JPN)
+#   International Stadium Yokohama, Yokohama (JPN)
+
+▪ First round
+Thu Dec 8 19:30 UTC+9 @ International Stadium Yokohama, Yokohama
+  Kashima Antlers (JPN) v Auckland City FC (NZL)  2-1
+     (Shuhei AKASAKI 66', Mu Kanazaki 87';
+      KIM Daewook 49')
+
+Kashima Antlers: Hitoshi SOGAHATA - Gen SHOJI, HWANG Seokho, Shuto Yamamoto, Daigo Nishi [Y 44'] -
+      Ryota Nagaki, Gaku Shibasaki, Yasushi ENDO (82' Atsutaka NAKAMURA), Mitsuo OGASAWARA [c] (62' Mu Kanazaki) -
+      Shoma Doi, FABRICIO (53' Shuhei AKASAKI)
+Auckland City FC: Enaut ZUBIKARAI - Takuya IWATA, Angel BERLANGA [c], Darren WHITE, KIM Daewook -
+      Albert RIERA, Fabrizio TAVANO, Clayton LEWIS, Joao MOREIRA - Ryan DE VRIES (82' Micah LEAALAFA),
+      Emiliano TADE (90+2' Nicolai BERRY)
+
+
+
+▪ Second round
+Sun Dec 11 16:00 UTC+9 @ Suita City Football Stadium, Osaka
+  Jeonbuk Motors (KOR) v América (MEX)  1-2
+     (KIM Bokyung 22';
+      Silvio ROMERO 57', 73')
+
+Jeonbuk Motors: HONG Jungnam - LIM Jongeun, PARK Wonjae, CHOI Chulsoon [Y 61'], KIM Changsoo (76' Ko MU-YEOL) -
+      SHIN Hyungmin [c] [Y 90+2'], JUNG Hyuk [Y 47'] (65' LEONARDO), KIM Bokyung,
+      LEE Jaesung - EDU (75' LEE Donggook), KIM Shinwook
+América: Moises MUNOZ - Paolo GOLTZ [Y 14'], Miguel SAMUDIO, Pablo AGUILAR, Bruno  VALDEZ [Y 70'],
+      Edson ALVAREZ (45' Michael ARROYO) - WILLIAM DA SILVA, Osvaldo MARTINEZ (45' Jose GUERRERO) -
+      Silvio ROMERO, Oribe PERALTA [c], Carlos Quintero (69' Ventura ALVARADO)
+
+
+
+Sun Dec 11 19:30 UTC+9 @ Suita City Football Stadium, Osaka
+  Mamelodi Sundowns (RSA) v Kashima Antlers (JPN)  0-2
+     (Yasushi ENDO 62', Mu Kanazaki 87')
+
+Mamelodi Sundowns: Denis ONYANGO - Tebogo LANGERMAN, Wayne ARENDSE, RICARDO NASCIMENTO -
+      Keagan DOLLY, Hlompho KEKANA [c], Samuel MABUNDA, Percy TAU, Thapelo MORENA (70' Anthony LAFFOR) -
+      Leonardo CASTRO (64' Siyanda ZWANE), Khama BILLIAT (78' Sibusiso VILAKAZI)
+Kashima Antlers: Hitoshi SOGAHATA - Gen SHOJI, Shuto Yamamoto, Daigo Nishi, Naomichi UEDA -
+      Ryota Nagaki [c], Gaku Shibasaki, Atsutaka NAKAMURA (60' Mu Kanazaki),
+      Yasushi ENDO (88' Taro Sugimoto) - Shoma Doi, Shuhei AKASAKI (83' Yuma Suzuki)
+
+
+
+▪ Match for fifth place
+Wed Dec 14 16:30 UTC+9 @ Suita City Football Stadium, Osaka
+  Jeonbuk Motors (KOR) v Mamelodi Sundowns (RSA)  4-1
+     (KIM Bokyung 17', LEE Jongho 28', RICARDO NASCIMENTO 40'(og), KIM Shinwook 88';
+      Percy TAU 47')
+
+Jeonbuk Motors: HONG Jungnam - LIM Jongeun, PARK Wonjae, CHOI Chulsoon [c], KIM Youngchan -
+      HAN Kyowon, KIM Bokyung, LEE Jaesung, Ko MU-YEOL (61' LEONARDO), JANG Yunho (71' LEE Hando) -
+      LEE Jongho (77' KIM Shinwook)
+Mamelodi Sundowns: Denis ONYANGO - Tebogo LANGERMAN, Wayne ARENDSE, RICARDO NASCIMENTO -
+      Keagan DOLLY, Hlompho KEKANA [c] [Y 50'], Samuel MABUNDA [Y 55'], Percy TAU,
+      Thapelo MORENA (80' Lucky MOHOMI) - Leonardo CASTRO (45' Sibusiso VILAKAZI),
+      Khama BILLIAT (74' Asavela MBEKILE)
+
+
+
+▪ Semi-final
+Wed Dec 14 19:30 UTC+9 @ Suita City Football Stadium, Osaka
+  Atlético Nacional (COL) v Kashima Antlers (JPN)  0-3
+     (Shoma Doi 32'(p), Yasushi ENDO 82', Yuma Suzuki 84')
+
+Atlético Nacional: Franco ARMANI - Daniel BOCANEGRA, Felipe AGUILAR, Alexis CHARALES [c] [Y 55'],
+      Farid DIAZ - Mateus URIBE [Y 70'], Diego ARIAS (59' Alejandro GUERRA),
+      Macnelly TORRES - Miguel BORJA, Jhon MOSQUERA (66' Cristian DAJOME),
+      Orlando BERRIO (86' Arley RODRIGUEZ)
+Kashima Antlers: Hitoshi SOGAHATA - Gen SHOJI, Shuto Yamamoto, Daigo Nishi, Naomichi UEDA -
+      Gaku Shibasaki, Atsutaka NAKAMURA (83' Yuma Suzuki), Yasushi ENDO, Mitsuo OGASAWARA [c] (57' Ryota Nagaki) -
+      Shoma Doi, Shuhei AKASAKI (53' Mu Kanazaki)
+
+
+
+Thu Dec 15 19:30 UTC+9 @ International Stadium Yokohama, Yokohama
+  América (MEX) v Real Madrid (ESP)  0-2
+     (Karim Benzema 45+1', CRISTIANO RONALDO 90+2')
+
+América: Moises MUNOZ - Paolo GOLTZ, Miguel SAMUDIO, Pablo AGUILAR, Ventura ALVARADO (53' Jose GUERRERO),
+      Bruno  VALDEZ - WILLIAM DA SILVA, Rubens SAMBUEZA [c] [Y 21'], Alex IBARRA (61' Carlos Quintero) -
+      Silvio ROMERO (69' Michael ARROYO), Oribe PERALTA
+Real Madrid: Keylor NAVAS - Dani CARVAJAL, Raphael VARANE, NACHO [Y 90'], MARCELO [c] -
+      Toni Kroos (71' James RODRIGUEZ), CASEMIRO, Lucas VAZQUEZ, Luka MODRIC -
+      CRISTIANO RONALDO, Karim Benzema (79' Alvaro MORATA)
+
+
+
+▪ Match for third place
+Sun Dec 18 16:00 UTC+9 @ International Stadium Yokohama, Yokohama
+  América (MEX) v Atlético Nacional (COL)  2-2 a.e.t., 3-4 pen.
+     (Michael ARROYO 38', Oribe PERALTA 65'(p);
+      Miguel SAMUDIO 5'(og), Alejandro GUERRA 25')
+
+Penalties:     Osvaldo MARTINEZ (missed), 0-1 Jhon MOSQUERA,
+               Miguel SAMUDIO (missed),     Juan Pablo NIETO (missed),
+           1-1 Carlos Quintero, 1-2 Daniel BOCANEGRA,
+           2-2 Oribe PERALTA, 2-3 Macnelly TORRES,
+           3-3 Michael ARROYO, 3-4 Miguel BORJA
+
+América: Moises MUNOZ - Erik PIMENTEL [Y 66'], Miguel SAMUDIO, Pablo AGUILAR [Y 56'],
+      Ventura ALVARADO (45' Carlos Quintero), Bruno  VALDEZ - WILLIAM DA SILVA,
+      Rubens SAMBUEZA [c] (69' Osvaldo MARTINEZ), Jose GUERRERO - Silvio ROMERO (58' Oribe PERALTA),
+      Michael ARROYO
+Atlético Nacional: Franco ARMANI - Daniel BOCANEGRA, Felipe AGUILAR, Alexis CHARALES [c] [Y 77'],
+      Farid DIAZ [Y 62'] - Mateus URIBE (69' Juan Pablo NIETO [Y 76']), Diego ARIAS,
+      Macnelly TORRES, Alejandro GUERRA (77' Miguel BORJA) - Jhon MOSQUERA,
+      Orlando BERRIO [Y 81'] (88' Arley RODRIGUEZ)
+
+
+
+▪ Final
+Sun Dec 18 19:30 UTC+9 @ International Stadium Yokohama, Yokohama
+  Real Madrid (ESP) v Kashima Antlers (JPN)  4-2 a.e.t.
+     (Karim Benzema 8', CRISTIANO RONALDO 59'(p), 97', 103';
+      Gaku Shibasaki 43', 51')
+
+Real Madrid: Keylor NAVAS - Dani CARVAJAL [Y 101'], Sergio RAMOS [c] [Y 54'] (107' NACHO),
+      Raphael VARANE, MARCELO - Toni Kroos, CASEMIRO [Y 99'], Lucas VAZQUEZ (80' ISCO),
+      Luka MODRIC (105' Mateo KOVACIC) - CRISTIANO RONALDO (111' Alvaro MORATA),
+      Karim Benzema
+Kashima Antlers: Hitoshi SOGAHATA - Gen SHOJI, Shuto Yamamoto [Y 58'], Daigo Nishi, Naomichi UEDA -
+      Ryota Nagaki (113' Shuhei AKASAKI), Gaku Shibasaki, Yasushi ENDO (102' Yukitoshi ITO),
+      Mitsuo OGASAWARA [c] (66' FABRICIO [Y 92']) - Shoma Doi (87' Yuma Suzuki),
+      Mu Kanazaki
+
+
+

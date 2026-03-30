@@ -1,0 +1,48 @@
+= Club World Cup 2023
+
+# Dates    Tue Dec 12 - Fri Dec 22 2023 (10d)
+# Teams    7
+#   Al Ittihad FC (KSA)
+#   Auckland City FC (NZL)
+#   Club León (MEX)
+#   Urawa Reds (JPN)
+#   Al Ahly FC (EGY)
+#   Fluminense FC (BRA)
+#   Manchester City FC (ENG)
+# Matches  7
+# Venues   2 (in 1 city)
+#   Prince Abdullah Al-Faisal Stadium, Jeddah (KSA)
+#   King Abdullah Sports City Stadium, Jeddah (KSA)
+
+
+▪ 1st Round
+Tue Dec 12
+  21:00 UTC+3   Al Ittihad FC (KSA)  3-0  Auckland City FC (NZL)   @ Jeddah
+                  (ROMARINHO 29', Ngolo KANTE 34', Karim BENZEMA 40')
+
+▪ 2nd Round
+Fri Dec 15
+  17:30 UTC+3   Club León (MEX)  0-1  Urawa Reds (JPN)   @ Jeddah
+                  (Alex SCHALK 78')
+  21:00 UTC+3   Al Ahly FC (EGY)  3-1  Al Ittihad FC (KSA)   @ Jeddah
+                  (Ali MAALOUL 21'(p), HUSSEIN ELSHAHAT 59', EMAM ASHOUR 62';
+                   Karim BENZEMA 90+2')
+
+▪ Semi-Final
+Mon Dec 18
+  21:00 UTC+3   Fluminense FC (BRA)  2-0  Al Ahly FC (EGY)   @ Jeddah
+                  (Jhon ARIAS 71'(p), JOHN KENNEDY 90')
+Tue Dec 19
+  21:00 UTC+3   Urawa Reds (JPN)  0-3  Manchester City FC (ENG)   @ Jeddah
+                  (Marius HOIBRATEN 45+1'(og), Mateo KOVACIC 52', BERNARDO SILVA 59')
+
+▪ 3rd Place
+Fri Dec 22
+  17:30 UTC+3   Urawa Reds (JPN)  2-4  Al Ahly FC (EGY)   @ Jeddah
+                  (Jose KANTE 43', Alexander SCHOLZ 54'(p);
+                   YASSER IBRAHIM 19', Percy TAU 25', Yoshio KOIZUMI 60'(og), Ali MAALOUL 90+8')
+
+▪ Final
+Fri Dec 22
+  21:00 UTC+3   Manchester City FC (ENG)  4-0  Fluminense FC (BRA)   @ Jeddah
+                  (Julian ALVAREZ 1', 88', NINO 27'(og), Phil FODEN 72')

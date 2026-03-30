@@ -1,0 +1,47 @@
+= Club World Cup 2019
+
+# Dates    Wed Dec 11 - Sat Dec 21 2019 (10d)
+# Teams    7
+#   Al Sadd (QAT)
+#   Hienghène Sport (NCL)
+#   Al Hilal (KSA)
+#   Espérance Tunis (TUN)
+#   Monterrey (MEX)
+#   Flamengo (BRA)
+#   Liverpool (ENG)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Khalifa International Stadium, Ar-Rayyan (QAT)
+#   Jassim Bin Hamad Stadium, Doha (QAT)
+
+
+▪ 1st Round
+Wed Dec 11
+  20:30 UTC+3   Al Sadd (QAT)  0-0  Hienghène Sport (NCL)   @ Doha
+
+▪ 2nd Round
+Sat Dec 14
+  17:00 UTC+3   Al Hilal (KSA)  0-0  Espérance Tunis (TUN)   @ Doha
+  20:30 UTC+3   Monterrey (MEX)  0-0  Al Sadd (QAT)   @ Doha
+
+▪ 5th Place
+Tue Dec 17
+  17:30 UTC+3   Al Sadd (QAT)  2-6  Espérance Tunis (TUN)   @ Ar-Rayyan
+                  (BOUNEDJAH Baghdad 32', HASSAN ALHAYDOS 49';
+                   Hamdou ELHOUNI 6', 42', 74', Anice BADRI 13', 25', Sameh DERBALI 87')
+
+▪ Semi-Final
+Tue Dec 17
+  20:30 UTC+3   Flamengo (BRA)  0-0  Al Hilal (KSA)   @ Ar-Rayyan
+Wed Dec 18
+  20:30 UTC+3   Monterrey (MEX)  0-0  Liverpool (ENG)   @ Ar-Rayyan
+
+▪ 3rd Place
+Sat Dec 21
+  17:30 UTC+3   Monterrey (MEX)  2-2 a.e.t., 4-3 pen.  Al Hilal (KSA)   @ Ar-Rayyan
+                  (Arturo GONZALEZ 55', Maximiliano MEZA 60', Jonathan Alexander GONZALEZ 90+2', Stefan MEDINA 90+3', Rogelio FUNES MORI 90+5', Luis CARDENAS 90+8';
+                   Carlos Eduardo de Oliveira Alves 35', Bafetimbi Gomis 66', 90+1', Sebastian GIOVINCO 90+3', JANG Hyunsoo 90+6')
+
+▪ Final
+Sat Dec 21
+  20:30 UTC+3   Liverpool (ENG)  0-0  Flamengo (BRA)   @ Ar-Rayyan

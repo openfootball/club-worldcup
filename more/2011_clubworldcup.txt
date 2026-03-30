@@ -1,0 +1,53 @@
+= Club World Cup 2011
+
+# Dates    Thu Dec 8 - Sun Dec 18 2011 (10d)
+# Teams    7
+#   Kashiwa Reysol (JPN)
+#   Auckland City FC (NZL)
+#   Espérance Tunis (TUN)
+#   Al Sadd (QAT)
+#   Monterrey (MEX)
+#   Santos (BRA)
+#   Barcelona (ESP)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Toyota Stadium, Japan (JPN)
+#   International Stadium Yokohama, Yokohama (JPN)
+
+
+▪ Play-off for quarter-final
+Thu Dec 8
+  19:45 UTC+9   Kashiwa Reysol (JPN)  2-0  Auckland City FC (NZL)   @ Japan
+                  (Junya TANAKA 36', Masato KUDO 39')
+
+▪ Quarter-final
+Sun Dec 11
+  16:00 UTC+9   Espérance Tunis (TUN)  1-2  Al Sadd (QAT)   @ Japan
+                  (Oussama DARRAGI 59';
+                   KHALFAN IBRAHIM 32', Abdulla KONI 48')
+  19:30 UTC+9   Kashiwa Reysol (JPN)  1-1 a.e.t., 4-3 pen.  Monterrey (MEX)   @ Japan
+                  (LEANDRO DOMINGUES 52'; Humberto SUAZO 57')
+
+▪ Match for fifth place
+Wed Dec 14
+  16:30 UTC+9   Monterrey (MEX)  3-2  Espérance Tunis (TUN)   @ Japan
+                  (Hiram MIER 38', Aldo DE NIGRIS 43', Jesus ZAVALA 46';
+                   Yannick NDJENG 30', Khaled MOUELHI 75'(p))
+
+▪ Semi-final
+Wed Dec 14
+  19:30 UTC+9   Kashiwa Reysol (JPN)  1-3  Santos (BRA)   @ Japan
+                  (Hiroki Sakai 53';
+                   NEYMAR 18', BORGES 23', DANILO 62')
+Thu Dec 15
+  19:30 UTC+9   Al Sadd (QAT)  0-4  Barcelona (ESP)   @ Yokohama
+                  (ADRIANO 24', 42', Seydou KEITA 63', MAXWELL 80')
+
+▪ Match for third place
+Sun Dec 18
+  16:30 UTC+9   Kashiwa Reysol (JPN)  0-0 a.e.t., 3-5 pen.  Al Sadd (QAT)   @ Yokohama
+
+▪ Final
+Sun Dec 18
+  19:30 UTC+9   Santos (BRA)  0-4  Barcelona (ESP)   @ Yokohama
+                  (Lionel MESSI 16', 81', Xavi HERNANDEZ 23', Cesc FABREGAS 44')

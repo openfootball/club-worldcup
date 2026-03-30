@@ -1,0 +1,50 @@
+= Club World Cup 2022
+
+# Dates    Wed Feb 1 - Sat Feb 11 2023 (10d)
+# Teams    7
+#   Al Ahly FC (EGY)
+#   Auckland City FC (NZL)
+#   Wydad Athletic Club (MAR)
+#   Al Hilal (KSA)
+#   Seattle Sounders FC (USA)
+#   Flamengo (BRA)
+#   Real Madrid (ESP)
+# Matches  7
+# Venues   2 (in 2 cities)
+#   Prince Moulay Abdellah Stadium, Rabat (MAR)
+#   Tangier Stadium, Tangier (MAR)
+
+
+▪ 1st Round
+Wed Feb 1
+  20:00 UTC+1   Al Ahly FC (EGY)  3-0  Auckland City FC (NZL)   @ Tangier
+                  (HUSSEIN ELSHAHAT 45+2', MOHAMED SHERIF 56', Percy TAU 86')
+
+▪ 2nd Round
+Sat Feb 4
+  15:30 UTC+1   Wydad Athletic Club (MAR)  1-1 a.e.t., 3-5 pen.  Al Hilal (KSA)   @ Rabat
+                  (EL AMLOUD Ayoub 52'; MOHAMED KANNO 90+4'(p))
+  18:00 UTC+1   Seattle Sounders FC (USA)  0-1  Al Ahly FC (EGY)   @ Tangier
+                  (MOHAMED AFSHA 88')
+
+▪ Semi-Final
+Tue Feb 7
+  20:00 UTC+1   Flamengo (BRA)  2-3  Al Hilal (KSA)   @ Tangier
+                  (PEDRO 20', 90+1';
+                   SALEM ALDAWSARI 4'(p), 45+9'(p), Luciano VIETTO 70')
+Wed Feb 8
+  20:00 UTC+1   Al Ahly FC (EGY)  1-4  Real Madrid (ESP)   @ Rabat
+                  (Ali MAALOUL 65'(p);
+                   VINICIUS JR 42', Federico VALVERDE 46', RODRYGO 90+2', Sergio ARRIBAS 90+8')
+
+▪ 3rd Place
+Sat Feb 11
+  16:30 UTC+1   Al Ahly FC (EGY)  2-4  Flamengo (BRA)   @ Tangier
+                  (AHMED ABDELKADER 38', 60';
+                   GABRIEL BARBOSA 11'(p), 85'(p), PEDRO 77', 90+1')
+
+▪ Final
+Sat Feb 11
+  20:00 UTC+1   Real Madrid (ESP)  5-3  Al Hilal (KSA)   @ Rabat
+                  (VINICIUS JR 13', 69', Federico VALVERDE 18', 58', Karim BENZEMA 54';
+                   Moussa Marega 26', Luciano VIETTO 63', 79')

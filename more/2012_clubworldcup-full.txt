@@ -1,0 +1,143 @@
+= Club World Cup 2012
+
+# Dates    Thu Dec 6 - Sun Dec 16 2012 (10d)
+# Teams    7
+#   Sanfrecce Hiroshima (JPN)
+#   Auckland City FC (NZL)
+#   Ulsan (KOR)
+#   Monterrey (MEX)
+#   Al Ahly FC (EGY)
+#   Corinthians (BRA)
+#   Chelsea (ENG)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Toyota Stadium, Japan (JPN)
+#   International Stadium Yokohama, Yokohama (JPN)
+
+▪ Play-off for quarter-final
+Thu Dec 6 19:45 UTC+9 @ International Stadium Yokohama, Yokohama
+  Sanfrecce Hiroshima (JPN) v Auckland City FC (NZL)  1-0
+     (Toshihiro Aoyama 65')
+
+Sanfrecce Hiroshima: Shusaku Nishikawa - Hiroki MIZUMOTO [Y 46'], Kazuhiko CHIBA, Ryota MORIWAKI -
+      Toshihiro Aoyama, Koji MORISAKI (90+2' Naoki ISHIHARA), Kazuyuki MORISAKI,
+      Mihael MIKIC (81' HWANG Seokho), Yojiro TAKAHAGI, Kohei SHIMIZU (60' Satoru YAMAGISHI [Y 70']) -
+      Hisato SATO [c]
+Auckland City FC: Tamati WILLIAMS - Takuya IWATA, Angel BERLANGA [Y 37'], Ivan VICELICH [c],
+      Andrew MILNE - Christopher BALE, Alex FENERIDIS, Albert RIERA [Y 49'] -
+      Manel EXPOSITO (77' Emiliano TADE), Daniel KOPRIVCIC (67' Luis CORRALES),
+      Adam DICKINSON
+
+Refs: Djamel HAIMOUDI (ALG), Redouane ACHIK (MAR), Abdelhak ETCHIALI (ALG)
+
+
+▪ Quarter-final
+Sun Dec 9 16:00 UTC+9 @ Toyota Stadium, Japan
+  Ulsan (KOR) v Monterrey (MEX)  1-3
+     (LEE Keunho 87';
+      Jesus CORONA 8', Cesar DELGADO 76', 83')
+
+Ulsan: KIM Youngkwang - LEE Yong, KWAK Taehwi [c], KIM Youngsam (55' LEE JaeSung),
+      KIM Chigon - LEE Ho, KIM Seung Yong (70' KO Changhyun), Juan ESTIVEN VELEZ -
+      KIM Shinwook [Y 70'] (77' Maranhao), LEE Keunho, RAFINHA
+Monterrey: Jonathan OROZCO [Y 64'] - Severo MEZA [Y 40'], Darvin CHAVEZ [Y 61'],
+      José BASANTA [c], Hiram MIER, Sergio PEREZ - Jesus CORONA (89' Abraham CARRENO),
+      Neri CARDOZO (89' Miguel MORALES) - Aldo DE NIGRIS, Walter AYOVI, Cesar DELGADO (89' Edgar SOLIS)
+
+Refs: Cüneyt Çakιr (TUR), Bahattin Duran (TUR), Tarık Ongun (TUR)
+
+
+Sun Dec 9 19:30 UTC+9 @ Toyota Stadium, Japan
+  Sanfrecce Hiroshima (JPN) v Al Ahly FC (EGY)  1-2
+     (Hisato SATO 31';
+      Sayed Hamdi 14', Mohamed ABOUTRIKA 56')
+
+Sanfrecce Hiroshima: Shusaku Nishikawa (7' Takuya MASUDA) - Hiroki MIZUMOTO, Kazuhiko CHIBA,
+      Ryota MORIWAKI (45' HWANG Seokho) - Toshihiro Aoyama, Koji MORISAKI,
+      Kazuyuki MORISAKI [Y 34'], Mihael MIKIC, Yojiro TAKAHAGI, Kohei SHIMIZU (81' Satoru YAMAGISHI) -
+      Hisato SATO [c]
+Al Ahly FC: SHERIF EKRAMY - WAEL GOMAA [Y 80'], Mohamed NAGUIB - Ahmed Shadid, HOSSAM GHALY [c] (33' Mohamed ABOUTRIKA),
+      AHMED FATHI, Hossam ASHOUR [Y 45'] - Walid Soliman [Y 11'] (79' Mohamed BARAKAT),
+      Mohamed Nagy Gedo, Sayed Hamdi (70' TREZIGUET [Y 78']), ABDALLA SAID
+
+Refs: Carlos Alfredo Vera Rodríguez (ECU), Christian Daniel Lescano Guerrero (ECU), Byron Norberto Romero Ibarra (ECU)
+
+
+▪ Match for fifth place
+Wed Dec 12 16:30 UTC+9 @ Toyota Stadium, Japan
+  Ulsan (KOR) v Sanfrecce Hiroshima (JPN)  2-3
+     (Hiroki MIZUMOTO 16'(og), LEE Yong 90+4';
+      Satoru YAMAGISHI 34', Hisato SATO 55', 71')
+
+Ulsan: KIM Youngkwang - LEE Yong, KWAK Taehwi [c], KIM Youngsam, KIM Chigon (51' LEE JaeSung) -
+      LEE Ho [Y 33'], KIM Seung Yong (75' Maranhao), KO Seulki - KIM Shinwook,
+      LEE Keunho, RAFINHA [Y 89']
+Sanfrecce Hiroshima: Shusaku Nishikawa [Y 90'] - HWANG Seokho [Y 65'], Hiroki MIZUMOTO, Tsukasa Shiotani [Y 87'] -
+      Toshihiro Aoyama, Koji MORISAKI, Kazuyuki MORISAKI (78' Naoki ISHIHARA),
+      Yojiro TAKAHAGI, Satoru YAMAGISHI (74' Kohei SHIMIZU), Hironori ISHIKAWA (90+4' Kazuhiko CHIBA) -
+      Hisato SATO [c]
+
+Refs: Nawaf Abdulla Ghayyath Shukralla (BHR), Yaser TULEFAT (BHR), Ebrahim SALEH (BHR)
+
+
+▪ Semi-final
+Wed Dec 12 19:30 UTC+9 @ Toyota Stadium, Japan
+  Al Ahly FC (EGY) v Corinthians (BRA)  0-1
+     (Paolo GUERRERO 29')
+
+Al Ahly FC: SHERIF EKRAMY (64' Mahmoud ABOU ELSEOUD) - Rami RABIA, WAEL GOMAA [c],
+      Mohamed NAGUIB - Ahmed Shadid, AHMED FATHI, Hossam ASHOUR - Walid Soliman,
+      Mohamed Nagy Gedo (79' EMAD METEAB), Sayed Hamdi, ABDALLA SAID (54' Mohamed ABOUTRIKA)
+Corinthians: CASSIO - ALESSANDRO [c], CHICAO, FABIO SANTOS, PAULO ANDRE - RALF, PAULINHO,
+      DOUGLAS (79' JORGE HENRIQUE), DANILO - Paolo GUERRERO (90+1' GUILHERME ANDRADE),
+      Emerson Sheik (74' ROMARINHO)
+
+Refs: Marco RODRIGUEZ (MEX), Marvin TORRENTERA (MEX), Marcos QUINTERO (MEX)
+
+
+Thu Dec 13 19:30 UTC+9 @ International Stadium Yokohama, Yokohama
+  Monterrey (MEX) v Chelsea (ENG)  1-3
+     (Aldo DE NIGRIS 90+1';
+      Juan MATA 16', Fernando TORRES 45', Darvin CHAVEZ 47'(og))
+
+Monterrey: Jonathan OROZCO - Severo MEZA (82' Edgar SOLIS), Darvin CHAVEZ, José BASANTA [c],
+      Hiram MIER, Sergio PEREZ (56' Ricardo OSORIO) - Jesus CORONA, Neri CARDOZO -
+      Aldo DE NIGRIS, Walter AYOVI, Cesar DELGADO (82' Abraham CARRENO)
+Chelsea: Petr CECH [c] - Branislav IVANOVIC, Ashley COLE, DAVID LUIZ (62' Frank LAMPARD),
+      Gary CAHILL, Cesar AZPILICUETA - OSCAR, John Obi MIKEL, Eden HAZARD -
+      Fernando TORRES (78' Victor Moses), Juan MATA (73' PAULO FERREIRA)
+
+Refs: Carlos Alfredo Vera Rodríguez (ECU), Christian Daniel Lescano Guerrero (ECU), Byron Norberto Romero Ibarra (ECU)
+
+
+▪ Match for third place
+Sun Dec 16 16:30 UTC+9 @ International Stadium Yokohama, Yokohama
+  Al Ahly FC (EGY) v Monterrey (MEX)  0-2
+     (Jesus CORONA 2', Cesar DELGADO 65')
+
+Al Ahly FC: Mahmoud ABOU ELSEOUD - Rami RABIA, WAEL GOMAA [c] [Y 79'], Mohamed NAGUIB -
+      Sayed MOAWAD, AHMED FATHI (61' Mohamed BARAKAT), Hossam ASHOUR [Y 7'] -
+      EMAD METEAB (52' Sayed Hamdi), Walid Soliman (76' Mohamed Nagy Gedo),
+      ABDALLA SAID, Mohamed ABOUTRIKA
+Monterrey: Jonathan OROZCO - Severo MEZA, Ricardo OSORIO, Darvin CHAVEZ, José BASANTA [c],
+      Hiram MIER - Jesus CORONA (62' Abraham CARRENO), Neri CARDOZO (83' Edgar SOLIS) -
+      Aldo DE NIGRIS, Walter AYOVI, Cesar DELGADO (78' Miguel MORALES)
+
+Refs: Peter O LEARY (NZL), Mark RULE (NZL), Ravinesh KUMAR (FIJ)
+
+
+▪ Final
+Sun Dec 16 19:30 UTC+9 @ International Stadium Yokohama, Yokohama
+  Corinthians (BRA) v Chelsea (ENG)  1-0
+     (Paolo GUERRERO 68')
+
+Corinthians: CASSIO - ALESSANDRO [c], CHICAO, FABIO SANTOS, PAULO ANDRE - RALF, PAULINHO,
+      DANILO - Paolo GUERRERO (86' Juan Martínez), Emerson Sheik (90' WALLACE),
+      JORGE HENRIQUE [Y 55']
+Chelsea: Petr CECH - Branislav IVANOVIC (82' Cesar AZPILICUETA), Ashley COLE,
+      DAVID LUIZ [Y 71'], Gary CAHILL [R 89'] - RAMIRES, Frank LAMPARD [c],
+      Eden HAZARD (86' Marko MARIN) - Fernando TORRES, Juan MATA, Victor Moses (72' OSCAR)
+
+Refs: Cüneyt Çakιr (TUR), Bahattin Duran (TUR), Tarık Ongun (TUR)
+
+

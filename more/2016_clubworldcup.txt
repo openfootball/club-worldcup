@@ -1,0 +1,56 @@
+= Club World Cup 2016
+
+# Dates    Thu Dec 8 - Sun Dec 18 2016 (10d)
+# Teams    7
+#   Kashima Antlers (JPN)
+#   Auckland City FC (NZL)
+#   Jeonbuk Motors (KOR)
+#   América (MEX)
+#   Mamelodi Sundowns (RSA)
+#   Atlético Nacional (COL)
+#   Real Madrid (ESP)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Suita City Football Stadium, Osaka (JPN)
+#   International Stadium Yokohama, Yokohama (JPN)
+
+
+▪ First round
+Thu Dec 8
+  19:30 UTC+9   Kashima Antlers (JPN)  2-1  Auckland City FC (NZL)   @ Yokohama
+                  (Shuhei AKASAKI 66', Mu Kanazaki 87';
+                   KIM Daewook 49')
+
+▪ Second round
+Sun Dec 11
+  16:00 UTC+9   Jeonbuk Motors (KOR)  1-2  América (MEX)   @ Osaka
+                  (KIM Bokyung 22';
+                   Silvio ROMERO 57', 73')
+  19:30 UTC+9   Mamelodi Sundowns (RSA)  0-2  Kashima Antlers (JPN)   @ Osaka
+                  (Yasushi ENDO 62', Mu Kanazaki 87')
+
+▪ Match for fifth place
+Wed Dec 14
+  16:30 UTC+9   Jeonbuk Motors (KOR)  4-1  Mamelodi Sundowns (RSA)   @ Osaka
+                  (KIM Bokyung 17', LEE Jongho 28', RICARDO NASCIMENTO 40'(og), KIM Shinwook 88';
+                   Percy TAU 47')
+
+▪ Semi-final
+Wed Dec 14
+  19:30 UTC+9   Atlético Nacional (COL)  0-3  Kashima Antlers (JPN)   @ Osaka
+                  (Shoma Doi 32'(p), Yasushi ENDO 82', Yuma Suzuki 84')
+Thu Dec 15
+  19:30 UTC+9   América (MEX)  0-2  Real Madrid (ESP)   @ Yokohama
+                  (Karim Benzema 45+1', CRISTIANO RONALDO 90+2')
+
+▪ Match for third place
+Sun Dec 18
+  16:00 UTC+9   América (MEX)  2-2 a.e.t., 3-4 pen.  Atlético Nacional (COL)   @ Yokohama
+                  (Michael ARROYO 38', Oribe PERALTA 65'(p);
+                   Miguel SAMUDIO 5'(og), Alejandro GUERRA 25')
+
+▪ Final
+Sun Dec 18
+  19:30 UTC+9   Real Madrid (ESP)  4-2 a.e.t.  Kashima Antlers (JPN)   @ Yokohama
+                  (Karim Benzema 8', CRISTIANO RONALDO 59'(p), 97', 103';
+                   Gaku Shibasaki 43', 51')

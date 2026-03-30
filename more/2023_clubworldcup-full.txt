@@ -1,0 +1,131 @@
+= Club World Cup 2023
+
+# Dates    Tue Dec 12 - Fri Dec 22 2023 (10d)
+# Teams    7
+#   Al Ittihad FC (KSA)
+#   Auckland City FC (NZL)
+#   Club León (MEX)
+#   Urawa Reds (JPN)
+#   Al Ahly FC (EGY)
+#   Fluminense FC (BRA)
+#   Manchester City FC (ENG)
+# Matches  7
+# Venues   2 (in 1 city)
+#   Prince Abdullah Al-Faisal Stadium, Jeddah (KSA)
+#   King Abdullah Sports City Stadium, Jeddah (KSA)
+
+▪ 1st Round
+Tue Dec 12 21:00 UTC+3 @ King Abdullah Sports City Stadium, Jeddah, Att: 50248
+  Al Ittihad FC (KSA) v Auckland City FC (NZL)  3-0
+     (ROMARINHO 29', Ngolo KANTE 34', Karim BENZEMA 40')
+
+Al Ittihad FC: MARCELO GROHE - ZAKARIA HAWSAWI (83' AHMED BAMASUD), MUHANNAD ALSHANQITI,
+      HASSAN KADESH, AHMED HEGAZY - Ngolo KANTE (77' SALEH ALJAMAN ALAMRI),
+      FABINHO, FAISAL ALGHAMDI (83' MARWAN ALSAHAFI) - Karim BENZEMA [c], Igor CORONADO (77' SULTAN ALFARHAN),
+      ROMARINHO (59' JOTA)
+Auckland City FC: Conor TRACEY - Christian GRAY (83' Adam MITCHELL), Jordan VALE, Michael DEN HEIJER -
+      Mario ILICH (68' ZHOU Tong), Cameron HOWIESON [c], Regont MURATI (83' Angus KILKOLLY),
+      Nathan LOBO - Gerard GARRIGA (56' Joe LEE), Dylan MANICKUM (68' Emiliano TADE),
+      Liam GILLION
+
+Refs: Tori Penso (USA), Brooke Mayo (USA), Katie Nesbitt (USA)
+
+
+▪ 2nd Round
+Fri Dec 15 17:30 UTC+3 @ Prince Abdullah Al-Faisal Stadium, Jeddah, Att: 2525
+  Club León (MEX) v Urawa Reds (JPN)  0-1
+     (Alex SCHALK 78')
+
+Club León: Rodolfo COTA - William TESILLO [c] [Y 51'] [Y/R 84'], Jaine BARREIRO,
+      Adonis FRIAS - Fidel AMBRIZ (83' Omar FERNANDEZ), Ivan MORENO (87' Jose RAMIREZ),
+      Angel MENA (83' Nicolas LOPEZ), Osvaldo RODRIGUEZ (83' Elias HERNANDEZ),
+      Lucas ROMERO - Federico VINAS [Y 77'], PLATANO (90' Sebastian SANTOS)
+Urawa Reds: Shusaku NISHIKAWA - Marius HOIBRATEN, Takahiro SEKINE (64' Takuya OGIWARA),
+      Takahiro AKIMOTO (81' Hiroki SAKAI), Alexander SCHOLZ - Atsuki ITO (73' Shoya NAKAJIMA),
+      Yoshio KOIZUMI, Ken IWAO [c], Tomoaki OKUBO [Y 45+1'] (73' Alex SCHALK),
+      Kaito YASUI - Jose KANTE
+
+Refs: Jean-Jacques Ndala Ngambo (COD), Elvis NOUPUE (CMR), Arsenio MARINGULE (MOZ)
+
+
+Fri Dec 15 21:00 UTC+3 @ King Abdullah Sports City Stadium, Jeddah, Att: 56111
+  Al Ahly FC (EGY) v Al Ittihad FC (KSA)  3-1
+     (Ali MAALOUL 21'(p), HUSSEIN ELSHAHAT 59', EMAM ASHOUR 62';
+      Karim BENZEMA 90+2')
+
+Al Ahly FC: MOHAMED ELSHENAWY [c] - YASSER IBRAHIM, Ali MAALOUL, MOHAMED ABDELMONEIM,
+      MOHAMED HANY - MARAWAN ATTIA, EMAM ASHOUR [Y 36'] (72' AMRO ELSOULIA),
+      AHMED KOKA (87' DIENG Aliou) - KAHRABA [Y 69'] (72' TAHER MOHAMED), Percy TAU (87' Anthony MODESTE [R 90']),
+      HUSSEIN ELSHAHAT [Y 61'] (72' KARIM FOUAD)
+Al Ittihad FC: ABDULLAH ALMAYUOF - ZAKARIA HAWSAWI (46' AHMED BAMASUD), MUHANNAD ALSHANQITI (49' MADALLAH ALOLAYAN),
+      HASSAN KADESH, AHMED HEGAZY - Ngolo KANTE, FABINHO [Y 67'], FAISAL ALGHAMDI -
+      Karim BENZEMA [c], Igor CORONADO (70' Abderrazak HAMDALLAH), ROMARINHO (70' JOTA)
+
+Refs: Jesús Valenzuela Sáez (VEN), Jorge Urrego Martínez (VEN), Tulio Moreno (VEN)
+
+
+▪ Semi-Final
+Mon Dec 18 21:00 UTC+3 @ King Abdullah Sports City Stadium, Jeddah, Att: 34986
+  Fluminense FC (BRA) v Al Ahly FC (EGY)  2-0
+     (Jhon ARIAS 71'(p), JOHN KENNEDY 90')
+
+Fluminense FC: FABIO - SAMUEL XAVIER (83' Cláudio Rodrigues Gomes), MARCELO (80' Diogo Barbosa Mendanha),
+      FELIPE MELO (76' MARLON), NINO [c] - ANDRE, MARTINELLI [Y 45'], GANSO (80' LIMA),
+      KENO (80' JOHN KENNEDY), Jhon ARIAS - German CANO
+Al Ahly FC: MOHAMED ELSHENAWY [c] - YASSER IBRAHIM, Ali MAALOUL, MOHAMED ABDELMONEIM [Y 69'],
+      MOHAMED HANY - AKRAM TAWFIK (75' MOHAMED AFSHA), MARAWAN ATTIA (90+1' AMRO ELSOULIA),
+      EMAM ASHOUR (90+1' Rami RABIA) - KAHRABA (75' TAHER MOHAMED), Percy TAU (75' KARIM FOUAD),
+      HUSSEIN ELSHAHAT
+
+Refs: Szymon MARCINIAK (POL), Tomasz LISTKIEWICZ (POL), Adam Kupsik (POL)
+
+
+Tue Dec 19 21:00 UTC+3 @ King Abdullah Sports City Stadium, Jeddah, Att: 40127
+  Urawa Reds (JPN) v Manchester City FC (ENG)  0-3
+     (Marius HOIBRATEN 45+1'(og), Mateo KOVACIC 52', BERNARDO SILVA 59')
+
+Urawa Reds: Shusaku NISHIKAWA - Marius HOIBRATEN, Takahiro SEKINE, Takahiro AKIMOTO,
+      Alexander SCHOLZ - Atsuki ITO (57' Takuya OGIWARA), Yoshio KOIZUMI (64' Shoya NAKAJIMA),
+      Ken IWAO [c] (77' Kai SHIBATO), Tomoaki OKUBO (57' Alex SCHALK), Kaito YASUI -
+      Jose KANTE (64' Bryan LINSSEN)
+Manchester City FC: EDERSON - Kyle WALKER [c], John STONES (77' Sergio GOMEZ), Nathan AKE,
+      Manuel AKANJI [Y 24'] (64' Josko GVARDIOL) - Mateo KOVACIC, Jack GREALISH,
+      RODRI (77' Kalvin PHILLIPS), BERNARDO SILVA (64' Oscar BOBB), Phil FODEN (64' Julian ALVAREZ) -
+      MATHEUS NUNES [Y 83']
+
+Refs: Mohammed Khled Al Hoish (KSA), Khalaf Zaid Alshammari (KSA), Yasir Abdullah Al Sultan (KSA)
+
+
+▪ 3rd Place
+Fri Dec 22 17:30 UTC+3 @ Prince Abdullah Al-Faisal Stadium, Jeddah, Att: 10290
+  Urawa Reds (JPN) v Al Ahly FC (EGY)  2-4
+     (Jose KANTE 43', Alexander SCHOLZ 54'(p);
+      YASSER IBRAHIM 19', Percy TAU 25', Yoshio KOIZUMI 60'(og), Ali MAALOUL 90+8')
+
+Urawa Reds: Shusaku NISHIKAWA - Hiroki SAKAI [c] (65' Takuya OGIWARA), Marius HOIBRATEN,
+      Takahiro AKIMOTO, Alexander SCHOLZ - Atsuki ITO (80' Shinzo KOROKI),
+      Yoshio KOIZUMI (65' Alex SCHALK), Takahiro SEKINE (46' Bryan LINSSEN [Y 55']),
+      Ken IWAO (46' Shoya NAKAJIMA), Kaito YASUI - Jose KANTE [Y 75']
+Al Ahly FC: MOHAMED ELSHENAWY [c] - YASSER IBRAHIM, Ali MAALOUL [Y 90+10'], MOHAMED ABDELMONEIM,
+      MOHAMED HANY - MARAWAN ATTIA (83' AMRO ELSOULIA), EMAM ASHOUR, AHMED KOKA -
+      KAHRABA (59' TAHER MOHAMED), Percy TAU (88' Rami RABIA [Y 90+6']), HUSSEIN ELSHAHAT (59' KARIM FOUAD)
+
+Refs: Tori Penso (USA), Brooke Mayo (USA), Katie Nesbitt (USA)
+
+
+▪ Final
+Fri Dec 22 21:00 UTC+3 @ King Abdullah Sports City Stadium, Jeddah, Att: 52601
+  Manchester City FC (ENG) v Fluminense FC (BRA)  4-0
+     (Julian ALVAREZ 1', 88', NINO 27'(og), Phil FODEN 72')
+
+Manchester City FC: EDERSON - Kyle WALKER [c], RUBEN DIAS, John STONES (74' Josko GVARDIOL),
+      Nathan AKE (81' Oscar BOBB) - Jack GREALISH, RODRI (74' Manuel AKANJI),
+      BERNARDO SILVA, Phil FODEN (81' MATHEUS NUNES), Rico LEWIS (60' Mateo KOVACIC) -
+      Julian ALVAREZ
+Fluminense FC: FABIO - SAMUEL XAVIER, MARCELO [Y 57'] (60' ALEXSANDER [Y 68']), FELIPE MELO (60' Diogo Barbosa Mendanha),
+      NINO [c] (74' MARLON) - ANDRE, MARTINELLI, GANSO (60' LIMA), KENO (46' JOHN KENNEDY [Y 84']),
+      Jhon ARIAS - German CANO
+
+Refs: Szymon MARCINIAK (POL), Tomasz LISTKIEWICZ (POL), Adam Kupsik (POL)
+
+

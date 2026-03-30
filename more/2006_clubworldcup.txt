@@ -1,0 +1,49 @@
+= Club World Cup 2006
+
+# Dates    Sun Dec 10 - Sun Dec 17 2006 (7d)
+# Teams    6
+#   Auckland City FC (NZL)
+#   Al Ahly FC (EGY)
+#   Jeonbuk Motors (KOR)
+#   América (MEX)
+#   Internacional (BRA)
+#   Barcelona (ESP)
+# Matches  7
+# Venues   3 (in 3 cities)
+#   Toyota Stadium, Japan (JPN)
+#   Olympic Stadium, Tokyo (JPN)
+#   International Stadium Yokohama, Yokohama (JPN)
+
+
+▪ Quarter-final
+Sun Dec 10
+  19:20 UTC+9   Auckland City FC (NZL)  0-2  Al Ahly FC (EGY)   @ Japan
+                  (FLAVIO 51', Mohamed ABOUTRIKA 73')
+Mon Dec 11
+  19:20 UTC+9   Jeonbuk Motors (KOR)  0-1  América (MEX)   @ Tokyo
+                  (Ricardo ROJAS 79')
+
+▪ Semi-final
+Wed Dec 13
+  19:20 UTC+9   Al Ahly FC (EGY)  1-2  Internacional (BRA)   @ Tokyo
+                  (FLAVIO 54';
+                   ALEXANDRE PATO 23', LUIZ ADRIANO 72')
+Thu Dec 14
+  19:20 UTC+9   América (MEX)  0-4  Barcelona (ESP)   @ Yokohama
+                  (Eidur GUDJOHNSEN 11', Rafael MARQUEZ 30', RONALDINHO 65', DECO 85')
+
+▪ Match for fifth place
+Fri Dec 15
+  19:20 UTC+9   Auckland City FC (NZL)  0-3  Jeonbuk Motors (KOR)   @ Tokyo
+                  (Lee HYUN-SEUNG 17', KIM Hyeung Bum 31', ZECARLO 73'(p))
+
+▪ Match for third place
+Sun Dec 17
+  16:20 UTC+9   Al Ahly FC (EGY)  2-1  América (MEX)   @ Yokohama
+                  (Mohamed ABOUTRIKA 42', 79';
+                   Salvador CABANAS 59')
+
+▪ Final
+Sun Dec 17
+  19:20 UTC+9   Internacional (BRA)  1-0  Barcelona (ESP)   @ Yokohama
+                  (ADRIANO 82')

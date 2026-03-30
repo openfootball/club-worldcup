@@ -1,0 +1,136 @@
+= Club World Cup 2020
+
+# Dates    Mon Feb 1 - Thu Feb 11 2021 (10d)
+# Teams    7
+#   Al Duhail (QAT)
+#   Auckland City FC (NZL)
+#   Tigres UANL (MEX)
+#   Ulsan (KOR)
+#   Al Ahly FC (EGY)
+#   Palmeiras (BRA)
+#   Bayern München (GER)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Ahmad Bin Ali Stadium, Ar-Rayyan (QAT)
+#   Education City Stadium, Doha (QAT)
+
+▪ 1st Round
+Mon Feb 1 20:30 UTC+3 @ Ahmad Bin Ali Stadium, Ar-Rayyan
+  Al Duhail (QAT) v Auckland City FC (NZL)  3-0
+
+
+▪ 2nd Round
+Thu Feb 4 17:00 UTC+3 @ Ahmad Bin Ali Stadium, Ar-Rayyan, Att: 866
+  Tigres UANL (MEX) v Ulsan (KOR)  2-1
+     (GIGNAC Andre Pierre 38', 45+5'(p);
+      KIM Keehee 24')
+
+Tigres UANL: GUZMAN Nahuel - SALCEDO Carlos, REYES Diego, MEZA Francisco (46' GONZALEZ Carlos),
+      RODRIGUEZ Luis [Y 69'] - RAFAEL CARIOCA, PIZARRO Guido [c], DUENAS Jesus [Y 81'] (83' AYALA Hugo) -
+      GIGNAC Andre Pierre, AQUINO Javier (65' FULGENCIO Raymundo), QUINONES Luis [Y 84'] (90' SIERRA Jordan)
+Ulsan: JO Hyeonwoo - BULTHUIS Davy, KIM Taehwan, KIM Keehee [c] [Y 45+4'], SEOL Youngwoo -
+      SHIN Hyungmin (79' KANG Yungu), KIM Insung (66' KIM Sungjoon), YOON Bitgaram,
+      LEE Dongjun, WON Dujae - KIM Jihyun (73' HINTERSEER Lukas [Y 90+1'])
+
+Refs: Esteban Ostojich (URU), Nicolás Taran (URU), Richard Fabián Trinidad Díaz Méndez (URU)
+
+
+Thu Feb 4 20:30 UTC+3 @ Education City Stadium, Doha
+  Al Duhail (QAT) v Al Ahly FC (EGY)  0-1
+     (HUSSEIN ELSHAHAT 30')
+
+Al Duhail: SALAH ZAKARIA - MOHAMED MOUSSA, BENATIA Mehdi [Y 85'], BASSAM HISHAM (46' ALMOEZ ALI),
+      AHMED YASSER (72' ISMAIL MOHAMAD) - EDMILSON JUNIOR, KARIM BOUDIAF [c],
+      SULTAN AL BRAKE, Ali KARIMI (82' LUIZ JUNIOR), DUDU - OLUNGA Michael (46' MOHAMMED MUNTARI)
+Al Ahly FC: MOHAMED ELSHENAWY [c] - AYMAN ASHRAF, Badr BENOUN, Ali MAALOUL, MOHAMED HANY [Y 89'] -
+      HAMDY FATHY [Y 27'] (54' DIENG Aliou), HUSSEIN ELSHAHAT (82' SALAH MOHSEN),
+      AMRO ELSOULIA, MOHAMED AFSHA, TAHER MOHAMED (70' AKRAM TAWFIK) - BWALYA Walter (70' Marwan Mohsen)
+
+Refs: Mario Alberto Escobar Toca (GUA), Humberto Panjoj (GUA), Nicholas ANDERSON (JAM)
+
+
+▪ 5th Place
+Sun Feb 7 18:00 UTC+3 @ Ahmad Bin Ali Stadium, Ar-Rayyan, Att: 920
+  Ulsan (KOR) v Al Duhail (QAT)  1-3
+     (YOON Bitgaram 62';
+      EDMILSON JUNIOR 21', MOHAMMED MUNTARI 66', ALMOEZ ALI 82')
+
+Ulsan: JO Hyeonwoo - BULTHUIS Davy, KIM Taehwan [Y 74'], KIM Keehee [c], SEOL Youngwoo [Y 83'] -
+      DAVIDSON Jason (46' KIM Insung), YOON Bitgaram, LEE Dongjun (76' KIM Minjun),
+      WON Dujae, KIM Sungjoon (66' SHIN Hyungmin) - HINTERSEER Lukas (46' KIM Jihyun)
+Al Duhail: SALAH ZAKARIA - BENATIA Mehdi, BASSAM HISHAM, ISMAIL MOHAMAD (90+4' KHALED MOHAMMED),
+      ALI AFIF - EDMILSON JUNIOR, ABDULLAH ALAHRAK (75' ASSIM MADIBO), ALMOEZ ALI [c] [Y 90+1'],
+      Ali KARIMI, DUDU (90+4' ALI MALOLAH) - OLUNGA Michael (61' MOHAMMED MUNTARI)
+
+Refs: Edina Alves Batista (BRA), Neuza Ines Back (BRA), Mariana De Almeida (ARG)
+
+
+▪ Semi-Final
+Sun Feb 7 21:00 UTC+3 @ Education City Stadium, Doha, Att: 1854
+  Palmeiras (BRA) v Tigres UANL (MEX)  0-1
+     (GIGNAC Andre Pierre 54'(p))
+
+Palmeiras: WEVERTON - MARCOS ROCHA (72' MAYKE), LUAN GARCIA [Y 52'], Matias VINA -
+      ZE RAFAEL (57' FELIPE MELO), RONY, RAPHAEL VEIGA (72' GUSTAVO SCARPA),
+      GABRIEL MENINO [Y 32'] (62' WILLIAN), DANILO (57' PATRICK DE PAULA) -
+      LUIZ ADRIANO
+Tigres UANL: GUZMAN Nahuel [Y 84'] - SALCEDO Carlos, REYES Diego, RODRIGUEZ Luis,
+      DUENAS Jesus (86' MEZA Francisco) - RAFAEL CARIOCA, PIZARRO Guido [c],
+      AQUINO Javier [Y 45'] (90+2' SIERRA Jordan), QUINONES Luis (87' FULGENCIO Raymundo) -
+      GIGNAC Andre Pierre, GONZALEZ Carlos
+
+Refs: Danny Desmond Makkelie (NED), Mario Diks (NED), Hessel Steegstra (NED)
+
+
+Mon Feb 8 21:00 UTC+3 @ Ahmad Bin Ali Stadium, Ar-Rayyan, Att: 7982
+  Al Ahly FC (EGY) v Bayern München (GER)  0-2
+     (Robert LEWANDOWSKI 17', 86')
+
+Al Ahly FC: MOHAMED ELSHENAWY [c] - AYMAN ASHRAF, Badr BENOUN, Ali MAALOUL (28' YASSER IBRAHIM),
+      MOHAMED HANY - KAHRABA (69' BWALYA Walter), HAMDY FATHY, HUSSEIN ELSHAHAT (69' SALAH MOHSEN),
+      AMRO ELSOULIA, MOHAMED AFSHA (69' DIENG Aliou) - TAHER MOHAMED (83' MOHAMED SHERIF)
+Bayern München: Manuel NEUER [c] - Benjamin PAVARD, BOATENG Jerome (77' Niklas SUELE),
+      Alphonso DAVIES, ALABA David - Joshua KIMMICH, Serge GNABRY (62' Leroy SANE),
+      ROCA Marc (69' TOLISSO Corentin), Thomas MUELLER (62' Eric Maxim CHOUPO-MOTING),
+      Kingsley COMAN (77' Jamal MUSIALA) - Robert LEWANDOWSKI
+
+Refs: Mohammed ABDULLA (UAE), Mohamed AL HAMMADI (UAE), Hasan AL MAHRI (UAE)
+
+
+▪ 3rd Place
+Thu Feb 11 18:00 UTC+3 @ Education City Stadium, Doha, Att: 5606
+  Al Ahly FC (EGY) v Palmeiras (BRA)  0-0 a.e.t., 3-2 pen.
+     (Badr BENOUN 91'(p), MOHAMED HANY 97'(p), AJAYI Junior 99'(p);
+      GUSTAVO SCARPA 96'(p), N.N. 98'(p))
+
+Penalties: 1-0 Badr BENOUN,     RONY (missed),
+               AMRO ELSOULIA (missed),     LUIZ ADRIANO (missed),
+               Marwan Mohsen (missed), 1-1 GUSTAVO SCARPA,
+           2-1 MOHAMED HANY, 2-2 MOHAMED ELSHENAWY,
+           3-2 AJAYI Junior,     FELIPE MELO (missed)
+
+Al Ahly FC: MOHAMED ELSHENAWY [c] - YASSER IBRAHIM, AYMAN ASHRAF, Badr BENOUN, MOHAMED HANY -
+      HAMDY FATHY, AMRO ELSOULIA, MOHAMED AFSHA (58' MOHAMED SHERIF), AKRAM TAWFIK (75' DIENG Aliou),
+      TAHER MOHAMED (75' Marwan Mohsen) - BWALYA Walter (58' AJAYI Junior)
+Palmeiras: WEVERTON [Y 27'] - MAYKE, LUAN GARCIA, Matias VINA - PATRICK DE PAULA [Y 69'] (80' DANILO),
+      RONY, RAPHAEL VEIGA (80' GUSTAVO SCARPA), FELIPE MELO [c] - LUIZ ADRIANO,
+      WILLIAN [Y 45+2'] (80' GABRIEL MENINO)
+
+Refs: Maguette NDIAYE (SEN), Djibril CAMARA (SEN), El Hadji SAMBA (SEN)
+
+
+▪ Final
+Thu Feb 11 21:00 UTC+3 @ Education City Stadium, Doha, Att: 7411
+  Bayern München (GER) v Tigres UANL (MEX)  1-0
+     (Benjamin PAVARD 59')
+
+Bayern München: Manuel NEUER [c] - Niklas SUELE, Benjamin PAVARD, Alphonso DAVIES, Lucas HERNANDEZ -
+      Joshua KIMMICH, Serge GNABRY (64' TOLISSO Corentin), Leroy SANE (73' Jamal MUSIALA),
+      ALABA David, Kingsley COMAN (73' DOUGLAS COSTA) - Robert LEWANDOWSKI (73' Eric Maxim CHOUPO-MOTING)
+Tigres UANL: GUZMAN Nahuel - SALCEDO Carlos, REYES Diego, RODRIGUEZ Luis [Y 69'] (80' QUINONES Julian),
+      DUENAS Jesus [Y 42'] - RAFAEL CARIOCA [Y 90'], PIZARRO Guido [c], AQUINO Javier,
+      QUINONES Luis - GIGNAC Andre Pierre, GONZALEZ Carlos
+
+Refs: Esteban Ostojich (URU), Nicolás Taran (URU), Richard Fabián Trinidad Díaz Méndez (URU)
+
+

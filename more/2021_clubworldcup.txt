@@ -1,0 +1,58 @@
+= Club World Cup 2021
+
+# Dates    Thu Feb 3 - Sat Feb 12 2022 (9d)
+# Teams    7
+#   Al Jazira (UAE)
+#   AS Pirae (TAH)
+#   Al Ahly FC (EGY)
+#   Monterrey (MEX)
+#   Al Hilal (KSA)
+#   Palmeiras (BRA)
+#   Chelsea (ENG)
+# Matches  8
+# Venues   2 (in 1 city)
+#   Al Nahyan Stadium, Abu Dhabi (UAE)
+#   Mohammed Bin Zayed Stadium, Abu Dhabi (UAE)
+
+
+▪ 1st Round
+Thu Feb 3
+  19:30 UTC+3   Al Jazira (UAE)  4-1  AS Pirae (TAH)   @ Abu Dhabi
+                  (ZAYED AL AMERI 5', AHMED AL HASHMI 25', Milos KOSANOVIC 41', Abdoulay Diaby 63';
+                   RABII MOHAMMED 48'(og))
+
+▪ 2nd Round
+Sat Feb 5
+  19:30 UTC+3   Al Ahly FC (EGY)  1-0  Monterrey (MEX)   @ Abu Dhabi
+                  (MOHAMED HANY 53')
+Sun Feb 6
+  19:30 UTC+3   Al Hilal (KSA)  6-1  Al Jazira (UAE)   @ Abu Dhabi
+                  (Odion IGHALO 36', MATHEUS PEREIRA 40', MOHAMED KANNO 57', SALEM ALDAWSARI 77', Moussa Marega 88', Andre CARRILLO 90+2'(p);
+                   Abdoulay Diaby 14')
+
+▪ Semi-Final
+Tue Feb 8
+  19:30 UTC+3   Palmeiras (BRA)  2-0  Al Ahly FC (EGY)   @ Abu Dhabi
+                  (RAPHAEL VEIGA 39', DUDU 49')
+
+▪ 5th Place
+Wed Feb 9
+  16:30 UTC+3   Monterrey (MEX)  3-1  Al Jazira (UAE)   @ Abu Dhabi
+                  (ZAYED SULTAN 4'(og), Rogelio FUNES MORI 11', Cesar  MONTES 25';
+                   BRUNO 90+1')
+
+▪ Semi-Final
+Wed Feb 9
+  19:30 UTC+3   Al Hilal (KSA)  0-1  Chelsea (ENG)   @ Abu Dhabi
+                  (Romelu LUKAKU 32')
+
+▪ 3rd Place
+Sat Feb 12
+  16:00 UTC+3   Al Hilal (KSA)  0-4  Al Ahly FC (EGY)   @ Abu Dhabi
+                  (YASSER IBRAHIM 8', 17', AHMED ABDELKADER 40', AMRO ELSOULIA 64')
+
+▪ Final
+Sat Feb 12
+  19:30 UTC+3   Chelsea (ENG)  2-1 a.e.t.  Palmeiras (BRA)   @ Abu Dhabi
+                  (Romelu LUKAKU 54', Kai HAVERTZ 117'(p);
+                   RAPHAEL VEIGA 64'(p))

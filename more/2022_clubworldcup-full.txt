@@ -1,0 +1,140 @@
+= Club World Cup 2022
+
+# Dates    Wed Feb 1 - Sat Feb 11 2023 (10d)
+# Teams    7
+#   Al Ahly FC (EGY)
+#   Auckland City FC (NZL)
+#   Wydad Athletic Club (MAR)
+#   Al Hilal (KSA)
+#   Seattle Sounders FC (USA)
+#   Flamengo (BRA)
+#   Real Madrid (ESP)
+# Matches  7
+# Venues   2 (in 2 cities)
+#   Prince Moulay Abdellah Stadium, Rabat (MAR)
+#   Tangier Stadium, Tangier (MAR)
+
+▪ 1st Round
+Wed Feb 1 20:00 UTC+1 @ Tangier Stadium, Tangier, Att: 47137
+  Al Ahly FC (EGY) v Auckland City FC (NZL)  3-0
+     (HUSSEIN ELSHAHAT 45+2', MOHAMED SHERIF 56', Percy TAU 86')
+
+Al Ahly FC: MOHAMED ELSHENAWY [c] - METWALY MAHMOUD, Ali MAALOUL, MOHAMED ABDELMONEIM,
+      MOHAMED HANY - HAMDY FATHY (80' MARAWAN ATTIA), AHMED ABDELKADER (75' Percy TAU),
+      HUSSEIN ELSHAHAT (75' TAHER MOHAMED), DIENG Aliou, AMRO ELSOULIA (83' MOHAMED AFSHA) -
+      MOHAMED SHERIF (80' KAHRABA)
+Auckland City FC: Conor TRACEY - Adam MITCHELL [R 90+7'], Nikko BOXALL, Regont MURATI,
+      Nathan LOBO (71' Jordan VALE) - Cameron HOWIESON [c], Gerard GARRIGA (78' Reid DRAKE),
+      Dylan MANICKUM (78' Joseph LEE), Emiliano TADE (55' William GILLION),
+      Michael DEN HEIJER - Ryan DE VRIES (71' Angus  KILKOLLY)
+
+Refs: Ning Ma (CHN), Fei Zhou (CHN), Cheng Zhang (CHN)
+
+
+▪ 2nd Round
+Sat Feb 4 15:30 UTC+1 @ Prince Moulay Abdellah Stadium, Rabat, Att: 43891
+  Wydad Athletic Club (MAR) v Al Hilal (KSA)  1-1 a.e.t., 3-5 pen.
+     (EL AMLOUD Ayoub 52'; MOHAMED KANNO 90+4'(p))
+
+Penalties: 0-1 Moussa Marega,     Yahya ATTIAT-ALLAH (missed),
+           0-2 Luciano VIETTO, 1-2 EL AMLOUD Ayoub,
+           1-3 SALEH ALSHEHRI, 2-3 Mohammad OUNNAJEM,
+           2-4 ABDULLAH ALHAMDDAN, 3-4 Jalal DAOUDI,
+           3-5 MUSAB ALJUWAYR
+
+Wydad Athletic Club: Ahmed TAGNAOUTI - Yahya ATTIAT-ALLAH, EL AMLOUD Ayoub, Amine FARHANE,
+      Arsene ZOLA - Yahya JABRANE [c] [Y 89'] [Y/R 90+1'], Jalal DAOUDI [Y 58'],
+      Reda JAADI [Y 10'] (95' Bouly Junior SAMBOU) - Didier LAMKEL ZE [Y 57'] (67' Hicham BOUSSEFIANE),
+      EL HASSOUNI Aymane, Saifeddine BOUHRA (74' Mohammad OUNNAJEM [Y 90+1'])
+Al Hilal: Abdullah Al-Mayouf [c] - ALI ALBULAYHI [Y 10'], Nasser ALDAWSARI (105+1' ABDULLAH ALHAMDDAN [Y 127']),
+      JANG Hyunsoo, SAUD ABDULHAMID - Gustavo CUELLAR, MOHAMED KANNO [Y 56'] [Y/R 94'],
+      SALEM ALDAWSARI [Y 56'] (82' Andre CARRILLO (113' MUSAB ALJUWAYR)) -
+      Odion IGHALO (82' SALEH ALSHEHRI [Y 117']), Moussa Marega, MICHAEL (87' Luciano VIETTO)
+
+Refs: Ivan Arcides Barton Cisneros (SLV), David Jonathan Morán Santos (SLV), Katie Nesbitt (USA)
+
+
+Sat Feb 4 18:00 UTC+1 @ Tangier Stadium, Tangier, Att: 30589
+  Seattle Sounders FC (USA) v Al Ahly FC (EGY)  0-1
+     (MOHAMED AFSHA 88')
+
+Seattle Sounders FC: Stefan FREI - Nouhou TOLO, Alex ROLDAN, Jackson RAGEN (90+1' Fredy Montero),
+      Yeimar GOMEZ ANDRADE - Cristian ROLDAN (84' Daniel LEYVA), Nicolas LODEIRO [c],
+      Albert RUSNAK (90+1' HEBER), Jordan MORRIS, Joshua ATENCIO (68' JOAO PAULO) -
+      Raul RUIDIAZ
+Al Ahly FC: MOHAMED ELSHENAWY [c] - METWALY MAHMOUD, Ali MAALOUL, MOHAMED ABDELMONEIM,
+      MOHAMED HANY - KAHRABA (63' MOHAMED SHERIF), HAMDY FATHY (63' MOHAMED AFSHA),
+      DIENG Aliou, AMRO ELSOULIA, TAHER MOHAMED (63' AHMED ABDELKADER) - Percy TAU [Y 59'] (90+3' Rami RABIA)
+
+Refs: Anthony Taylor (ENG), Gary Beswick (ENG), Adam Nunn (ENG)
+
+
+▪ Semi-Final
+Tue Feb 7 20:00 UTC+1 @ Tangier Stadium, Tangier, Att: 42496
+  Flamengo (BRA) v Al Hilal (KSA)  2-3
+     (PEDRO 20', 90+1';
+      SALEM ALDAWSARI 4'(p), 45+9'(p), Luciano VIETTO 70')
+
+Flamengo: SANTOS - LEO PEREIRA (46' FABRICIO BRUNO), AYRTON LUCAS, DAVID LUIZ [Y 42'],
+      MATHEUZINHO - EVERTON RIBEIRO [c] (68' EVERTON), THIAGO MAIA [Y 72'] (81' Arturo VIDAL),
+      GABRIEL BARBOSA [Y 17'], Giorgian DE ARRASCAETA (46' Erick PULGAR [Y 56']),
+      GERSON [Y 15'] [Y/R 45+8'] - PEDRO [Y 90+8']
+Al Hilal: Abdullah Al-Mayouf [c] - KHALIFAH ALDAWSARI [Y 62'] (66' Nasser ALDAWSARI),
+      ALI ALBULAYHI, JANG Hyunsoo, SAUD ABDULHAMID - Gustavo CUELLAR, Luciano VIETTO [Y 42'] (88' MOHAMMED JAHFALI [Y 89']),
+      Andre CARRILLO - Odion IGHALO (57' MICHAEL), Moussa Marega, SALEM ALDAWSARI
+
+Refs: Istvan Kovacs (ROU), Vasile Florin Marinescu (ROU), Mihai Ovidiu Artene (ROU)
+
+
+Wed Feb 8 20:00 UTC+1 @ Prince Moulay Abdellah Stadium, Rabat, Att: 43508
+  Al Ahly FC (EGY) v Real Madrid (ESP)  1-4
+     (Ali MAALOUL 65'(p);
+      VINICIUS JR 42', Federico VALVERDE 46', RODRYGO 90+2', Sergio ARRIBAS 90+8')
+
+Al Ahly FC: MOHAMED ELSHENAWY [c] - METWALY MAHMOUD, Ali MAALOUL, MOHAMED ABDELMONEIM [Y 85'],
+      MOHAMED HANY - AHMED ABDELKADER, HUSSEIN ELSHAHAT (75' TAHER MOHAMED),
+      DIENG Aliou (61' HAMDY FATHY), AMRO ELSOULIA - MOHAMED SHERIF (61' Percy TAU),
+      MOHAMED AFSHA (88' KAHRABA)
+Real Madrid: Andriy LUNIN - ALABA David, NACHO [c], Eduardo CAMAVINGA, Antonio RUEDIGER -
+      Toni Kroos (77' Dani CEBALLOS), Luka MODRIC (90+5' Alvaro ODRIOZOLA),
+      Aurelien TCHOUAMENI [Y 85'] - Federico VALVERDE, VINICIUS JR (90+8' Sergio ARRIBAS),
+      RODRYGO (90+5' Mariano DIAZ)
+
+Refs: Andres Matias MATONTE CABRERA (URU), Nicolás Taran (URU), Martin SOPPI (URU)
+
+
+▪ 3rd Place
+Sat Feb 11 16:30 UTC+1 @ Tangier Stadium, Tangier, Att: 30216
+  Al Ahly FC (EGY) v Flamengo (BRA)  2-4
+     (AHMED ABDELKADER 38', 60';
+      GABRIEL BARBOSA 11'(p), 85'(p), PEDRO 77', 90+1')
+
+Al Ahly FC: MOHAMED ELSHENAWY [c] - KHALED ABDELFATTAH [R 69'], YASSER IBRAHIM, Ali MAALOUL (90' HUSSEIN ELSHAHAT [Y 90+12']),
+      MOHAMED ABDELMONEIM [Y 28'] - HAMDY FATHY [Y 75'] (90' DIENG Aliou),
+      AHMED ABDELKADER, MARAWAN ATTIA [Y 58'], TAHER MOHAMED - MOHAMED SHERIF (75' MOHAMED HANY [Y 90+12']),
+      Percy TAU
+Flamengo: SANTOS - Guillermo VARELA, AYRTON LUCAS, FABRICIO BRUNO, DAVID LUIZ (87' PABLO) -
+      EVERTON RIBEIRO [c] (63' EVERTON), THIAGO MAIA, GABRIEL BARBOSA [Y 90+12'],
+      Giorgian DE ARRASCAETA [Y 28'] (90+8' Erick PULGAR), Arturo VIDAL - PEDRO (90+8' MATHEUS FRANCA)
+
+Refs: Mustapha Ghorbal (ALG), Mokrane Gourari (ALG), Khalil Hassani (TUN)
+
+
+▪ Final
+Sat Feb 11 20:00 UTC+1 @ Prince Moulay Abdellah Stadium, Rabat, Att: 44439
+  Real Madrid (ESP) v Al Hilal (KSA)  5-3
+     (VINICIUS JR 13', 69', Federico VALVERDE 18', 58', Karim BENZEMA 54';
+      Moussa Marega 26', Luciano VIETTO 63', 79')
+
+Real Madrid: Andriy LUNIN - Dani CARVAJAL (79' Jesus VALLEJO), ALABA David, Eduardo CAMAVINGA,
+      Antonio RUEDIGER - Toni Kroos (74' NACHO), Luka MODRIC (74' Marco ASENSIO),
+      Aurelien TCHOUAMENI (62' Dani CEBALLOS) - Karim BENZEMA [c] (62' RODRYGO),
+      Federico VALVERDE, VINICIUS JR
+Al Hilal: Abdullah Al-Mayouf [c] - KHALIFAH ALDAWSARI, ALI ALBULAYHI, JANG Hyunsoo,
+      SAUD ABDULHAMID - Gustavo CUELLAR, Luciano VIETTO (86' ABDULLAH ALHAMDDAN),
+      Andre CARRILLO (74' MICHAEL), MOHAMED KANNO, SALEM ALDAWSARI (74' Nasser ALDAWSARI) -
+      Moussa Marega (86' Odion IGHALO)
+
+Refs: Anthony Taylor (ENG), Gary Beswick (ENG), Adam Nunn (ENG)
+
+

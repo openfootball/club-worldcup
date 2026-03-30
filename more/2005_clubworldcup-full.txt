@@ -1,0 +1,125 @@
+= Club World Cup 2005
+
+# Dates    Sun Dec 11 - Sun Dec 18 2005 (7d)
+# Teams    6
+#   Al Ittihad FC (KSA)
+#   Al Ahly FC (EGY)
+#   Sydney (AUS)
+#   Deportivo Saprissa (CRC)
+#   São Paulo (BRA)
+#   Liverpool (ENG)
+# Matches  7
+# Venues   3 (in 3 cities)
+#   Toyota Stadium, Japan (JPN)
+#   Olympic Stadium, Tokyo (JPN)
+#   International Stadium Yokohama, Yokohama (JPN)
+
+▪ Quarter-final
+Sun Dec 11 19:20 UTC+9 @ Olympic Stadium, Tokyo
+  Al Ittihad FC (KSA) v Al Ahly FC (EGY)  1-0
+     (Mohammed NOOR 78')
+
+Al Ittihad FC: Mabrouk ZAID - Ahmed AL DOSARI [Y 22'], Redha TUKAR, Adnan FALATAH [Y 90'],
+      Hamad AL MONTASHARI - MOHAMMED AMEEN (64' Ibrahim AL SHAHRANI), Manaf ABUSHGEER (90+4' Ali AL GARNI),
+      TCHECO, SAUD KARIRI [Y 43'], Mohammed NOOR [c] - Mohammed KALLON [Y 32']
+Al Ahly FC: ESSAM ELHADARY - Islam EL SHATER (71' Hossam ASHOUR), Ahmed EL SAYED,
+      WAEL GOMAA - Shady MOHAMED [c] [Y 38'], Mohamed BARAKAT, GILBERTO (45+1' Ahmed ABOU MOSLEM (84' Osama HOSNY)),
+      Hassan MOSTAFA, MOHAMED SHAWKY - EMAD METEAB, Mohamed ABOUTRIKA
+
+Refs: Graham POLL (ENG), Glenn TURNER (ENG), Philip SHARP (ENG)
+
+
+Mon Dec 12 19:20 UTC+9 @ Toyota Stadium, Japan
+  Sydney (AUS) v Deportivo Saprissa (CRC)  0-1
+     (Christian BOLANOS 47')
+
+Sydney: Clint BOLTON - Iain FYFE, Alvin CECCOLI [R 81'], Mark MILLIGAN [Y 71'] -
+      Steve CORICA (83' David ZDRILIC), David CARNEY, Andrew PACKER (61' Mark RUDAN),
+      Terry McFLYNN [Y 3'] (61' Gianpaulo BUONAVOGLIA) - Kazu MIURA, Dwight YORKE [c],
+      Sasho PETROVSKI
+Deportivo Saprissa: Jose PORRAS [c] [Y 90+2'] - Victor CORDERO, Ronald GONZALEZ [Y 32'],
+      Jervis DRUMMOND, Gabriel BADILLA, Tray BENNETT (83' Jose Luis LOPEZ) -
+      Christian BOLANOS, Walter CENTENO [Y 77'] (89' Reynaldo PARKS), Randall AZOFEIFA -
+      Ronald GOMEZ [Y 56'], Alvaro SABORIO (90+3' Gerold DRUMMOND)
+
+Refs: Toru KAMIKAWA (JPN), Yoshikazu HIROSHIMA (JPN), KIM Dae Young (KOR)
+
+
+▪ Semi-final
+Wed Dec 14 19:20 UTC+9 @ Olympic Stadium, Tokyo
+  Al Ittihad FC (KSA) v São Paulo (BRA)  2-3
+     (Mohammed NOOR 33', Hamad AL MONTASHARI 68';
+      AMOROSO 16', 47', ROGERIO CENI 57'(p))
+
+Al Ittihad FC: Mabrouk ZAID - Ahmed AL DOSARI [Y 34'] (67' Osama AL HARBI [Y 87']),
+      Redha TUKAR [Y 57'], Adnan FALATAH, Hamad AL MONTASHARI - Manaf ABUSHGEER,
+      TCHECO, SAUD KARIRI, Ibrahim AL SHAHRANI (64' MOHAMMED AMEEN), Mohammed NOOR [c] -
+      Mohammed KALLON
+São Paulo: ROGERIO CENI [c] - CICINHO, FABAO, EDCARLOS, Diego LUGANO [Y 71'], JUNIOR -
+      MINEIRO [Y 79'], JOSUÉ, DANILO [Y 53'] - AMOROSO [Y 66'], ALOISIO (89' GRAFITE)
+
+Refs: Alain SARS (FRA), Frederic ARNAULT (FRA), Vincent TEXIER (FRA)
+
+
+Thu Dec 15 19:20 UTC+9 @ International Stadium Yokohama, Yokohama
+  Deportivo Saprissa (CRC) v Liverpool (ENG)  0-3
+     (Peter CROUCH 2', 58', Steven GERRARD 32')
+
+Deportivo Saprissa: Jose PORRAS [c] - Victor CORDERO, Ronald GONZALEZ, Jervis DRUMMOND, Gabriel BADILLA,
+      Tray BENNETT (45+1' Alonso SOLIS) - Christian BOLANOS, Walter CENTENO,
+      Randall AZOFEIFA [Y 29'] - Ronald GOMEZ (76' Gerold DRUMMOND), Alvaro SABORIO (83' Allan Alemán)
+Liverpool: Pepe REINA - Sami HYYPIA (72' Luis GARCIA), John Arne RIISE, JOSEMI,
+      Djimi TRAORE, Jamie CARRAGHER - Steven GERRARD [c] (64' Florent SINAMA PONGOLLE),
+      Xabi ALONSO (79' Didi HAMANN), Mohamed SISSOKO - Djibril CISSE, Peter CROUCH
+
+Refs: Carlos CHANDIA (CHI), Cristian JULIO (CHI), Mario VARGAS (CHI)
+
+
+▪ Match for fifth place
+Fri Dec 16 19:20 UTC+9 @ Olympic Stadium, Tokyo
+  Al Ahly FC (EGY) v Sydney (AUS)  1-2
+     (EMAD METEAB 45';
+      Dwight YORKE 35', David CARNEY 66')
+
+Al Ahly FC: Nader EL SAYED - Mohamed ABDEL WAHAB (76' FLAVIO), Emad EL NAHAS (63' Shady MOHAMED),
+      Ahmed EL SAYED, WAEL GOMAA [Y 76'] - Mohamed BARAKAT, Hossam ASHOUR [Y 42'],
+      MOHAMED SHAWKY - EMAD METEAB [Y 90+3'], Osama HOSNY [c] (45+1' Islam EL SHATER),
+      Mohamed ABOUTRIKA
+Sydney: Clint BOLTON - Iain FYFE, Mark RUDAN [Y 67'], Matt BINGLEY, Mark MILLIGAN -
+      Ufuk TALAY (78' Terry McFLYNN), Steve CORICA (64' Andrew PACKER [Y 71']),
+      David CARNEY - Kazu MIURA, Dwight YORKE [c] [Y 87'], Sasho PETROVSKI (89' David ZDRILIC)
+
+Refs: Toru KAMIKAWA (JPN), Yoshikazu HIROSHIMA (JPN), KIM Dae Young (KOR)
+
+
+▪ Match for third place
+Sun Dec 18 16:20 UTC+9 @ International Stadium Yokohama, Yokohama
+  Al Ittihad FC (KSA) v Deportivo Saprissa (CRC)  2-3
+     (Mohammed KALLON 28', Joseph-Desire JOB 53'(p);
+      Alvaro SABORIO 13', 85'(p), Ronald GOMEZ 89')
+
+Al Ittihad FC: Mabrouk ZAID - Redha TUKAR (69' Mesfr AL KAHTANI), Osama AL HARBI [Y 84'],
+      Adnan FALATAH, Hamad AL MONTASHARI [R 87'] - Manaf ABUSHGEER, TCHECO,
+      SAUD KARIRI [Y 90+1'], Mohammed NOOR [c] (87' Hamza FALATAH) - Mohammed KALLON,
+      Joseph-Desire JOB
+Deportivo Saprissa: Jose PORRAS [c] - Ronald GONZALEZ [Y 53'] (80' Allan Alemán), Reynaldo PARKS,
+      Juan ESQUIVEL, Gabriel BADILLA [Y 77'] - Christian BOLANOS, Walter CENTENO,
+      Alonso SOLIS (64' Ronald GOMEZ), Jose Luis LOPEZ - Alvaro SABORIO, Gerold DRUMMOND (90' Victor CORDERO)
+
+Refs: Mohammed GUEZZAZ (MAR), Jean Marie ENDENG ZOGO (CMR), Vincent TEXIER (FRA)
+
+
+▪ Final
+Sun Dec 18 19:20 UTC+9 @ International Stadium Yokohama, Yokohama
+  São Paulo (BRA) v Liverpool (ENG)  1-0
+     (MINEIRO 27')
+
+São Paulo: ROGERIO CENI [c] [Y 90'] - CICINHO, FABAO, EDCARLOS, Diego LUGANO [Y 57'],
+      JUNIOR - MINEIRO, JOSUÉ, DANILO - AMOROSO, ALOISIO (75' GRAFITE)
+Liverpool: Pepe REINA - Stephen WARNOCK (79' John Arne RIISE), Steve FINNAN, Sami HYYPIA,
+      Jamie CARRAGHER - Harry KEWELL, Steven GERRARD [c], Luis GARCIA, Xabi ALONSO,
+      Mohamed SISSOKO (79' Florent SINAMA PONGOLLE) - Fernando MORIENTES (85' Peter CROUCH)
+
+Refs: Benito ARCHUNDIA (MEX), Hector VERGARA (CAN), Arturo VELAZQUEZ (MEX)
+
+

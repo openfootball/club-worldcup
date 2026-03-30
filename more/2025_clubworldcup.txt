@@ -1,0 +1,223 @@
+= Club World Cup 2025
+
+# Dates    Sat Jun 14 - Sun Jul 13 2025 (29d)
+# Teams    32
+# Matches  63
+# Venues   12 (in 11 cities)
+#   Atlanta Stadium, Atlanta (USA)
+#   Bank of America Stadium, Charlotte (USA)
+#   TQL Stadium, Cincinnati (USA)
+#   Rose Bowl, Los Angeles (Pasadena) (USA)
+#   Miami Stadium, Miami (USA)
+#   GEODIS Park, Nashville (USA)
+#   Giants Stadium, New York/New Jersey (East Rutherford) (USA)
+#   Camping World Stadium, Orlando (USA)
+#   Inter&Co Stadium, Orlando (USA)
+#   Philadelphia Stadium, Philadelphia (USA)
+#   Seattle Stadium, Seattle (USA)
+#   Audi Field, Washington D.C. (USA)
+
+
+▪ First stage
+▪▪ Group A
+Sat Jun 14
+  20:00 UTC-4   Al Ahly FC (EGY)  0-0  Inter Miami CF (USA)   @ Miami
+Sun Jun 15
+  18:00 UTC-4   Palmeiras (BRA)  0-0  FC Porto (POR)   @ New York/New Jersey (East Rutherford)
+Thu Jun 19
+  12:00 UTC-4   Palmeiras (BRA)  2-0  Al Ahly FC (EGY)   @ New York/New Jersey (East Rutherford)
+                  (WESSAM ABOU ALI 49'(og), Jose Manuel LOPEZ 59')
+  15:00 UTC-4   Inter Miami CF (USA)  2-1  FC Porto (POR)   @ Atlanta
+                  (Telasco SEGOVIA 47', Lionel MESSI 54';
+                   Samu AGHEHOWA 8'(p))
+Mon Jun 23
+  21:00 UTC-4   Inter Miami CF (USA)  2-2  Palmeiras (BRA)   @ Miami
+                  (Tadeo ALLENDE 16', Luis SUAREZ 65';
+                   PAULINHO 80', MAURICIO 87')
+  21:00 UTC-4   FC Porto (POR)  4-4  Al Ahly FC (EGY)   @ New York/New Jersey (East Rutherford)
+                  (RODRIGO MORA 23', WILLIAM GOMES 50', Samu AGHEHOWA 53', PEPE 89';
+                   WESSAM ABOU ALI 15', 45+2'(p), 51', Mohamed Ali BEN ROMDHANE 64')
+
+▪▪ Group B
+Sun Jun 15
+  12:00 UTC-7   Paris Saint-Germain (FRA)  4-0  Atlético de Madrid (ESP)   @ Los Angeles (Pasadena)
+                  (Fabian RUIZ 19', VITINHA 45+1', Senny MAYULU 87', LEE Kangin 90+7'(p))
+  19:00 UTC-7   Botafogo (BRA)  2-1  Seattle Sounders FC (USA)   @ Seattle
+                  (JAIR CUNHA 28', IGOR JESUS 44';
+                   Cristian ROLDAN 75')
+Thu Jun 19
+  15:00 UTC-7   Seattle Sounders FC (USA)  1-3  Atlético de Madrid (ESP)   @ Seattle
+                  (Albert RUSNAK 50';
+                   Pablo BARRIOS 11', 55', Axel WITSEL 47')
+  18:00 UTC-7   Paris Saint-Germain (FRA)  0-1  Botafogo (BRA)   @ Los Angeles (Pasadena)
+                  (IGOR JESUS 36')
+Mon Jun 23
+  12:00 UTC-7   Seattle Sounders FC (USA)  0-2  Paris Saint-Germain (FRA)   @ Seattle
+                  (Khvicha KVARATSKHELIA 35', Achraf HAKIMI 66')
+  12:00 UTC-7   Atlético de Madrid (ESP)  1-0  Botafogo (BRA)   @ Los Angeles (Pasadena)
+                  (Antoine GRIEZMANN 87')
+
+▪▪ Group C
+Sun Jun 15
+  12:00 UTC-4   FC Bayern München (GER)  10-0  Auckland City FC (NZL)   @ Cincinnati
+                  (Kingsley COMAN 6', 21', Sacha BOEY 18', Michael OLISE 20', 45+3', Thomas MUELLER 45', 89', Jamal MUSIALA 67', 73'(p), 84')
+Mon Jun 16
+  18:00 UTC-4   CA Boca Juniors (ARG)  2-2  SL Benfica (POR)   @ Miami
+                  (Nicolas OTAMENDI 21'(og), Rodrigo BATTAGLIA 27';
+                   Angel DI MARIA 45+3'(p), Nicolas OTAMENDI 84')
+Fri Jun 20
+  12:00 UTC-4   SL Benfica (POR)  6-0  Auckland City FC (NZL)   @ Orlando
+                  (Angel DI MARIA 45+8'(p), 90+8'(p), Evangelos PAVLIDIS 53', RENATO SANCHES 63', Leandro BARREIRO 76', 78')
+  21:00 UTC-4   FC Bayern München (GER)  2-1  CA Boca Juniors (ARG)   @ Miami
+                  (Harry KANE 18', Michael OLISE 84';
+                   Miguel MERENTIEL 66')
+Tue Jun 24
+  14:00 UTC-5   Auckland City FC (NZL)  1-1  CA Boca Juniors (ARG)   @ Nashville
+                  (Christian GRAY 52'; Nathan GARROW 26'(og))
+  15:00 UTC-4   SL Benfica (POR)  1-0  FC Bayern München (GER)   @ Charlotte
+                  (Andreas SCHJELDERUP 13')
+
+▪▪ Group D
+Mon Jun 16
+  15:00 UTC-4   Chelsea FC (ENG)  2-0  LAFC (USA)   @ Atlanta
+                  (PEDRO NETO 34', Enzo FERNANDEZ 79')
+  21:00 UTC-4   CR Flamengo (BRA)  2-0  Espérance de Tunisie (TUN)   @ Philadelphia
+                  (Giorgian DE ARRASCAETA 17', LUIZ ARAUJO 70')
+Fri Jun 20
+  14:00 UTC-4   CR Flamengo (BRA)  3-1  Chelsea FC (ENG)   @ Philadelphia
+                  (BRUNO HENRIQUE 62', DANILO 65', WALLACE YAN 83';
+                   PEDRO NETO 13')
+  17:00 UTC-5   LAFC (USA)  0-1  Espérance de Tunisie (TUN)   @ Nashville
+                  (Youcef BELAILI 70')
+Tue Jun 24
+  21:00 UTC-4   Espérance de Tunisie (TUN)  0-3  Chelsea FC (ENG)   @ Philadelphia
+                  (Tosin ADARABIOYO 45+3', Liam DELAP 45+5', Tyrique GEORGE 90+7')
+  21:00 UTC-4   LAFC (USA)  1-1  CR Flamengo (BRA)   @ Orlando
+                  (Denis BOUANGA 84'; WALLACE YAN 86')
+
+▪▪ Group E
+Tue Jun 17
+  12:00 UTC-7   CA River Plate (ARG)  3-1  Urawa Red Diamonds (JPN)   @ Seattle
+                  (Facundo COLIDIO 12', Sebastian DRIUSSI 48', Maximiliano MEZA 73';
+                   Yusuke MATSUO 58'(p))
+  18:00 UTC-7   CF Monterrey (MEX)  1-1  FC Internazionale Milano (ITA)   @ Los Angeles (Pasadena)
+                  (Sergio RAMOS 25'; Lautaro MARTINEZ 42')
+Sat Jun 21
+  12:00 UTC-7   FC Internazionale Milano (ITA)  2-1  Urawa Red Diamonds (JPN)   @ Seattle
+                  (Lautaro MARTINEZ 78', Valentin CARBONI 90+2';
+                   Ryoma WATANABE 11')
+  18:00 UTC-7   CA River Plate (ARG)  0-0  CF Monterrey (MEX)   @ Los Angeles (Pasadena)
+Wed Jun 25
+  18:00 UTC-7   Urawa Red Diamonds (JPN)  0-4  CF Monterrey (MEX)   @ Los Angeles (Pasadena)
+                  (Nelson DEOSSA 30', German BERTERAME 34', 90+7', Jesus CORONA 38')
+  18:00 UTC-7   FC Internazionale Milano (ITA)  2-0  CA River Plate (ARG)   @ Seattle
+                  (Francesco ESPOSITO 72', Alessandro BASTONI 90+3')
+
+▪▪ Group F
+Tue Jun 17
+  12:00 UTC-4   Fluminense FC (BRA)  0-0  Borussia Dortmund (GER)   @ New York/New Jersey (East Rutherford)
+  19:05 UTC-4   Ulsan HD (KOR)  0-1  Mamelodi Sundowns FC (RSA)   @ Orlando
+                  (Iqraam RAYNERS 36')
+Sat Jun 21
+  12:00 UTC-4   Mamelodi Sundowns FC (RSA)  3-4  Borussia Dortmund (GER)   @ Cincinnati
+                  (LUCAS RIBEIRO 11', Iqraam RAYNERS 62', Lebo MOTHIBA 90';
+                   Felix NMECHA 16', Serhou GUIRASSY 34', Jobe BELLINGHAM 45', Khuliso MUDAU 59'(og))
+  18:00 UTC-4   Fluminense FC (BRA)  4-2  Ulsan HD (KOR)   @ New York/New Jersey (East Rutherford)
+                  (Jhon ARIAS 27', NONATO 66', Juan FREYTES 83', KENO 90+2';
+                   LEE Jinhyun 37', UM Wonsang 45+3')
+Wed Jun 25
+  15:00 UTC-4   Borussia Dortmund (GER)  1-0  Ulsan HD (KOR)   @ Cincinnati
+                  (Daniel SVENSSON 36')
+  15:00 UTC-4   Mamelodi Sundowns FC (RSA)  0-0  Fluminense FC (BRA)   @ Miami
+
+▪▪ Group G
+Wed Jun 18
+  12:00 UTC-4   Manchester City (ENG)  2-0  Wydad AC (MAR)   @ Philadelphia
+                  (Phil FODEN 2', Jeremy DOKU 42')
+  21:00 UTC-4   Al Ain FC (UAE)  0-5  Juventus FC (ITA)   @ Washington D.C.
+                  (Randal KOLO MUANI 11', 45+4', FRANCISCO CONCEICAO 21', 58', Kenan YILDIZ 31')
+Sun Jun 22
+  12:00 UTC-4   Juventus FC (ITA)  4-1  Wydad AC (MAR)   @ Philadelphia
+                  (Abdelmounaim BOUTOUIL 6'(og), Kenan YILDIZ 16', 69', Dusan VLAHOVIC 90+4'(p);
+                   Thembinkosi LORCH 25')
+  21:00 UTC-4   Manchester City (ENG)  6-0  Al Ain FC (UAE)   @ Atlanta
+                  (Ilkay GUENDOGAN 8', 73', Claudio ECHEVERRI 27', Erling HAALAND 45+5'(p), Oscar BOBB 84', Rayan CHERKI 89')
+Thu Jun 26
+  15:00 UTC-4   Wydad AC (MAR)  1-2  Al Ain FC (UAE)   @ Washington D.C.
+                  (Cassius MAILULA 4';
+                   Kodjo LABA 45+1'(p), KAKU 50')
+  15:00 UTC-4   Juventus FC (ITA)  2-5  Manchester City (ENG)   @ Orlando
+                  (Teun KOOPMEINERS 11', Dusan VLAHOVIC 84';
+                   Jeremy DOKU 9', Pierre KALULU 26'(og), Erling HAALAND 52', Phil FODEN 69', SAVINHO 75')
+
+▪▪ Group H
+Wed Jun 18
+  15:00 UTC-4   Real Madrid C.F. (ESP)  1-1  Al Hilal (KSA)   @ Miami
+                  (Gonzalo GARCIA 34'; RUBEN NEVES 41'(p))
+  18:00 UTC-4   CF Pachuca (MEX)  1-2  FC Salzburg (AUT)   @ Cincinnati
+                  (Bryan GONZALEZ 56';
+                   Oscar GLOUKH 42', Karim ONISIWO 76')
+Sun Jun 22
+  15:00 UTC-4   Real Madrid C.F. (ESP)  3-1  CF Pachuca (MEX)   @ Charlotte
+                  (Jude BELLINGHAM 35', Arda GULER 43', Federico VALVERDE 70';
+                   Elias MONTIEL 80')
+  18:00 UTC-4   FC Salzburg (AUT)  0-0  Al Hilal (KSA)   @ Washington D.C.
+Thu Jun 26
+  20:00 UTC-5   Al Hilal (KSA)  2-0  CF Pachuca (MEX)   @ Nashville
+                  (SALEM ALDAWSARI 22', MARCOS LEONARDO 90+5')
+  21:00 UTC-4   FC Salzburg (AUT)  0-3  Real Madrid C.F. (ESP)   @ Philadelphia
+                  (VINICIUS JUNIOR 40', Federico VALVERDE 45+3', Gonzalo GARCIA 84')
+
+▪ Round of 16
+Sat Jun 28
+  12:00 UTC-4   Palmeiras (BRA)  1-0 a.e.t.  Botafogo (BRA)   @ Philadelphia
+                  (PAULINHO 100')
+  16:00 UTC-4   SL Benfica (POR)  1-4 a.e.t.  Chelsea FC (ENG)   @ Charlotte
+                  (Angel DI MARIA 90+5'(p);
+                   Reece JAMES 64', Christopher NKUNKU 108', PEDRO NETO 114', Kiernan DEWSBURY-HALL 117')
+Sun Jun 29
+  12:00 UTC-4   Paris Saint-Germain (FRA)  4-0  Inter Miami CF (USA)   @ Atlanta
+                  (JOAO NEVES 6', 39', Tomas AVILES 44'(og), Achraf HAKIMI 45+3')
+  16:00 UTC-4   CR Flamengo (BRA)  2-4  FC Bayern München (GER)   @ Miami
+                  (GERSON 33', JORGINHO 54'(p);
+                   Erick PULGAR 6'(og), Harry KANE 9', 73', Leon GORETZKA 41')
+Mon Jun 30
+  15:00 UTC-4   FC Internazionale Milano (ITA)  0-2  Fluminense FC (BRA)   @ Charlotte
+                  (German CANO 3', HERCULES 90+3')
+  21:00 UTC-4   Manchester City (ENG)  3-4 a.e.t.  Al Hilal (KSA)   @ Orlando
+                  (BERNARDO SILVA 9', Erling HAALAND 55', Phil FODEN 104';
+                   MARCOS LEONARDO 46', 112', MALCOM 52', Kalidou KOULIBALY 94')
+Tue Jul 1
+  15:00 UTC-4   Real Madrid C.F. (ESP)  1-0  Juventus FC (ITA)   @ Miami
+                  (Gonzalo GARCIA 54')
+  21:00 UTC-4   Borussia Dortmund (GER)  2-1  CF Monterrey (MEX)   @ Atlanta
+                  (Serhou GUIRASSY 14', 24';
+                   German BERTERAME 48')
+
+▪ Quarter-final
+Fri Jul 4
+  15:00 UTC-4   Fluminense FC (BRA)  2-1  Al Hilal (KSA)   @ Orlando
+                  (MARTINELLI 40', HERCULES 70';
+                   MARCOS LEONARDO 51')
+  21:00 UTC-4   Palmeiras (BRA)  1-2  Chelsea FC (ENG)   @ Philadelphia
+                  (ESTEVAO 53';
+                   Cole PALMER 16', WEVERTON 83'(og))
+Sat Jul 5
+  12:00 UTC-4   Paris Saint-Germain (FRA)  2-0  FC Bayern München (GER)   @ Atlanta
+                  (Desire DOUE 78', Ousmane DEMBELE 90+6')
+  16:00 UTC-4   Real Madrid C.F. (ESP)  3-2  Borussia Dortmund (GER)   @ New York/New Jersey (East Rutherford)
+                  (Gonzalo GARCIA 10', Fran GARCIA 20', Kylian MBAPPE 90+4';
+                   Maximilian BEIER 90+3', Serhou GUIRASSY 90+8'(p))
+
+▪ Semi-final
+Tue Jul 8
+  15:00 UTC-4   Fluminense FC (BRA)  0-2  Chelsea FC (ENG)   @ New York/New Jersey (East Rutherford)
+                  (JOAO PEDRO 18', 56')
+Wed Jul 9
+  15:10 UTC-4   Paris Saint-Germain (FRA)  4-0  Real Madrid C.F. (ESP)   @ New York/New Jersey (East Rutherford)
+                  (Fabian RUIZ 6', 24', Ousmane DEMBELE 9', GONCALO RAMOS 87')
+
+▪ Final
+Sun Jul 13
+  15:00 UTC-4   Chelsea FC (ENG)  3-0  Paris Saint-Germain (FRA)   @ New York/New Jersey (East Rutherford)
+                  (Cole PALMER 22', 30', JOAO PEDRO 43')

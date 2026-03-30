@@ -1,0 +1,59 @@
+= Club World Cup 2009
+
+# Dates    Wed Dec 9 - Sat Dec 19 2009 (10d)
+# Teams    7
+#   Shabab Al Ahli (UAE)
+#   Auckland City FC (NZL)
+#   TP Mazembe (COD)
+#   Pohang Steelers (KOR)
+#   Atlante FC (MEX)
+#   Estudiantes (ARG)
+#   Barcelona (ESP)
+# Matches  8
+# Venues   2 (in 1 city)
+#   Zayed Sports City Stadium, Abu Dhabi (UAE)
+#   Mohammed Bin Zayed Stadium, Abu Dhabi (UAE)
+
+
+▪ Play-off for quarter-final
+Wed Dec 9
+  20:00 UTC+4   Shabab Al Ahli (UAE)  0-2  Auckland City FC (NZL)   @ Abu Dhabi
+                  (Adam DICKINSON 44', Chad COOMBES 66')
+
+▪ Quarter-final
+Fri Dec 11
+  20:00 UTC+4   TP Mazembe (COD)  1-2  Pohang Steelers (KOR)   @ Abu Dhabi
+                  (Mbenza BEDI 27';
+                   DENILSON 49', 77')
+Sat Dec 12
+  20:00 UTC+4   Auckland City FC (NZL)  0-3  Atlante FC (MEX)   @ Abu Dhabi
+                  (Daniel ARREOLA 36', Christian BERMUDEZ 69', Lucas SILVA 90+1')
+
+▪ Semi-final
+Tue Dec 15
+  20:00 UTC+4   Pohang Steelers (KOR)  1-2  Estudiantes (ARG)   @ Abu Dhabi
+                  (DENILSON 70';
+                   Leandro BENITEZ 45+1', 52')
+
+▪ Match for fifth place
+Wed Dec 16
+  17:00 UTC+4   TP Mazembe (COD)  2-3  Auckland City FC (NZL)   @ Abu Dhabi
+                  (Ngandu KASONGO 59', Kilitcho KASUSULA 66';
+                   Jason HAYNE 28', 71', Riki VAN STEEDEN 90+3')
+
+▪ Semi-final
+Wed Dec 16
+  20:00 UTC+4   Atlante FC (MEX)  1-3  Barcelona (ESP)   @ Abu Dhabi
+                  (Guillermo ROJAS 4';
+                   Sergio BUSQUETS 34', Lionel MESSI 54', PEDRO 66')
+
+▪ Match for third place
+Sat Dec 19
+  17:00 UTC+4   Pohang Steelers (KOR)  1-1 a.e.t., 4-3 pen.  Atlante FC (MEX)   @ Abu Dhabi
+                  (DENILSON 41'; Rafael MARQUEZ 45')
+
+▪ Final
+Sat Dec 19
+  20:00 UTC+4   Estudiantes (ARG)  1-2 a.e.t.  Barcelona (ESP)   @ Abu Dhabi
+                  (Mauro Boselli 36';
+                   PEDRO 88', Lionel MESSI 109')

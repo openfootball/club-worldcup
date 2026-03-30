@@ -1,0 +1,128 @@
+= Club World Cup 2006
+
+# Dates    Sun Dec 10 - Sun Dec 17 2006 (7d)
+# Teams    6
+#   Auckland City FC (NZL)
+#   Al Ahly FC (EGY)
+#   Jeonbuk Motors (KOR)
+#   América (MEX)
+#   Internacional (BRA)
+#   Barcelona (ESP)
+# Matches  7
+# Venues   3 (in 3 cities)
+#   Toyota Stadium, Japan (JPN)
+#   Olympic Stadium, Tokyo (JPN)
+#   International Stadium Yokohama, Yokohama (JPN)
+
+▪ Quarter-final
+Sun Dec 10 19:20 UTC+9 @ Toyota Stadium, Japan
+  Auckland City FC (NZL) v Al Ahly FC (EGY)  0-2
+     (FLAVIO 51', Mohamed ABOUTRIKA 73')
+
+Auckland City FC: Ross NICHOLSON - Jonathan PERRY [Y 44'], James PRITCHETT, Greg UHLMANN,
+      Riki VAN STEEDEN [Y 49'] (52' Ben SIGMUND) - Paul SEAMAN, Liam MULROONEY (56' Teru IWAMOTO),
+      Neil SYKES [c], Chad COOMBES - Grant YOUNG, Keryn JORDAN [Y 26'] (56' Jason HAYNE [Y 79'])
+Al Ahly FC: ESSAM ELHADARY - Islam EL SHATER (90+3' AHMED SEDIK), WAEL GOMAA, Shady MOHAMED [c],
+      Ahmed Shadid (89' Akwety MENSAH), MOHAMED SEDIK [Y 22'] - Hossam ASHOUR,
+      MOHAMED SHAWKY [Y 89'] - EMAD METEAB (84' Tarek SAID), Mohamed ABOUTRIKA,
+      FLAVIO
+
+Refs: Khalil AL GHAMDI (KSA), Eisa GHULOUM (UAE), Hamdi AL KADRIE (SYR)
+
+
+Mon Dec 11 19:20 UTC+9 @ Olympic Stadium, Tokyo
+  Jeonbuk Motors (KOR) v América (MEX)  0-1
+     (Ricardo ROJAS 79')
+
+Jeonbuk Motors: KWOUN Suntae - CHOI Chulsoon [Y 83'] (85' KIM In Ho), CHOI Jin Cheul [Y 41'],
+      KIM Young Sun [Y 56'], KIM Hyun Su [c], WANG Jung Hyun (29' BOTTI), LIM You Hwan [Y 35'] (83' Lee HYUN-SEUNG) -
+      CHUNG Jung Kwan, JEON Kwang Hwan, KIM Hyeung Bum - ZECARLO
+América: Guillermo OCHOA - Jose CASTRO, Oscar ROJAS, Duilio DAVINO, Ricardo ROJAS -
+      Cuauhtemoc BLANCO [c], FABIANO (71' Juan MOSQUEDA), German VILLA, Alejandro ARGUELLO -
+      Claudio LOPEZ (86' Matías VUOSO), Salvador CABANAS
+
+Refs: Jerome DAMON (RSA), Enock MOLEFE (RSA), Celestin NTAGUNGIRA (RWA)
+
+
+▪ Semi-final
+Wed Dec 13 19:20 UTC+9 @ Olympic Stadium, Tokyo
+  Al Ahly FC (EGY) v Internacional (BRA)  1-2
+     (FLAVIO 54';
+      ALEXANDRE PATO 23', LUIZ ADRIANO 72')
+
+Al Ahly FC: ESSAM ELHADARY (82' Amir ABDELHAMID) - Islam EL SHATER (75' AHMED SEDIK),
+      Tarek SAID, Emad EL NAHAS, WAEL GOMAA [Y 43'], Shady MOHAMED [c] - Hossam ASHOUR,
+      Hassan MOSTAFA (45+1' EMAD METEAB), MOHAMED SHAWKY - Mohamed ABOUTRIKA,
+      FLAVIO [Y 58']
+Internacional: CLEMER - CEARA, INDIO, FABIANO ELLER, Martin HIDALGO (63' RUBENS CARDOSO) -
+      WELLINGTON MONTEIRO, ALEX [Y 90'], EDINHO - FERNANDAO [c] [Y 29'], IARLEY (82' Fabián VARGAS),
+      ALEXANDRE PATO (65' LUIZ ADRIANO)
+
+Refs: Subkhiddin MOHD SALLEH (MAS), Hamdi AL KADRIE (SYR), Eisa GHULOUM (UAE)
+
+
+Thu Dec 14 19:20 UTC+9 @ International Stadium Yokohama, Yokohama
+  América (MEX) v Barcelona (ESP)  0-4
+     (Eidur GUDJOHNSEN 11', Rafael MARQUEZ 30', RONALDINHO 65', DECO 85')
+
+América: Guillermo OCHOA - Jose CASTRO, Oscar ROJAS, Duilio DAVINO [c], Ricardo ROJAS -
+      FABIANO [Y 57'] (74' Raul Alvin MENDOZA), German VILLA, Alejandro ARGUELLO -
+      Claudio LOPEZ [Y 69'] (74' Matías VUOSO), Salvador CABANAS (45+1' Cuauhtemoc BLANCO),
+      Nelson CUEVAS
+Barcelona: Víctor VALDÉS - Rafael MARQUEZ, Carles PUYOL [c], Gianluca ZAMBROTTA,
+      Giovanni VAN BRONCKHORST - Thiago MOTTA (61' Xavi HERNANDEZ), DECO, Andres INIESTA -
+      Eidur GUDJOHNSEN (66' EZQUERRO), Ludovic GIULY (74' BELLETTI), RONALDINHO
+
+Refs: Oscar RUIZ (COL), Wilson BERRIO (COL), Rafael YANEZ (VEN)
+
+
+▪ Match for fifth place
+Fri Dec 15 19:20 UTC+9 @ Olympic Stadium, Tokyo
+  Auckland City FC (NZL) v Jeonbuk Motors (KOR)  0-3
+     (Lee HYUN-SEUNG 17', KIM Hyeung Bum 31', ZECARLO 73'(p))
+
+Auckland City FC: Ross NICHOLSON - Jonathan PERRY [Y 72'], James PRITCHETT, Greg UHLMANN -
+      Paul SEAMAN, Liam MULROONEY [Y 59'] (79' Jason HAYNE), Neil SYKES [c] [Y 74'],
+      Chad COOMBES, Bryan LITTLE (59' Teru IWAMOTO [Y 90+2']) - Grant YOUNG (77' Paul URLOVIC),
+      Keryn JORDAN [Y 42']
+Jeonbuk Motors: KWOUN Suntae - CHOI Jin Cheul (88' SHIN Sang Hoon), KIM Young Sun, KIM Hyun Su [c] (81' JEON Kwang Hwan),
+      LIM You Hwan, KIM In Ho - JANG Ji Hyun (76' KIM Young Sin), CHUNG Jung Kwan,
+      Lee HYUN-SEUNG, KIM Hyeung Bum - ZECARLO
+
+Refs: Khalil AL GHAMDI (KSA), Eisa GHULOUM (UAE), Hamdi AL KADRIE (SYR)
+
+
+▪ Match for third place
+Sun Dec 17 16:20 UTC+9 @ International Stadium Yokohama, Yokohama
+  Al Ahly FC (EGY) v América (MEX)  2-1
+     (Mohamed ABOUTRIKA 42', 79';
+      Salvador CABANAS 59')
+
+Al Ahly FC: Amir ABDELHAMID - Islam EL SHATER [Y 54'] (67' AHMED SEDIK), Tarek SAID [Y 90+2'],
+      Emad EL NAHAS, WAEL GOMAA, Shady MOHAMED [c] - Hossam ASHOUR (65' Hassan MOSTAFA),
+      MOHAMED SHAWKY - EMAD METEAB (75' MOHAMED SEDIK), Mohamed ABOUTRIKA [Y 64'],
+      FLAVIO
+América: Guillermo OCHOA - Jose CASTRO, Oscar ROJAS [Y 41'], Duilio DAVINO [c],
+      Ricardo ROJAS (86' Raul Alvin MENDOZA) - FABIANO (45+1' Cuauhtemoc BLANCO),
+      Juan MOSQUEDA, Alejandro ARGUELLO - Matías VUOSO (67' Claudio LOPEZ),
+      Salvador CABANAS, Nelson CUEVAS
+
+Refs: Jerome DAMON (RSA), Enock MOLEFE (RSA), Celestin NTAGUNGIRA (RWA)
+
+
+▪ Final
+Sun Dec 17 19:20 UTC+9 @ International Stadium Yokohama, Yokohama
+  Internacional (BRA) v Barcelona (ESP)  1-0
+     (ADRIANO 82')
+
+Internacional: CLEMER - CEARA, INDIO [Y 45'], FABIANO ELLER, RUBENS CARDOSO - WELLINGTON MONTEIRO,
+      ALEX (45+1' Fabián VARGAS), EDINHO - FERNANDAO [c] (76' ADRIANO [Y 84']),
+      IARLEY [Y 90+3'], ALEXANDRE PATO (61' LUIZ ADRIANO)
+Barcelona: Víctor VALDÉS - Rafael MARQUEZ, Carles PUYOL [c], Gianluca ZAMBROTTA (45+1' BELLETTI),
+      Giovanni VAN BRONCKHORST - Thiago MOTTA [Y 55'] (59' Xavi HERNANDEZ),
+      DECO, Andres INIESTA - Eidur GUDJOHNSEN (88' EZQUERRO), Ludovic GIULY,
+      RONALDINHO
+
+Refs: Carlos BATRES (GUA), Carlos PASTRANA (HON), Leonel LEAL (CRC)
+
+

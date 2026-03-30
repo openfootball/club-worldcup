@@ -1,0 +1,241 @@
+= Club World Cup 2000
+
+# Dates    Wed Jan 5 - Fri Jan 14 2000 (9d)
+# Teams    8
+#   Real Madrid CF (ESP)
+#   Al Nassr FC (KSA)
+#   Corinthians (BRA)
+#   Raja Casablanca (MAR)
+#   Manchester United (ENG)
+#   Necaxa (MEX)
+#   Vasco da Gama (BRA)
+#   South Melbourne (AUS)
+# Matches  14
+# Venues   2 (in 2 cities)
+#   Maracanã, Rio de Janeiro (BRA)
+#   Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo (BRA)
+
+▪ First Stage
+▪▪ Group A
+Wed Jan 5 18:45 UTC-2 @ Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo
+  Real Madrid CF (ESP) v Al Nassr FC (KSA)  3-1
+     (Nicolas ANELKA 21', RAUL 61', SAVIO 69'(p);
+      Fahad AL HUSSEINI 45+1'(p))
+
+Real Madrid CF: Iker CASILLAS - Michel SALGADO, ROBERTO CARLOS, Fernando HIERRO [Y 33'] (77' Aitor KARANKA),
+      GEREMI - Fernando REDONDO, GUTI (66' Steve McMANAMAN), Christian KAREMBEU -
+      RAUL, SAVIO (72' Manuel SANCHIS), Nicolas ANELKA
+Al Nassr FC: Mohammed BABKR - Mohsin HARTHI, Hadi SHARIFY, Ibrahim AL SHOKIA - Fahad AL HUSSEINI (78' Hamad AL KHATHRAN),
+      Fuad AL AMIN [Y 46'], Mansour AL MOUSA, Abdullah AL KARNI - Mehaisen AL DOSARI (83' Fahad AL MEHALEL),
+      Ahmed BAHJA, Moussa SAIB (66' Smahi TRIKI)
+
+Refs: Oscar RUIZ (COL), Fernando CRESCI (URU), Miguel GIACOMUZZI (PAR)
+
+
+Wed Jan 5 21:15 UTC-2 @ Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo
+  Corinthians (BRA) v Raja Casablanca (MAR)  2-0
+     (LUIZAO 50', FABIO LUCIANO 64')
+
+Corinthians: DIDA - INDIO, JOAO CARLOS, KLEBER, FABIO LUCIANO - VAMPETA (86' EDU),
+      MARCELINHO CARIOCA (76' Marcos SENNA), Freddy RINCON [c], RICARDINHO -
+      LUIZAO (83' DINEI), EDILSON
+Raja Casablanca: Mustapha EL CHADILI [Y 65'] - Redouane EL HAIMEUR, Talal EL KARKOURI,
+      Youssef SAFRI, Abdellatif JRINDOU [Y 13'] - Hicham MISBAH [Y 65'], Omar NEJJARY,
+      Zakaria ABOUB, Reda EREYAHI - Mustapha MOUSTAOUDIA, Mohamed KHOUBBACHE (60' Youssef ACHAMI)
+
+Refs: Stefano BRASCHI (ITA), Jens LARSEN (DEN), Jacek POCIEGIEL (POL)
+
+
+Fri Jan 7 18:45 UTC-2 @ Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo
+  Real Madrid CF (ESP) v Corinthians (BRA)  2-2
+     (Nicolas ANELKA 19', 71';
+      EDILSON 28', 64')
+
+Real Madrid CF: Iker CASILLAS - Michel SALGADO [Y 20'], ROBERTO CARLOS [Y 84'], Fernando HIERRO,
+      GEREMI (70' Fernando MORIENTES) - Fernando REDONDO, GUTI [Y 45+1'] (70' Steve McMANAMAN),
+      Christian KAREMBEU [Y 65'] - RAUL, SAVIO, Nicolas ANELKA
+Corinthians: DIDA - INDIO, JOAO CARLOS, KLEBER [Y 89'] - VAMPETA (74' EDU), MARCELINHO CARIOCA,
+      Freddy RINCON [c] [Y 42'], RICARDINHO (85' Marcos SENNA) - LUIZAO (81' DINEI),
+      EDILSON, FABIO LUCIANO [Y 30']
+
+Refs: William MATTUS (CRC), Jacek POCIEGIEL (POL), Fernando CRESCI (URU)
+
+
+Fri Jan 7 21:15 UTC-2 @ Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo
+  Raja Casablanca (MAR) v Al Nassr FC (KSA)  3-4
+     (Madhi AL DOSARI 24'(og), Bouchaib EL MOUBARKI 66', Talal EL KARKOURI 73';
+      Fuad AL AMIN 4', Ahmed BAHJA 63', Fahad AL HUSSEINI 64', Moussa SAIB 85')
+
+Raja Casablanca: Mustapha EL CHADILI - Redouane EL HAIMEUR, Talal EL KARKOURI, Youssef SAFRI [R 75'],
+      Abdellatif JRINDOU (55' Youssef ACHAMI) - Hicham MISBAH [Y 90+3'], Omar NEJJARY (32' Hamid NATER),
+      Zakaria ABOUB [Y 14'], Reda EREYAHI (55' Bouchaib EL MOUBARKI) - Mustapha MOUSTAOUDIA,
+      Mohamed KHOUBBACHE [Y 76']
+Al Nassr FC: Mohammed BABKR (29' Madhi AL DOSARI) - Mohsin HARTHI, Hadi SHARIFY, Ibrahim AL SHOKIA -
+      Fahad AL HUSSEINI (76' Fahad AL MEHALEL), Fuad AL AMIN, Mansour AL MOUSA [Y 69'],
+      Abdullah AL KARNI (71' Nassip AL GHAMDI) - Mehaisen AL DOSARI, Ahmed BAHJA,
+      Moussa SAIB
+
+Refs: Derek RUGG (NZL), Miguel GIACOMUZZI (PAR), Jens LARSEN (DEN)
+
+
+Mon Jan 10 18:45 UTC-2 @ Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo
+  Real Madrid CF (ESP) v Raja Casablanca (MAR)  3-2
+     (Fernando HIERRO 49', Fernando MORIENTES 53', GEREMI 88';
+      Youssef ACHAMI 28', Mustapha MOUSTAOUDIA 59')
+
+Real Madrid CF: Iker CASILLAS - Michel SALGADO (80' Aitor KARANKA), ROBERTO CARLOS, Fernando HIERRO [Y 38'] -
+      Fernando REDONDO, Steve McMANAMAN (45' GEREMI), GUTI [R 62'], Christian KAREMBEU [Y 87'] -
+      RAUL, SAVIO [Y 61'], Nicolas ANELKA (37' Fernando MORIENTES)
+Raja Casablanca: Mustapha EL CHADILI - Redouane EL HAIMEUR, Talal EL KARKOURI [Y 14'],
+      Mohamed KHARBOUCH - Zakaria ABOUB, Reda EREYAHI, Hamid NATER (90+3' Said KHARAZI) -
+      Mustapha MOUSTAOUDIA [Y 70'], Mohamed KHOUBBACHE, Bouchaib EL MOUBARKI [R 62'],
+      Youssef ACHAMI (81' Tarik RIZKI)
+
+Refs: Horacio ELIZONDO (ARG), Miguel GIACOMUZZI (PAR), Ali TOMUSANGE (UGA)
+
+
+Mon Jan 10 21:15 UTC-2 @ Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo
+  Al Nassr FC (KSA) v Corinthians (BRA)  0-2
+     (RICARDINHO 24', Freddy RINCON 81')
+
+Al Nassr FC: Mohammed BABKR - Mohsin HARTHI [Y 1'], Hadi SHARIFY, Ibrahim AL SHOKIA [Y 84'] -
+      Fahad AL HUSSEINI (41' Abdulaziz AL JANOUBI), Fuad AL AMIN, Mansour AL MOUSA,
+      Abdullah AL KARNI - Mehaisen AL DOSARI (88' Smahi TRIKI), Ahmed BAHJA,
+      Moussa SAIB (73' Fahad AL MEHALEL)
+Corinthians: DIDA - JOAO CARLOS (10' ADILSON), KLEBER, DANIEL [Y 67'], FABIO LUCIANO -
+      VAMPETA (72' DINEI), MARCELINHO CARIOCA [Y 30'], Freddy RINCON [c], RICARDINHO (27' EDU) -
+      LUIZAO [Y 59'], EDILSON
+
+Refs: Dick JOL (NED), Lavetala SIUAMOA (SAM), Serguey UFIMTSEV (KAZ)
+
+
+▪▪ Group B
+Thu Jan 6 18:15 UTC-2 @ Maracanã, Rio de Janeiro
+  Manchester United (ENG) v Necaxa (MEX)  1-1
+     (Dwight YORKE 88'; Cristian MONTECINOS 14')
+
+Manchester United: Mark BOSNICH - Gary NEVILLE, Denis IRWIN (73' Teddy SHERINGHAM [Y 76']),
+      Mikael SILVESTRE, Jaap STAM - David BECKHAM [R 42'], Nicky BUTT (73' Phil NEVILLE),
+      Roy KEANE [Y 16'] - Andy COLE (73' Ole Gunnar SOLSKJAER), Ryan GIGGS [Y 43'],
+      Dwight YORKE [Y 82']
+Necaxa: Hugo PINEDA - Salvador CABRERA, Jose MILIAN, Jose HIGAREDA (82' Miguel ACOSTA) -
+      Sergio ALMAGUER, Alex AGUINAGA, Luis PEREZ, Markus LOPEZ [Y 85'], Hernan VIGNA (78' Ignacio AMBRIZ) -
+      Agustin DELGADO [Y 32'], Cristian MONTECINOS [Y 58'] (76' Sergio VAZQUEZ)
+
+Refs: Horacio ELIZONDO (ARG), Serguey UFIMTSEV (KAZ), Ali TOMUSANGE (UGA)
+
+
+Thu Jan 6 20:45 UTC-2 @ Maracanã, Rio de Janeiro
+  Vasco da Gama (BRA) v South Melbourne (AUS)  2-0
+     (FELIPE 53', EDMUNDO 86')
+
+Vasco da Gama: HELTON - JORGINHO, MAURO GALVAO, FELIPE, GILBERTO MELO, JUNIOR BAIANO -
+      AMARAL, JUNINHO PERNAMBUCANO (89' ODVAN), RAMON [Y 64'] (80' ALEX OLIVEIRA) -
+      EDMUNDO [c] [Y 86'] (89' VIOLA), ROMÁRIO
+South Melbourne: Chris JONES - Steve IOSIFIDIS, Fausto DE AMICIS, Nick ORLIC [Y 29'],
+      Con BLATSIS, Goran LOZANOVSKI [Y 40'], Robert LIPAROTI - David CLARKSON,
+      Steve PANOPOULOS [Y 50'] - Paul TRIMBOLI (80' John ANASTASIADIS), Michael CURCIJA (74' Vaughan COVENY)
+
+Refs: Dick JOL (NED), Haseeb MOHAMMED (TRI), Lavetala SIUAMOA (SAM)
+
+
+Sat Jan 8 18:15 UTC-2 @ Maracanã, Rio de Janeiro
+  Manchester United (ENG) v Vasco da Gama (BRA)  1-3
+     (Nicky BUTT 81';
+      ROMÁRIO 24', 26', EDMUNDO 43')
+
+Manchester United: Mark BOSNICH - Gary NEVILLE, Denis IRWIN, Mikael SILVESTRE, Jaap STAM (71' Jordi CRUYFF),
+      Phil NEVILLE - Nicky BUTT, Roy KEANE - Ryan GIGGS (77' Quinton FORTUNE),
+      Dwight YORKE, Ole Gunnar SOLSKJAER (45' Teddy SHERINGHAM [Y 51'])
+Vasco da Gama: HELTON - JORGINHO [Y 59'] (69' PAULO MIRANDA), MAURO GALVAO, FELIPE,
+      GILBERTO MELO, JUNIOR BAIANO [Y 61'] - AMARAL, JUNINHO PERNAMBUCANO (79' ALEX OLIVEIRA),
+      RAMON (76' NASA [Y 81']) - EDMUNDO [c], ROMÁRIO
+
+Refs: Saad MANE (KUW), Lavetala SIUAMOA (SAM), Haseeb MOHAMMED (TRI)
+
+
+Sat Jan 8 20:45 UTC-2 @ Maracanã, Rio de Janeiro
+  South Melbourne (AUS) v Necaxa (MEX)  1-3
+     (John ANASTASIADIS 45+2';
+      Cristian MONTECINOS 19'(p), Agustin DELGADO 29', Salvador CABRERA 79')
+
+South Melbourne: Steve PANOPOULOS (65' Michael CURCIJA), Chris JONES - Steve IOSIFIDIS [Y 40'],
+      Fausto DE AMICIS, Nick ORLIC [Y 76'], Con BLATSIS - David CLARKSON, Richie ALAGICH -
+      Vaughan COVENY (65' George GOUTZIOULIS), Paul TRIMBOLI (78' Jim TSEKINIS),
+      John ANASTASIADIS
+Necaxa: Hugo PINEDA - Sergio ALMAGUER, Jose MILIAN [Y 83'], Jose HIGAREDA - Salvador CABRERA,
+      Alex AGUINAGA, Luis PEREZ, Markus LOPEZ (55' Ignacio AMBRIZ), Hernan VIGNA [Y 81'] -
+      Agustin DELGADO (83' Sergio VAZQUEZ), Cristian MONTECINOS (45' Edgar OLIVA)
+
+Refs: Daouda N DOYE (SEN), Ali TOMUSANGE (UGA), Serguey UFIMTSEV (KAZ)
+
+
+Tue Jan 11 18:15 UTC-2 @ Maracanã, Rio de Janeiro
+  Manchester United (ENG) v South Melbourne (AUS)  2-0
+     (Quinton FORTUNE 8', 20')
+
+Manchester United: Raimond VAN DER GOUW (83' Paul RACHUBKA) - Danny HIGGINBOTHAM, Phil NEVILLE,
+      Henning BERG, Ronnie WALLWORK - Mark WILSON (77' David BECKHAM) - Andy COLE,
+      Jordi CRUYFF, Jonathan GREENING, Ole Gunnar SOLSKJAER, Quinton FORTUNE
+South Melbourne: Chris JONES - Steve IOSIFIDIS, Fausto DE AMICIS, Con BLATSIS, Robert LIPAROTI (31' George GOUTZIOULIS) -
+      David CLARKSON (71' Jim TSEKINIS), Steve PANOPOULOS, Goran LOZANOVSKI -
+      Paul TRIMBOLI [Y 90'], Michael CURCIJA, John ANASTASIADIS (66' Vaughan COVENY)
+
+Refs: Stefano BRASCHI (ITA), Jens LARSEN (DEN), Ali TOMUSANGE (UGA)
+
+
+Tue Jan 11 20:45 UTC-2 @ Maracanã, Rio de Janeiro
+  Necaxa (MEX) v Vasco da Gama (BRA)  1-2
+     (Alex AGUINAGA 5';
+      ODVAN 14', ROMÁRIO 69')
+
+Necaxa: Hugo PINEDA - Sergio ALMAGUER, Jose MILIAN (84' Sergio VAZQUEZ), Jose HIGAREDA [Y 21'] -
+      Salvador CABRERA, Alex AGUINAGA, Luis PEREZ, Markus LOPEZ [Y 65'], Hernan VIGNA -
+      Agustin DELGADO, Cristian MONTECINOS (72' Ignacio AMBRIZ)
+Vasco da Gama: JUNINHO PERNAMBUCANO, HELTON - MAURO GALVAO, FELIPE, GILBERTO MELO, JUNIOR BAIANO (9' ODVAN) -
+      AMARAL [Y 75'], RAMON - DONIZETE (70' EDMUNDO), ROMÁRIO, PAULO MIRANDA
+
+Refs: Oscar RUIZ (COL), Miguel GIACOMUZZI (PAR), Fernando CRESCI (URU)
+
+
+▪ Match for third place
+Fri Jan 14 17:00 UTC-2 @ Maracanã, Rio de Janeiro
+  Real Madrid CF (ESP) v Necaxa (MEX)  1-1 a.e.t., 3-4 pen.
+     (RAUL 15'; Agustin DELGADO 58')
+
+Penalties: 1-0 Samuel ETOO, 1-1 Sergio VAZQUEZ,
+           2-1 Ivan HELGUERA,     Salvador CABRERA (missed),
+               Steve McMANAMAN (missed), 2-2 Luis PEREZ,
+           3-2 Fernando MORIENTES, 3-3 Alex AGUINAGA,
+               DORADO (missed), 3-4 Agustin DELGADO
+
+Real Madrid CF: BIZZARRI - Fernando HIERRO (52' IVAN CAMPO), DORADO, Aitor KARANKA, GEREMI -
+      Manuel SANCHIS, Steve McMANAMAN, Ivan HELGUERA - RAUL (66' Samuel ETOO),
+      Fernando MORIENTES, SAVIO (52' Perica OGNJENOVIC)
+Necaxa: Hugo PINEDA - Sergio ALMAGUER, Jose MILIAN, Jose HIGAREDA - Salvador CABRERA,
+      Alex AGUINAGA, Luis PEREZ, Markus LOPEZ (45' Ignacio AMBRIZ), Hernan VIGNA (83' Edgar OLIVA) -
+      Agustin DELGADO, Cristian MONTECINOS (45' Sergio VAZQUEZ)
+
+Refs: Oscar RUIZ (COL), Miguel GIACOMUZZI (PAR), Ali TOMUSANGE (UGA)
+
+
+▪ Final
+Fri Jan 14 20:00 UTC-2 @ Maracanã, Rio de Janeiro
+  Corinthians (BRA) v Vasco da Gama (BRA)  0-0 a.e.t., 4-3 pen.
+
+Penalties: 1-0 Freddy RINCON, 1-1 ROMÁRIO,
+           2-1 FERNANDO BAIANO, 2-2 ALEX OLIVEIRA,
+           3-2 LUIZAO,     GILBERTO MELO (missed),
+           4-2 EDU, 4-3 VIOLA,
+               MARCELINHO CARIOCA (missed),     EDMUNDO (missed)
+
+Corinthians: DIDA - INDIO [Y 90+7'], ADILSON [Y 75'], KLEBER, FABIO LUCIANO - VAMPETA (90+1' GILMAR),
+      MARCELINHO CARIOCA, Freddy RINCON [c] [Y 43'], RICARDINHO (45' EDU) -
+      LUIZAO [Y 113'], EDILSON (113' FERNANDO BAIANO)
+Vasco da Gama: HELTON - ODVAN, MAURO GALVAO, FELIPE [Y 16'] (90+12' ALEX OLIVEIRA),
+      GILBERTO MELO - AMARAL [Y 33'], JUNINHO PERNAMBUCANO (90+6' VIOLA), RAMON (111' DONIZETE) -
+      EDMUNDO [c] [Y 90+8'], ROMÁRIO, PAULO MIRANDA [Y 54']
+
+Refs: Dick JOL (NED), Jens LARSEN (DEN), Fernando CRESCI (URU)
+
+

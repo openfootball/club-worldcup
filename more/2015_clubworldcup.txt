@@ -1,0 +1,54 @@
+= Club World Cup 2015
+
+# Dates    Thu Dec 10 - Sun Dec 20 2015 (10d)
+# Teams    7
+#   Sanfrecce Hiroshima (JPN)
+#   Auckland City FC (NZL)
+#   América (MEX)
+#   Guangzhou FC (CHN)
+#   TP Mazembe (COD)
+#   River Plate (ARG)
+#   Barcelona (ESP)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Yanmar Stadium Nagai, Osaka (JPN)
+#   International Stadium Yokohama, Yokohama (JPN)
+
+
+▪ Play-off for quarter-final
+Thu Dec 10
+  19:45 UTC+9   Sanfrecce Hiroshima (JPN)  2-0  Auckland City FC (NZL)   @ Yokohama
+                  (Yusuke MINAGAWA 8', Tsukasa Shiotani 69')
+
+▪ Quarter-final
+Sun Dec 13
+  16:00 UTC+9   América (MEX)  1-2  Guangzhou FC (CHN)   @ Osaka
+                  (Oribe PERALTA 54';
+                   ZHENG Long 79', PAULINHO 90+2')
+  19:30 UTC+9   TP Mazembe (COD)  0-3  Sanfrecce Hiroshima (JPN)   @ Osaka
+                  (Tsukasa Shiotani 43', Kazuhiko CHIBA 55', Takuma Asano 77')
+
+▪ Match for fifth place
+Wed Dec 16
+  16:30 UTC+9   América (MEX)  2-1  TP Mazembe (COD)   @ Osaka
+                  (Dario BENEDETTO 18', Martin ZUNIGA 28';
+                   Rainford KALABA 42')
+
+▪ Semi-final
+Wed Dec 16
+  19:30 UTC+9   Sanfrecce Hiroshima (JPN)  0-1  River Plate (ARG)   @ Osaka
+                  (Lucas ALARIO 71')
+Thu Dec 17
+  19:30 UTC+9   Barcelona (ESP)  3-0  Guangzhou FC (CHN)   @ Yokohama
+                  (Luis SUAREZ 38', 49', 66'(p))
+
+▪ Match for third place
+Sun Dec 20
+  16:00 UTC+9   Sanfrecce Hiroshima (JPN)  2-1  Guangzhou FC (CHN)   @ Yokohama
+                  (DOUGLAS 69', 82';
+                   PAULINHO 3')
+
+▪ Final
+Sun Dec 20
+  19:30 UTC+9   River Plate (ARG)  0-3  Barcelona (ESP)   @ Yokohama
+                  (Lionel MESSI 35', Luis SUAREZ 48', 67')

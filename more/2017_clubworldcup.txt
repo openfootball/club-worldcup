@@ -1,0 +1,54 @@
+= Club World Cup 2017
+
+# Dates    Wed Dec 6 - Sat Dec 16 2017 (10d)
+# Teams    7
+#   Al Jazira (UAE)
+#   Auckland City FC (NZL)
+#   CF Pachuca (MEX)
+#   Wydad AC (MAR)
+#   Urawa Reds (JPN)
+#   Grêmio (BRA)
+#   Real Madrid CF (ESP)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Zayed Sports City Stadium, Abu Dhabi (UAE)
+#   Hazza Bin Zayed Stadium, Al Ain (UAE)
+
+
+▪ 1st Round
+Wed Dec 6
+  21:00 UTC+4   Al Jazira (UAE)  1-0  Auckland City FC (NZL)   @ Al Ain
+                  (ROMARINHO 37')
+
+▪ 2nd Round
+Sat Dec 9
+  17:00 UTC+4   CF Pachuca (MEX)  1-0 a.e.t.  Wydad AC (MAR)   @ Abu Dhabi
+                  (Victor GUZMAN 111')
+  20:30 UTC+4   Al Jazira (UAE)  1-0  Urawa Reds (JPN)   @ Abu Dhabi
+                  (ALI MABKHOUT 51')
+
+▪ 5th Place
+Tue Dec 12
+  18:00 UTC+4   Wydad AC (MAR)  2-3  Urawa Reds (JPN)   @ Al Ain
+                  (EL HADDAD Ismail 20', Reda HAJHOUJ 90+3'(p);
+                   MAURICIO ANTONIO 17', 59', Yosuke KASHIWAGI 25')
+
+▪ Semi-Final
+Tue Dec 12
+  21:00 UTC+4   Grêmio (BRA)  1-0 a.e.t.  CF Pachuca (MEX)   @ Al Ain
+                  (EVERTON 94')
+Wed Dec 13
+  21:00 UTC+4   Al Jazira (UAE)  1-2  Real Madrid CF (ESP)   @ Abu Dhabi
+                  (ROMARINHO 40';
+                   CRISTIANO RONALDO 52', Gareth BALE 80')
+
+▪ 3rd Place
+Sat Dec 16
+  18:00 UTC+4   Al Jazira (UAE)  1-4  CF Pachuca (MEX)   @ Abu Dhabi
+                  (KHALFAN MUBARAK 56';
+                   Jonathan URRETAVISCAYA 36', Franco JARA 59', Roberto DE LA ROSA 78', Angelo SAGAL 83'(p))
+
+▪ Final
+Sat Dec 16
+  21:00 UTC+4   Real Madrid CF (ESP)  1-0  Grêmio (BRA)   @ Abu Dhabi
+                  (CRISTIANO RONALDO 52')

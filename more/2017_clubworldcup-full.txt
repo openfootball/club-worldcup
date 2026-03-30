@@ -1,0 +1,143 @@
+= Club World Cup 2017
+
+# Dates    Wed Dec 6 - Sat Dec 16 2017 (10d)
+# Teams    7
+#   Al Jazira (UAE)
+#   Auckland City FC (NZL)
+#   CF Pachuca (MEX)
+#   Wydad AC (MAR)
+#   Urawa Reds (JPN)
+#   Grêmio (BRA)
+#   Real Madrid CF (ESP)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Zayed Sports City Stadium, Abu Dhabi (UAE)
+#   Hazza Bin Zayed Stadium, Al Ain (UAE)
+
+▪ 1st Round
+Wed Dec 6 21:00 UTC+4 @ Hazza Bin Zayed Stadium, Al Ain
+  Al Jazira (UAE) v Auckland City FC (NZL)  1-0
+     (ROMARINHO 37')
+
+Al Jazira: ALI KHASEIF [c] - MOHAMED AYED [Y 38'] (90' SAIF KHALFAN), Fayez MUSALLEM,
+      SALIM RASHID, EISSA MOHAMED [Y 77'] (79' YAQOUB AL HOSANI), MOHAMAD ALATTAS,
+      Fares AL SAADI - Mbark BOUSSOUFA [Y 86'], KHALFAN MUBARAK (57' AHMED RABIA) -
+      ALI MABKHOUT, ROMARINHO [Y 56']
+Auckland City FC: Enaut ZUBIKARAI - Takuya IWATA (83' Micah LEAALAFA), Angel BERLANGA [c],
+      KIM Daewook - Cameron HOWIESON, Albert RIERA [Y 81'], Darren WHITE, Fabrizio TAVANO -
+      Ryan DE VRIES, Emiliano TADE, Callum McCOWATT (59' Daniel MORGAN)
+
+Refs: Malang DIEDHIOU (SEN), Djibril CAMARA (SEN), El Hadji SAMBA (SEN)
+
+
+▪ 2nd Round
+Sat Dec 9 17:00 UTC+4 @ Zayed Sports City Stadium, Abu Dhabi
+  CF Pachuca (MEX) v Wydad AC (MAR)  1-0 a.e.t.
+     (Victor GUZMAN 111')
+
+CF Pachuca: Oscar PEREZ [c] - Emmanuel GARCIA, Joaquin MARTINEZ (105' Raul LOPEZ),
+      Oscar MURILLO, Robert HERRERA - Keisuke HONDA, Victor GUZMAN (117' Omar GONZALEZ),
+      Jonathan URRETAVISCAYA, Erick  AGUIRRE [Y 20'] (78' Erick SANCHEZ [Y 96']),
+      Jorge HERNÁNDEZ - Angelo SAGAL (57' Franco JARA)
+Wydad AC: Zouhair LAAROUBI - Amine ATOUCHI, Cheick Ibrahim COMARA [Y 38'] - Salaheddine Saadi,
+      Brahim NAKACH [c] [Y 45+1'], EL KARTI Walid, Abdeladim KHADROUF (89' Reda HAJHOUJ [Y 107']) -
+      Mohamed AOULAD YOUSSEF (61' EL HADDAD Ismail), BENCHARKI Achraf, Zakaria EL HACHIMI [Y 119'],
+      Abdelatif NOUSSIR [Y 115']
+
+Refs: Ravshan IRMATOV (UZB), Abdukhamidullo RASULOV (UZB), Jakhongir SAIDOV (UZB)
+
+
+Sat Dec 9 20:30 UTC+4 @ Zayed Sports City Stadium, Abu Dhabi
+  Al Jazira (UAE) v Urawa Reds (JPN)  1-0
+     (ALI MABKHOUT 51')
+
+Al Jazira: ALI KHASEIF [c] - MOHAMED AYED (89' SAIF KHALFAN), Fayez MUSALLEM, SALIM RASHID [Y 55'],
+      SALEM ABDULLA, MOHAMAD ALATTAS (88' EISSA MOHAMED), Fares AL SAADI -
+      Mbark BOUSSOUFA, YAQOUB AL HOSANI [Y 63'] (83' AHMED RABIA) - ALI MABKHOUT,
+      ROMARINHO
+Urawa Reds: Shusaku Nishikawa - Tomoaki Makino [Y 41'], Wataru ENDO (71' Ryota MORIWAKI) -
+      Tomoya UGAJIN, Yosuke KASHIWAGI, Takuya Aoki, Yuki ABE [c], Shinya YAJIMA (75' Zlatan LJUBIJANKIC) -
+      RAFAEL SILVA, Yuki Muto [Y 61'] (66' Toshiyuki TAKAGI), Shinzo Koroki
+
+Refs: César Arturo Ramos Palazuelos (MEX), Marvin TORRENTERA (MEX), Miguel Ángel Hernández Paredes (MEX)
+
+
+▪ 5th Place
+Tue Dec 12 18:00 UTC+4 @ Hazza Bin Zayed Stadium, Al Ain
+  Wydad AC (MAR) v Urawa Reds (JPN)  2-3
+     (EL HADDAD Ismail 20', Reda HAJHOUJ 90+3'(p);
+      MAURICIO ANTONIO 17', 59', Yosuke KASHIWAGI 25')
+
+Wydad AC: Badreddine BENACHOUR - Badr GADDARINE, Youssef RABEH [c], Mouhamed OUATTARA,
+      NAHIRI Mohammed [Y 35'] - EL KARTI Walid [Y 79'], Jamel AIT BEN IDDER,
+      Abdeladim KHADROUF (73' Salaheddine Saadi) - Mohamed AOULAD YOUSSEF (74' Amin TIGHAZOUI),
+      EL HADDAD Ismail (86' Guillaume DAHO), Reda HAJHOUJ
+Urawa Reds: Shusaku Nishikawa - MAURICIO ANTONIO, Tomoaki Makino, Ryota MORIWAKI -
+      Yosuke KASHIWAGI, Kazuaki NAGASAWA, Takuya Aoki, Yuki ABE [c] - RAFAEL SILVA (57' Tsukasa UMESAKI (76' Zlatan LJUBIJANKIC [Y 84'])),
+      Yuki Muto, Shinzo Koroki (90+4' Daisuke KIKUCHI)
+
+Refs: Matthew CONGER (NZL), Simon LOUNT (NZL), Tevita MAKASINI (TGA)
+
+
+▪ Semi-Final
+Tue Dec 12 21:00 UTC+4 @ Hazza Bin Zayed Stadium, Al Ain
+  Grêmio (BRA) v CF Pachuca (MEX)  1-0 a.e.t.
+     (EVERTON 94')
+
+Grêmio: MARCELO GROHE - EDILSON (90' LEO MOURA), PEDRO GEROMEL [c], Walter Kannemann [Y 22'],
+      BRUNO CORTEZ - MICHEL (71' EVERTON), RAMIRO [Y 50'], JAILSON - LUAN,
+      Lucas BARRIOS (54' JAEL [Y 112']), FERNANDINHO (116' RAFAEL THYERE)
+CF Pachuca: Oscar PEREZ [c] - Omar GONZALEZ, Emmanuel GARCIA [Y 83'] (100' Angelo SAGAL),
+      Joaquin MARTINEZ, Oscar MURILLO - Keisuke HONDA, Victor GUZMAN [Y 109'],
+      Jonathan URRETAVISCAYA (105' German CANO), Erick  AGUIRRE (66' Erick SANCHEZ),
+      Jorge HERNÁNDEZ [Y 104'] - Franco JARA (90' Robert HERRERA)
+
+Refs: Felix BRYCH (GER), Mark Borsch (GER), Stefan Lupp (GER)
+
+
+Wed Dec 13 21:00 UTC+4 @ Zayed Sports City Stadium, Abu Dhabi
+  Al Jazira (UAE) v Real Madrid CF (ESP)  1-2
+     (ROMARINHO 40';
+      CRISTIANO RONALDO 52', Gareth BALE 80')
+
+Al Jazira: ALI KHASEIF [c] (50' Khalid AL SINANI) - MOHAMED AYED [Y 67'], Fayez MUSALLEM,
+      SALIM RASHID, MOHAMAD ALATTAS, Fares AL SAADI, KHALIFA MUBARAK (59' EISSA MOHAMED) -
+      Mbark BOUSSOUFA, YAQOUB AL HOSANI (71' AHMED RABIA) - ALI MABKHOUT, ROMARINHO
+Real Madrid CF: Keylor NAVAS - Raphael VARANE, NACHO, MARCELO [c], Achraf HAKIMI - Luka MODRIC,
+      CASEMIRO, ISCO (67' Marco ASENSIO), Mateo KOVACIC (67' Lucas VAZQUEZ) -
+      CRISTIANO RONALDO, Karim BENZEMA (80' Gareth BALE)
+
+Refs: Sandro RICCI (BRA), Emerson DE CARVALHO (BRA), Marcelo Carvalho Van Gasse (BRA)
+
+
+▪ 3rd Place
+Sat Dec 16 18:00 UTC+4 @ Zayed Sports City Stadium, Abu Dhabi
+  Al Jazira (UAE) v CF Pachuca (MEX)  1-4
+     (KHALFAN MUBARAK 56';
+      Jonathan URRETAVISCAYA 36', Franco JARA 59', Roberto DE LA ROSA 78', Angelo SAGAL 83'(p))
+
+Al Jazira: Khalid AL SINANI - Fayez MUSALLEM, SAIF KHALFAN, SALIM RASHID, MOHAMAD ALATTAS (45' SALIM ALI),
+      Fares AL SAADI [Y 49'] - Mbark BOUSSOUFA [Y 29'], KHALFAN MUBARAK (77' AHMED RABIA),
+      YAQOUB AL HOSANI (66' ABDALLA RAMADAN [Y 70']) - ALI MABKHOUT [c], ROMARINHO
+CF Pachuca: Alfonso BLANCO [c] - Omar GONZALEZ, Raul LOPEZ, Emmanuel GARCIA, Oscar MURILLO -
+      Jonathan URRETAVISCAYA (85' Tony FIGUEROA), Erick  AGUIRRE, Jorge HERNÁNDEZ (84' Pablo LOPEZ),
+      Erick SANCHEZ - Angelo SAGAL, Franco JARA [Y 49'] (77' Roberto DE LA ROSA)
+
+Refs: Malang DIEDHIOU (SEN), Djibril CAMARA (SEN), El Hadji SAMBA (SEN)
+
+
+▪ Final
+Sat Dec 16 21:00 UTC+4 @ Zayed Sports City Stadium, Abu Dhabi
+  Real Madrid CF (ESP) v Grêmio (BRA)  1-0
+     (CRISTIANO RONALDO 52')
+
+Real Madrid CF: Keylor NAVAS - Dani CARVAJAL, Sergio RAMOS [c], Raphael VARANE, MARCELO -
+      Toni Kroos, Luka MODRIC, CASEMIRO [Y 26'], ISCO (72' Lucas VAZQUEZ) -
+      CRISTIANO RONALDO, Karim BENZEMA (79' Gareth BALE)
+Grêmio: MARCELO GROHE - EDILSON, PEDRO GEROMEL [c], Walter Kannemann, BRUNO CORTEZ -
+      MICHEL (83' MAICON), RAMIRO (70' EVERTON), JAILSON - LUAN, Lucas BARRIOS (62' JAEL),
+      FERNANDINHO
+
+Refs: César Arturo Ramos Palazuelos (MEX), Marvin TORRENTERA (MEX), Miguel Ángel Hernández Paredes (MEX)
+
+

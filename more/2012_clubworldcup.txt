@@ -1,0 +1,55 @@
+= Club World Cup 2012
+
+# Dates    Thu Dec 6 - Sun Dec 16 2012 (10d)
+# Teams    7
+#   Sanfrecce Hiroshima (JPN)
+#   Auckland City FC (NZL)
+#   Ulsan (KOR)
+#   Monterrey (MEX)
+#   Al Ahly FC (EGY)
+#   Corinthians (BRA)
+#   Chelsea (ENG)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Toyota Stadium, Japan (JPN)
+#   International Stadium Yokohama, Yokohama (JPN)
+
+
+▪ Play-off for quarter-final
+Thu Dec 6
+  19:45 UTC+9   Sanfrecce Hiroshima (JPN)  1-0  Auckland City FC (NZL)   @ Yokohama
+                  (Toshihiro Aoyama 65')
+
+▪ Quarter-final
+Sun Dec 9
+  16:00 UTC+9   Ulsan (KOR)  1-3  Monterrey (MEX)   @ Japan
+                  (LEE Keunho 87';
+                   Jesus CORONA 8', Cesar DELGADO 76', 83')
+  19:30 UTC+9   Sanfrecce Hiroshima (JPN)  1-2  Al Ahly FC (EGY)   @ Japan
+                  (Hisato SATO 31';
+                   Sayed Hamdi 14', Mohamed ABOUTRIKA 56')
+
+▪ Match for fifth place
+Wed Dec 12
+  16:30 UTC+9   Ulsan (KOR)  2-3  Sanfrecce Hiroshima (JPN)   @ Japan
+                  (Hiroki MIZUMOTO 16'(og), LEE Yong 90+4';
+                   Satoru YAMAGISHI 34', Hisato SATO 55', 71')
+
+▪ Semi-final
+Wed Dec 12
+  19:30 UTC+9   Al Ahly FC (EGY)  0-1  Corinthians (BRA)   @ Japan
+                  (Paolo GUERRERO 29')
+Thu Dec 13
+  19:30 UTC+9   Monterrey (MEX)  1-3  Chelsea (ENG)   @ Yokohama
+                  (Aldo DE NIGRIS 90+1';
+                   Juan MATA 16', Fernando TORRES 45', Darvin CHAVEZ 47'(og))
+
+▪ Match for third place
+Sun Dec 16
+  16:30 UTC+9   Al Ahly FC (EGY)  0-2  Monterrey (MEX)   @ Yokohama
+                  (Jesus CORONA 2', Cesar DELGADO 65')
+
+▪ Final
+Sun Dec 16
+  19:30 UTC+9   Corinthians (BRA)  1-0  Chelsea (ENG)   @ Yokohama
+                  (Paolo GUERRERO 68')

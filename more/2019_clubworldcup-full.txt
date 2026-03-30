@@ -1,0 +1,132 @@
+= Club World Cup 2019
+
+# Dates    Wed Dec 11 - Sat Dec 21 2019 (10d)
+# Teams    7
+#   Al Sadd (QAT)
+#   Hienghène Sport (NCL)
+#   Al Hilal (KSA)
+#   Espérance Tunis (TUN)
+#   Monterrey (MEX)
+#   Flamengo (BRA)
+#   Liverpool (ENG)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Khalifa International Stadium, Ar-Rayyan (QAT)
+#   Jassim Bin Hamad Stadium, Doha (QAT)
+
+▪ 1st Round
+Wed Dec 11 20:30 UTC+3 @ Jassim Bin Hamad Stadium, Doha, Att: 7047
+  Al Sadd (QAT) v Hienghène Sport (NCL)  0-0
+
+Al Sadd: SAAD ALSHEEB - PEDRO MIGUEL, ABDELKARIM HASSAN, JUNG Wooyoung, BOUALEM KHOUKHI -
+      Abdulaziz Rashid Al Ansari, GABI [c], NAM Taehee, SALEM AL HAJRI, AKRAM AFIF -
+      BOUNEDJAH Baghdad
+Hienghène Sport: Rocky NYIKEINE - Jordan DINET, Roy KAYARA, Joseph ATHALE, Emile BEARUNE -
+      Cedric SANSOT, Geordy GONY, Jefferson DAHITE, Amy ROINE, SOUSA VILELA -
+      Bertrand KAI [c]
+
+Refs: Mustapha Ghorbal (ALG), Mahmoud Ahmed Kamel Abo El Regal (EGY), Mokrane Gourari (ALG)
+
+
+▪ 2nd Round
+Sat Dec 14 17:00 UTC+3 @ Jassim Bin Hamad Stadium, Doha, Att: 7726
+  Al Hilal (KSA) v Espérance Tunis (TUN)  0-0
+
+Al Hilal: ABDULLAH ALMAYOUF - MOHAMMED ALBURAYK, ALI ALBULAYHI, YASSER ALSHAHRANI,
+      JANG Hyunsoo - Carlos Eduardo de Oliveira Alves [c], Gustavo CUELLAR,
+      Andre CARRILLO, MOHAMED KANNO, SALEM ALDAWSARI - Omar KHARBIN
+Espérance Tunis: Moez BEN CHERIFIA [c] - Mohamed Ali YAKOUBI, Sameh DERBALI, CHETI Ilyes,
+      BEDRANE Abdelkader - Kwame Bonsu, Anice BADRI, Hamdou ELHOUNI, Fousseny COULIBALY,
+      Abdelraouf Benguit - Ibrahim OUATTARA
+
+Refs: Roberto Tobar Vargas (CHI), Christian Rodolfo Schiemann Alonso (CHI), Claudio Alejandro Rios Ortiz (CHI)
+
+
+Sat Dec 14 20:30 UTC+3 @ Jassim Bin Hamad Stadium, Doha, Att: 4878
+  Monterrey (MEX) v Al Sadd (QAT)  0-0
+
+Monterrey: Marcelo BAROVERO - Cesar  MONTES, Nicolas SANCHEZ, Leonel VANGIONI, Stefan MEDINA -
+      Dorlan PABON [c], Jesus GALLARDO, Rodolfo PIZARRO, Jonathan Alexander GONZALEZ,
+      Carlos RODRIGUEZ - Rogelio FUNES MORI
+Al Sadd: SAAD ALSHEEB - PEDRO MIGUEL, ABDELKARIM HASSAN, TAREK SALMAN, BOUALEM KHOUKHI -
+      BOUNEDJAH Baghdad, GABI [c], NAM Taehee, SALEM AL HAJRI, AKRAM AFIF -
+      HASSAN ALHAYDOS
+
+Refs: Ovidiu HATEGAN (ROU), Octavian SOVRE (ROU), Sebastian Eugen Gheorghe (ROU)
+
+
+▪ 5th Place
+Tue Dec 17 17:30 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 15037
+  Al Sadd (QAT) v Espérance Tunis (TUN)  2-6
+     (BOUNEDJAH Baghdad 32', HASSAN ALHAYDOS 49';
+      Hamdou ELHOUNI 6', 42', 74', Anice BADRI 13', 25', Sameh DERBALI 87')
+
+Al Sadd: ABDELKARIM HASSAN, JUNG Wooyoung, TAREK SALMAN, ALI ASSADALLA, HASSAN ALHAYDOS,
+      BOUNEDJAH Baghdad, HAMID KHALEEFA, GABI [c], BOUALEM KHOUKHI, MESHAAL BARSHAM,
+      AKRAM AFIF
+Espérance Tunis: Moez BEN CHERIFIA, Kwame Bonsu, Anice BADRI, Ibrahim OUATTARA, Hamdou ELHOUNI,
+      Khalil Chemmam [c], Fousseny COULIBALY, Sameh DERBALI, CHETI Ilyes, BEN ROMDHANE Ali,
+      BEDRANE Abdelkader
+
+Refs: Abdelkader ZITOUNI (TAH), Octavian SOVRE (ROU), Sebastian Eugen Gheorghe (ROU)
+
+
+▪ Semi-Final
+Tue Dec 17 20:30 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 21588
+  Flamengo (BRA) v Al Hilal (KSA)  0-0
+
+Flamengo: DIEGO ALVES - RODRIGO CAIO, Pablo Marí Villar, RAFINHA, FILIPE LUIS -
+      WILLIAN ARAO, GERSON, Giorgian DE ARRASCAETA - EVERTON RIBEIRO [c], GABRIEL BARBOSA,
+      Bruno Henrique Pinto
+Al Hilal: ABDULLAH ALMAYOUF - MOHAMMED ALBURAYK, ALI ALBULAYHI, YASSER ALSHAHRANI,
+      JANG Hyunsoo - Carlos Eduardo de Oliveira Alves [c], Gustavo CUELLAR,
+      Andre CARRILLO, SALEM ALDAWSARI - Sebastian GIOVINCO, Bafetimbi Gomis
+
+Refs: Ismail Elfath (USA), Kyle Atkins (USA), Corey Parker (USA)
+
+
+Wed Dec 18 20:30 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 45416
+  Monterrey (MEX) v Liverpool (ENG)  0-0
+
+Monterrey: Marcelo BAROVERO - Cesar  MONTES, Nicolas SANCHEZ, Leonel VANGIONI -
+      Dorlan PABON [c], Celso ORTIZ, Jesus GALLARDO, Rodolfo PIZARRO, Carlos RODRIGUEZ,
+      Stefan MEDINA - Rogelio FUNES MORI
+Liverpool: ALISSON - James MILNER, Joe Gomez, Jordan HENDERSON [c], Andrew Robertson -
+      Naby KEITA, Alex OXLADE CHAMBERLAIN, Adam LALLANA - MOHAMED SALAH, Xherdan SHAQIRI,
+      Divock ORIGI
+
+Refs: Roberto Tobar Vargas (CHI), Christian Rodolfo Schiemann Alonso (CHI), Claudio Alejandro Rios Ortiz (CHI)
+
+
+▪ 3rd Place
+Sat Dec 21 17:30 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 19318
+  Monterrey (MEX) v Al Hilal (KSA)  2-2 a.e.t., 4-3 pen.
+     (Arturo GONZALEZ 55', Maximiliano MEZA 60', Jonathan Alexander GONZALEZ 90+2', Stefan MEDINA 90+3', Rogelio FUNES MORI 90+5', Luis CARDENAS 90+8';
+      Carlos Eduardo de Oliveira Alves 35', Bafetimbi Gomis 66', 90+1', Sebastian GIOVINCO 90+3', JANG Hyunsoo 90+6')
+
+Penalties: 
+
+Monterrey: Édson Antonio Gutiérrez Moreno, Jonathan URRETAVISCAYA, Angel ZALDIVAR,
+      José BASANTA [c], Miguel LAYUN, Arturo GONZALEZ, Luis CARDENAS, Johan VASQUEZ,
+      Jonathan Alexander GONZALEZ, Maximiliano MEZA, William MEJIA
+Al Hilal: Abdullah Al-Mayouf, MOHAMMED ALBURAYK, Carlos Eduardo de Oliveira Alves [c],
+      ALI ALBULAYHI, Gustavo CUELLAR, ABDULLAH OTAYF, Sebastian GIOVINCO, YASSER ALSHAHRANI,
+      JANG Hyunsoo, SALEM ALDAWSARI, Omar KHARBIN
+
+Refs: Ovidiu HATEGAN (ROU), Octavian SOVRE (ROU), Sebastian Eugen Gheorghe (ROU)
+
+
+▪ Final
+Sat Dec 21 20:30 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 45416
+  Liverpool (ENG) v Flamengo (BRA)  0-0
+
+Liverpool: ALISSON - Virgil VAN DIJK, Joe Gomez, Andrew Robertson, Trent ALEXANDER-ARNOLD -
+      Naby KEITA, Jordan HENDERSON [c], Alex OXLADE CHAMBERLAIN - ROBERTO FIRMINO,
+      Sadio MANE, MOHAMED SALAH
+Flamengo: DIEGO ALVES - RODRIGO CAIO, Pablo Marí Villar, RAFINHA, FILIPE LUIS -
+      WILLIAN ARAO, EVERTON RIBEIRO [c], GERSON, Giorgian DE ARRASCAETA, Bruno Henrique Pinto -
+      GABRIEL BARBOSA
+
+Refs: Abdulrahman AL JASSIM (QAT), Taleb AL MARRI (QAT), Saoud AL MAQALEH (QAT)
+
+

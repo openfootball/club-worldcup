@@ -1,0 +1,57 @@
+= Club World Cup 2018
+
+# Dates    Wed Dec 12 - Sat Dec 22 2018 (10d)
+# Teams    7
+#   Al Ain (UAE)
+#   Team Wellington FC (NZL)
+#   Kashima Antlers (JPN)
+#   Guadalajara (MEX)
+#   ES Tunis (TUN)
+#   River Plate (ARG)
+#   Real Madrid (ESP)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Zayed Sports City Stadium, Abu Dhabi (UAE)
+#   Hazza Bin Zayed Stadium, Al Ain (UAE)
+
+
+▪ 1st Round
+Wed Dec 12
+  19:30 UTC+4   Al Ain (UAE)  3-3 a.e.t., 4-3 pen.  Team Wellington FC (NZL)   @ Al Ain
+                  (Tsukasa SHIOTANI 45', 120+6', Tongo DOUMBIA 49', Marcus BERG 85', Ibrahim DIAKY 120+1', HUSSEIN ELSHAHAT 120+5', CAIO 120+8';
+                   Mario BARCIA 11', Aaron CLAPHAM 15', Mario ILICH 44', 120+5', Ross ALLEN 120+2', Hamish WATSON 120+7')
+
+▪ 2nd Round
+Sat Dec 15
+  17:00 UTC+4   Kashima Antlers (JPN)  3-2  Guadalajara (MEX)   @ Al Ain
+                  (Ryota NAGAKI 49', SERGINHO 69', Hiroki ABE 84', HUGO LEONARDO 90+4';
+                   Angel ZALDIVAR 3')
+  20:30 UTC+4   ES Tunis (TUN)  0-3  Al Ain (UAE)   @ Al Ain
+                  (MOHAMED AHMAD 2', HUSSEIN ELSHAHAT 16', BANDAR ALAHBABI 60')
+
+▪ 5th Place
+Tue Dec 18
+  17:30 UTC+4   ES Tunis (TUN)  1-1 a.e.t., 6-5 pen.  Guadalajara (MEX)   @ Al Ain
+                  (Mohammed BELAILI 38', Ali MECHANI 90+4', Khelil CHAMMAM 90+5', Taha KHENISSI 90+8', Sameh DERBALI 90+10', Fousseny COULIBALY 90+11', Chamseddine DHAOUADI 90+13';
+                   Walter SANDOVAL 5', Angel ZALDIVAR 90+1', Jesus GODINEZ 90+4', Carlos SALCIDO 90+7', Orbelin PINEDA 90+9', Miguel PONCE 90+10')
+
+▪ Semi-Final
+Tue Dec 18
+  20:30 UTC+4   River Plate (ARG)  2-2 a.e.t., 4-5 pen.  Al Ain (UAE)   @ Al Ain
+                  (Santos BORRE 11', 16', 120+7', Ignacio SCOCCO 120+2', Juan QUINTERO 120+4', Lucas PRATTO 120+5';
+                   Marcus BERG 3', CAIO 51', 120+1', Tsukasa SHIOTANI 120+3', BANDAR ALAHBABI 120+4', AMER ABDULRAHMAN 120+6', RAYAN YASLEM 120+7')
+Wed Dec 19
+  20:30 UTC+4   Kashima Antlers (JPN)  1-3  Real Madrid (ESP)   @ Abu Dhabi
+                  (Shoma DOI 78';
+                   Gareth BALE 44', 53', 55')
+
+▪ 3rd Place
+Sat Dec 22
+  17:30 UTC+4   Kashima Antlers (JPN)  0-4  River Plate (ARG)   @ Abu Dhabi
+                  (Bruno ZUCULINI 24', Gonzalo MARTINEZ 73', 90+3', Santos BORRE 89')
+
+▪ Final
+Sat Dec 22
+  20:30 UTC+4   Real Madrid (ESP)  4-1  Al Ain (UAE)   @ Abu Dhabi
+                  (Luka MODRIC 14', Marcos LLORENTE 60', Sergio RAMOS 79';
+                   Tsukasa SHIOTANI 86', YAHIA NADER 90+1')

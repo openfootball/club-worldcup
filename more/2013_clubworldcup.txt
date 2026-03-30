@@ -1,0 +1,58 @@
+= Club World Cup 2013
+
+# Dates    Wed Dec 11 - Sat Dec 21 2013 (10d)
+# Teams    7
+#   Raja Casablanca (MAR)
+#   Auckland City FC (NZL)
+#   Guangzhou FC (CHN)
+#   Al Ahly FC (EGY)
+#   CF Monterrey (MEX)
+#   FC Bayern München (GER)
+#   Atlético Mineiro (BRA)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Agadir Stadium, Agadir (MAR)
+#   Marrakech Stadium, Marrakesh (MAR)
+
+
+▪ Play-off for quarter-final
+Wed Dec 11
+  19:30 UTC+0   Raja Casablanca (MAR)  2-1  Auckland City FC (NZL)   @ Agadir
+                  (Mouhssine IAJOUR 38', HAFIDI Abdelilah 90+1';
+                   Roy Krishna 62')
+
+▪ Quarter-final
+Sat Dec 14
+  16:00 UTC+0   Guangzhou FC (CHN)  2-0  Al Ahly FC (EGY)   @ Agadir
+                  (ELKESON 48', Dario CONCA 66')
+  19:30 UTC+0   Raja Casablanca (MAR)  2-1 a.e.t.  CF Monterrey (MEX)   @ Agadir
+                  (Chemseddine Chitibi 23', Kouko GUEHI 94';
+                   José BASANTA 52')
+
+▪ Semi-final
+Tue Dec 17
+  19:30 UTC+0   Guangzhou FC (CHN)  0-3  FC Bayern München (GER)   @ Agadir
+                  (Franck RIBÉRY 39', Mario MANDZUKIC 43', Mario GOETZE 46')
+
+▪ Match for fifth place
+Wed Dec 18
+  16:30 UTC+0   Al Ahly FC (EGY)  1-5  CF Monterrey (MEX)   @ Marrakesh
+                  (EMAD METEAB 7';
+                   Neri CARDOZO 2', Cesar DELGADO 21', 64', Leobardo López 26', Humberto SUAZO 44'(p))
+
+▪ Semi-final
+Wed Dec 18
+  19:30 UTC+0   Raja Casablanca (MAR)  3-1  Atlético Mineiro (BRA)   @ Marrakesh
+                  (Mouhssine IAJOUR 50', Mohsine MOUTAOUALI 83'(p), Mabide Vivien 90+3';
+                   RONALDINHO 63')
+
+▪ Match for third place
+Sat Dec 21
+  16:30 UTC+0   Guangzhou FC (CHN)  2-3  Atlético Mineiro (BRA)   @ Marrakesh
+                  (MURIQUI 8', Dario CONCA 14'(p);
+                   DIEGO TARDELLI 1', RONALDINHO 45', LUAN 90')
+
+▪ Final
+Sat Dec 21
+  19:30 UTC+0   FC Bayern München (GER)  2-0  Raja Casablanca (MAR)   @ Marrakesh
+                  (DANTE 6', Thiago Alcântara 21')

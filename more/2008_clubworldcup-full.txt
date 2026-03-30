@@ -1,0 +1,144 @@
+= Club World Cup 2008
+
+# Dates    Thu Dec 11 - Sun Dec 21 2008 (10d)
+# Teams    7
+#   Adelaide United (AUS)
+#   Waitakere United (NZL)
+#   Al Ahly FC (EGY)
+#   Pachuca (MEX)
+#   Gamba Osaka (JPN)
+#   LDU Quito (ECU)
+#   Manchester United (ENG)
+# Matches  8
+# Venues   3 (in 3 cities)
+#   Toyota Stadium, Japan (JPN)
+#   Olympic Stadium, Tokyo (JPN)
+#   International Stadium Yokohama, Yokohama (JPN)
+
+▪ Play-off for quarter-final
+Thu Dec 11 19:45 UTC+9 @ Olympic Stadium, Tokyo
+  Adelaide United (AUS) v Waitakere United (NZL)  2-1
+     (Daniel MULLEN 39', Travis DODD 83';
+      Paul SEAMAN 34')
+
+Adelaide United: Eugen GALEKOVIC - Robert CORNTHWAITE, Angelo COSTANZO, Scott JAMIESON,
+      Daniel MULLEN - Kristian SARKIES (70' Robert YOUNIS), Travis DODD [c],
+      Fabian BARBIERO [Y 25'], Jason SPAGNUOLO (57' ALEMAO), Paul REID - CRISTIANO
+Waitakere United: Richard GILLESPIE - Jonathan PERRY, Neil EMBLEN [c], Jason ROWLEY - Paul SEAMAN (85' Benjamin TOTORI),
+      Allan PEARCE (75' PIMENTA), Neil SYKES, Christopher BALE [Y 78'], Jake BUTLER [Y 40'] -
+      Roy Krishna [Y 4'], Daniel KOPRIVCIC (67' Kayne VINCENT)
+
+Refs: Mohamed BENOUZA (ALG), Nasser ABDEL NABI (EGY), Angesom OGBAMARIAM (ERI)
+
+
+▪ Quarter-final
+Sat Dec 13 13:45 UTC+9 @ Olympic Stadium, Tokyo
+  Al Ahly FC (EGY) v Pachuca (MEX)  2-4 a.e.t.
+     (Fausto PINTO 28'(og), FLAVIO 45';
+      Luis MONTES 47', Christian GIMÉNEZ 73', 110', Damian ALVAREZ 98')
+
+Al Ahly FC: Amir ABDELHAMID - Ahmed EL SAYED [Y 47'], Shady MOHAMED [c], WAEL GOMAA [Y 101'] -
+      Mohamed BARAKAT, GILBERTO (97' HUSSEIN YASSER), AHMED HASSAN (77' AHMED SEDIK),
+      AHMED FATHI (90+1' Sayed MOAWAD), Hossam ASHOUR [Y 98'] - Mohamed ABOUTRIKA [Y 82'],
+      FLAVIO
+Pachuca: Miguel CALERO [c] - Leobardo López, Julio MANZUR, Carlos GERARDO RODRÍGUEZ,
+      Fausto PINTO (45+1' Juan Carlos ROJAS), Paul AGUILAR - Jaime CORREA (45+1' Luis MONTES [Y 100']),
+      José TORRES (70' José MARÍA CÁRDENAS) - Damian ALVAREZ, Bruno MARIONI,
+      Christian GIMÉNEZ
+
+Refs: Ravshan IRMATOV (UZB), Abdukhamidullo RASULOV (UZB), Bakhadyr KOCHKAROV (KGZ)
+
+
+Sun Dec 14 19:30 UTC+9 @ Toyota Stadium, Japan
+  Adelaide United (AUS) v Gamba Osaka (JPN)  0-1
+     (Yasuhito ENDO 23')
+
+Adelaide United: Eugen GALEKOVIC - Robert CORNTHWAITE, CASSIO [Y 33'] (71' ALEMAO), Scott JAMIESON,
+      Daniel MULLEN, Sasa OGNENOVSKI [Y 21'] - Travis DODD [c], Fabian BARBIERO,
+      DIEGO (88' Robert YOUNIS), Paul REID [Y 43'] - CRISTIANO (77' Osama MALIK)
+Gamba Osaka: Yosuke FUJIGAYA - Sota NAKAZAWA, Satoshi YAMAGUCHI [c], Akira KAJI [Y 41'] -
+      Yasuhito ENDO, Takahiro FUTAGAWA (84' Takuya TAKEI), Michihiro YASUDA [Y 36'],
+      Hayato SASAKI (20' Ryuji BANDO (81' Masato YAMAZAKI)), Tomokazu MYOJIN,
+      Hideo HASHIMOTO - LUCAS
+
+Refs: Pablo POZO (CHI), Julio DIAZ (CHI), Patricio BASUALTO (CHI)
+
+
+▪ Semi-final
+Wed Dec 17 19:30 UTC+9 @ Olympic Stadium, Tokyo
+  Pachuca (MEX) v LDU Quito (ECU)  0-2
+     (Claudio BIELER 4', Luis Bolaños 26')
+
+Pachuca: Miguel CALERO [c] [Y 45+1'] - Leobardo López, Julio MANZUR [Y 24'], Juan Carlos ROJAS,
+      Fausto PINTO [Y 27'] - Jaime CORREA (45+1' Paul AGUILAR [Y 90+5']), José MARÍA CÁRDENAS (45+1' Luis MONTES),
+      José TORRES (67' Carlos GERARDO RODRÍGUEZ) - Damian ALVAREZ, Bruno MARIONI,
+      Christian GIMÉNEZ [Y 58']
+LDU Quito: Jose CEVALLOS [Y 57'] - Norberto ARAUJO, Renan CALLE, Néicer REASCO (90' Pedro LARREA),
+      Diego CALDERON, Jairo CAMPOS - Luis Bolaños, Patricio URRUTIA [c] [Y 50'],
+      William ARAUJO, Alejandro MANSO [Y 33'] - Claudio BIELER (78' Reinaldo NAVIA)
+
+Refs: Alberto UNDIANO (ESP), Fermin MARTINEZ (ESP), Juan Carlos Yuste Jiménez (ESP)
+
+
+▪ Match for fifth place
+Thu Dec 18 16:30 UTC+9 @ International Stadium Yokohama, Yokohama
+  Al Ahly FC (EGY) v Adelaide United (AUS)  0-1
+     (CRISTIANO 7')
+
+Al Ahly FC: Amir ABDELHAMID - Shady MOHAMED [c], Sayed MOAWAD, Rami ADEL, WAEL GOMAA -
+      Mohamed BARAKAT, AHMED HASSAN (45+1' Osama HOSNY), AHMED FATHI, Hossam ASHOUR -
+      Mohamed ABOUTRIKA (45+1' HUSSEIN YASSER [Y 87']), FLAVIO (67' Hani ELAGIZY)
+Adelaide United: Eugen GALEKOVIC [c] - Robert CORNTHWAITE, ALEMAO, Scott JAMIESON, Daniel MULLEN [Y 51'] (54' Michael MARRONE),
+      Sasa OGNENOVSKI - Kristian SARKIES, DIEGO (24' Gyawe SALLEY [Y 64']),
+      Paul REID - CRISTIANO, Robert YOUNIS (75' Osama MALIK)
+
+Refs: Peter O LEARY (NZL), Brent BEST (NZL), Matthew TARO (SOL)
+
+
+▪ Semi-final
+Thu Dec 18 19:30 UTC+9 @ International Stadium Yokohama, Yokohama
+  Gamba Osaka (JPN) v Manchester United (ENG)  3-5
+     (Masato YAMAZAKI 74', Yasuhito ENDO 85'(p), Hideo HASHIMOTO 90+1';
+      Nemanja VIDIC 28', CRISTIANO RONALDO 45+1', Wayne ROONEY 75', 79', Darren FLETCHER 78')
+
+Gamba Osaka: Yosuke FUJIGAYA - Sota NAKAZAWA, Satoshi YAMAGUCHI [c] [Y 90+3'], Akira KAJI -
+      Yasuhito ENDO, Michihiro YASUDA, Tomokazu MYOJIN, Hideo HASHIMOTO - LUCAS,
+      Ryuji BANDO (85' Shinichi TERADA), Masato YAMAZAKI
+Manchester United: Edwin VAN DER SAR - Gary NEVILLE [c], Patrice EVRA, Rio FERDINAND, Nemanja VIDIC (70' Jonny EVANS) -
+      Paul SCHOLES (68' Darren FLETCHER) - CRISTIANO RONALDO, ANDERSON, Ryan GIGGS,
+      NANI, Carlos TEVEZ (74' Wayne ROONEY [Y 82'])
+
+Refs: Benito ARCHUNDIA (MEX), Hector DELGADILLO (MEX), Marvin TORRENTERA (MEX)
+
+
+▪ Match for third place
+Sun Dec 21 16:30 UTC+9 @ International Stadium Yokohama, Yokohama
+  Pachuca (MEX) v Gamba Osaka (JPN)  0-1
+     (Masato YAMAZAKI 29')
+
+Pachuca: Miguel CALERO [c] [Y 15'] - Leobardo López [Y 79'], Marco PEREZ, Carlos GERARDO RODRÍGUEZ [Y 6'],
+      Paul AGUILAR - Jaime CORREA, Gabriel CABALLERO (74' Victor MANON), José MARÍA CÁRDENAS (45+1' José TORRES) -
+      Damian ALVAREZ (51' Luis MONTES), CHRISTIAN CORREA, Christian GIMÉNEZ
+Gamba Osaka: Yosuke FUJIGAYA [Y 90+2'] - Sota NAKAZAWA, Satoshi YAMAGUCHI [c], Akira KAJI -
+      Yasuhito ENDO, Michihiro YASUDA, Tomokazu MYOJIN, Hideo HASHIMOTO - LUCAS (77' Takuya TAKEI),
+      Ryuji BANDO (64' Takahiro FUTAGAWA [R 90+3']), Masato YAMAZAKI [Y 82']
+
+Refs: Pablo POZO (CHI), Julio DIAZ (CHI), Patricio BASUALTO (CHI)
+
+
+▪ Final
+Sun Dec 21 19:30 UTC+9 @ International Stadium Yokohama, Yokohama
+  LDU Quito (ECU) v Manchester United (ENG)  0-1
+     (Wayne ROONEY 73')
+
+LDU Quito: Jose CEVALLOS [Y 44'] - Norberto ARAUJO, Renan CALLE [Y 66'] (77' Paul AMBROSI),
+      Néicer REASCO (82' Pedro LARREA), Diego CALDERON, Jairo CAMPOS [Y 36'] -
+      Luis Bolaños (87' Reinaldo NAVIA), Patricio URRUTIA [c], William ARAUJO [Y 71'],
+      Alejandro MANSO - Claudio BIELER [Y 2']
+Manchester United: Edwin VAN DER SAR - Patrice EVRA, Rio FERDINAND [c], Nemanja VIDIC [R 49'],
+      RAFAEL (85' Gary NEVILLE) - Michael CARRICK - CRISTIANO RONALDO, ANDERSON [Y 70'] (88' Darren FLETCHER),
+      Wayne ROONEY, PARK Ji Sung, Carlos TEVEZ (51' Jonny EVANS)
+
+Refs: Ravshan IRMATOV (UZB), Abdukhamidullo RASULOV (UZB), Bakhadyr KOCHKAROV (KGZ)
+
+

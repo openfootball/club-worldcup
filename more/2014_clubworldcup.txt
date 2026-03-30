@@ -1,0 +1,55 @@
+= Club World Cup 2014
+
+# Dates    Wed Dec 10 - Sat Dec 20 2014 (10d)
+# Teams    7
+#   Moghreb Tétouan (MAR)
+#   Auckland City FC (NZL)
+#   ES Sétif (ALG)
+#   Cruz Azul (MEX)
+#   Western Sydney Wanderers (AUS)
+#   Real Madrid (ESP)
+#   San Lorenzo (ARG)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Marrakech Stadium, Marrakesh (MAR)
+#   Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)
+
+
+▪ Play-off for quarter-final
+Wed Dec 10
+  19:30 UTC+0   Moghreb Tétouan (MAR)  0-0 a.e.t., 3-4 pen.  Auckland City FC (NZL)   @ Rabat
+
+▪ Quarter-final
+Sat Dec 13
+  16:00 UTC+0   ES Sétif (ALG)  0-1  Auckland City FC (NZL)   @ Rabat
+                  (John IRVING 51')
+  19:30 UTC+0   Cruz Azul (MEX)  3-1 a.e.t.  Western Sydney Wanderers (AUS)   @ Rabat
+                  (Gerardo TORRADO 88'(p), 117'(p), Hugo PAVONE 107';
+                   Iacopo LA ROCCA 64')
+
+▪ Semi-final
+Tue Dec 16
+  19:30 UTC+0   Cruz Azul (MEX)  0-4  Real Madrid (ESP)   @ Marrakesh
+                  (Sergio RAMOS 14', Karim Benzema 35', Gareth BALE 49', ISCO 71')
+
+▪ Match for fifth place
+Wed Dec 17
+  16:30 UTC+0   ES Sétif (ALG)  2-2 a.e.t., 5-4 pen.  Western Sydney Wanderers (AUS)   @ Marrakesh
+                  (Daniel MULLEN 49'(og), Abdelmalik ZIAYA 56';
+                   Romeo CASTELEN 4', Vitor SABA 88')
+
+▪ Semi-final
+Wed Dec 17
+  19:30 UTC+0   San Lorenzo (ARG)  2-1 a.e.t.  Auckland City FC (NZL)   @ Marrakesh
+                  (Pablo BARRIENTOS 45+1', Mauro MATOS 92';
+                   Angel BERLANGA 66')
+
+▪ Match for third place
+Sat Dec 20
+  16:30 UTC+0   Cruz Azul (MEX)  1-1 a.e.t., 2-4 pen.  Auckland City FC (NZL)   @ Marrakesh
+                  (Joao ROJAS 56'; Ryan DE VRIES 45+1')
+
+▪ Final
+Sat Dec 20
+  19:30 UTC+0   Real Madrid (ESP)  2-0  San Lorenzo (ARG)   @ Marrakesh
+                  (Sergio RAMOS 36', Gareth BALE 50')

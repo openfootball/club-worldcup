@@ -1,0 +1,53 @@
+= Club World Cup 2020
+
+# Dates    Mon Feb 1 - Thu Feb 11 2021 (10d)
+# Teams    7
+#   Al Duhail (QAT)
+#   Auckland City FC (NZL)
+#   Tigres UANL (MEX)
+#   Ulsan (KOR)
+#   Al Ahly FC (EGY)
+#   Palmeiras (BRA)
+#   Bayern München (GER)
+# Matches  8
+# Venues   2 (in 2 cities)
+#   Ahmad Bin Ali Stadium, Ar-Rayyan (QAT)
+#   Education City Stadium, Doha (QAT)
+
+
+▪ 1st Round
+Mon Feb 1
+  20:30 UTC+3   Al Duhail (QAT)  3-0  Auckland City FC (NZL)   @ Ar-Rayyan
+
+▪ 2nd Round
+Thu Feb 4
+  17:00 UTC+3   Tigres UANL (MEX)  2-1  Ulsan (KOR)   @ Ar-Rayyan
+                  (GIGNAC Andre Pierre 38', 45+5'(p);
+                   KIM Keehee 24')
+  20:30 UTC+3   Al Duhail (QAT)  0-1  Al Ahly FC (EGY)   @ Doha
+                  (HUSSEIN ELSHAHAT 30')
+
+▪ 5th Place
+Sun Feb 7
+  18:00 UTC+3   Ulsan (KOR)  1-3  Al Duhail (QAT)   @ Ar-Rayyan
+                  (YOON Bitgaram 62';
+                   EDMILSON JUNIOR 21', MOHAMMED MUNTARI 66', ALMOEZ ALI 82')
+
+▪ Semi-Final
+Sun Feb 7
+  21:00 UTC+3   Palmeiras (BRA)  0-1  Tigres UANL (MEX)   @ Doha
+                  (GIGNAC Andre Pierre 54'(p))
+Mon Feb 8
+  21:00 UTC+3   Al Ahly FC (EGY)  0-2  Bayern München (GER)   @ Ar-Rayyan
+                  (Robert LEWANDOWSKI 17', 86')
+
+▪ 3rd Place
+Thu Feb 11
+  18:00 UTC+3   Al Ahly FC (EGY)  0-0 a.e.t., 3-2 pen.  Palmeiras (BRA)   @ Doha
+                  (Badr BENOUN 91'(p), MOHAMED HANY 97'(p), AJAYI Junior 99'(p);
+                   GUSTAVO SCARPA 96'(p), N.N. 98'(p))
+
+▪ Final
+Thu Feb 11
+  21:00 UTC+3   Bayern München (GER)  1-0  Tigres UANL (MEX)   @ Doha
+                  (Benjamin PAVARD 59')
