@@ -4,8 +4,10 @@
 
 A free open public domain football (soccer) database & schema
 for use in any (programming) language
-(e.g. uses plain text fixtures/data sets).
+using datasets in the Football.TXT format.
 More [`football.db` Project Site »](http://openfootball.github.io)
+
+
 
 ## Intro
 
@@ -35,10 +37,10 @@ Sat Dec 21
 ```
 
 
-## Build Your Own `clubworldcup.db` Copy
+## Build Your Own `clubworldcup.db` Database or `clubworldcup.json/.csv` Datasets
 
-Use the `sportdb` command line tool to build your own `clubworldcup.db` copy
-from the plain text fixtures. [More »](https://github.com/openfootball/datafile)
+Yes, you can. See the [football.db/.json/.csv How-Tos »](https://github.com/openfootball/quick-starter)
+
 
 
 
