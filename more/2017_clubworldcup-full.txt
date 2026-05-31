@@ -37,7 +37,7 @@ Sat Dec 9 17:00 UTC+4 @ Zayed Sports City Stadium, Abu Dhabi
 
 CF Pachuca: Oscar PEREZ [c] - Emmanuel GARCIA, Joaquin MARTINEZ (105' Raul LOPEZ),
       Oscar MURILLO, Robert HERRERA - Keisuke HONDA, Victor GUZMAN (117' Omar GONZALEZ),
-      Jonathan URRETAVISCAYA, Erick  AGUIRRE [Y 20'] (78' Erick SANCHEZ [Y 96']),
+      Jonathan URRETAVISCAYA, Erick AGUIRRE [Y 20'] (78' Erick SANCHEZ [Y 96']),
       Jorge HERNÁNDEZ - Angelo SAGAL (57' Franco JARA)
 Wydad AC: Zouhair LAAROUBI - Amine ATOUCHI, Cheick Ibrahim COMARA [Y 38'] - Salaheddine Saadi,
       Brahim NAKACH [c] [Y 45+1'], EL KARTI Walid, Abdeladim KHADROUF (89' Reda HAJHOUJ [Y 107']) -
@@ -89,7 +89,7 @@ Grêmio: MARCELO GROHE - EDILSON (90' LEO MOURA), PEDRO GEROMEL [c], Walter Kann
       Lucas BARRIOS (54' JAEL [Y 112']), FERNANDINHO (116' RAFAEL THYERE)
 CF Pachuca: Oscar PEREZ [c] - Omar GONZALEZ, Emmanuel GARCIA [Y 83'] (100' Angelo SAGAL),
       Joaquin MARTINEZ, Oscar MURILLO - Keisuke HONDA, Victor GUZMAN [Y 109'],
-      Jonathan URRETAVISCAYA (105' German CANO), Erick  AGUIRRE (66' Erick SANCHEZ),
+      Jonathan URRETAVISCAYA (105' German CANO), Erick AGUIRRE (66' Erick SANCHEZ),
       Jorge HERNÁNDEZ [Y 104'] - Franco JARA (90' Robert HERRERA)
 
 Refs: Felix BRYCH (GER), Mark Borsch (GER), Stefan Lupp (GER)
@@ -120,7 +120,7 @@ Al Jazira: Khalid AL SINANI - Fayez MUSALLEM, SAIF KHALFAN, SALIM RASHID, MOHAMA
       Fares AL SAADI [Y 49'] - Mbark BOUSSOUFA [Y 29'], KHALFAN MUBARAK (77' AHMED RABIA),
       YAQOUB AL HOSANI (66' ABDALLA RAMADAN [Y 70']) - ALI MABKHOUT [c], ROMARINHO
 CF Pachuca: Alfonso BLANCO [c] - Omar GONZALEZ, Raul LOPEZ, Emmanuel GARCIA, Oscar MURILLO -
-      Jonathan URRETAVISCAYA (85' Tony FIGUEROA), Erick  AGUIRRE, Jorge HERNÁNDEZ (84' Pablo LOPEZ),
+      Jonathan URRETAVISCAYA (85' Tony FIGUEROA), Erick AGUIRRE, Jorge HERNÁNDEZ (84' Pablo LOPEZ),
       Erick SANCHEZ - Angelo SAGAL, Franco JARA [Y 49'] (77' Roberto DE LA ROSA)
 
 Refs: Malang DIEDHIOU (SEN), Djibril CAMARA (SEN), El Hadji SAMBA (SEN)
@@ -139,5 +139,3 @@ Grêmio: MARCELO GROHE - EDILSON, PEDRO GEROMEL [c], Walter Kannemann, BRUNO COR
       FERNANDINHO
 
 Refs: César Arturo Ramos Palazuelos (MEX), Marvin TORRENTERA (MEX), Miguel Ángel Hernández Paredes (MEX)
-
-

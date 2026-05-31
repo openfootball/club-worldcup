@@ -66,11 +66,13 @@ Refs: Jair MARRUFO (USA), Frank Anderson (USA), Corey Rockwell (USA)
 
 ▪ 5th Place
 Tue Dec 18 17:30 UTC+4 @ Hazza Bin Zayed Stadium, Al Ain, Att: 5883
-  ES Tunis (TUN) v Guadalajara (MEX)  1-1 a.e.t., 6-5 pen.
-     (Mohammed BELAILI 38', Ali MECHANI 90+4', Khelil CHAMMAM 90+5', Taha KHENISSI 90+8', Sameh DERBALI 90+10', Fousseny COULIBALY 90+11', Chamseddine DHAOUADI 90+13';
-      Walter SANDOVAL 5', Angel ZALDIVAR 90+1', Jesus GODINEZ 90+4', Carlos SALCIDO 90+7', Orbelin PINEDA 90+9', Miguel PONCE 90+10')
+  ES Tunis (TUN)  1-1  Guadalajara (MEX)  (6-5 pen)
+     (Mohammed BELAILI 38'; Walter SANDOVAL 5')
 
-Penalties: 
+Penalties: Ali MECHANI, Khelil CHAMMAM,
+           Taha KHENISSI, Sameh DERBALI, Fousseny COULIBALY, Chamseddine DHAOUADI;
+           Angel ZALDIVAR, Jesus GODINEZ, Carlos SALCIDO, Orbelin PINEDA, Miguel PONCE
+
 
 ES Tunis: Chamseddine DHAOUADI, Anice BADRI, Bilel MEJRI, Mohammed BELAILI, Khelil CHAMMAM [c],
       Fousseny COULIBALY, Rami JERIDI, Ayman BEN MOHAMED, Sameh DERBALI, Houcine REBAI,
@@ -142,5 +144,3 @@ Al Ain: Tongo DOUMBIA, ISMAIL AHMED [c], CAIO, Marcus BERG, MOHAMMED FAYEZ, MOHA
       KHALID EISA, MOHAMED AHMAD, Tsukasa SHIOTANI, RAYAN YASLEM, HUSSEIN ELSHAHAT
 
 Refs: Jair MARRUFO (USA), Frank Anderson (USA), Corey Rockwell (USA)
-
-

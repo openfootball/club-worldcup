@@ -40,7 +40,7 @@ Sat Feb 5 19:30 UTC+3 @ Al Nahyan Stadium, Abu Dhabi, Att: 9396
 Al Ahly FC: ALY LOTFY [Y 77'] - Rami RABIA [c], YASSER IBRAHIM, MOHAMED ELMAGHRABI [Y 31'] (64' KARIM FOUAD) -
       DIENG Aliou [Y 90+2'], MOHAMED AFSHA [Y 66'], Ali MAALOUL, MOHAMED HANY -
       HUSSEIN ELSHAHAT (79' Walid Soliman), TAHER MOHAMED, AHMED ABDELKADER (74' LUIS MIQUISSONE)
-Monterrey: Esteban ANDRADA - Matias KRANEVITTER, Erick  AGUIRRE, Hector MORENO,
+Monterrey: Esteban ANDRADA - Matias KRANEVITTER, Erick AGUIRRE, Hector MORENO,
       Sebastian VEGAS (57' Jesus GALLARDO) - Luis ROMO, Celso ORTIZ, Arturo GONZALEZ [c] (57' Vincent JANSSEN) -
       Rogelio FUNES MORI, Maximiliano MEZA, Rodolfo PIZARRO (68' Joel CAMPBELL)
 
@@ -81,10 +81,10 @@ Refs: Clément Turpin (FRA), Nicolas Danos (FRA), Cyril Gringore (FRA)
 ▪ 5th Place
 Wed Feb 9 16:30 UTC+3 @ Al Nahyan Stadium, Abu Dhabi, Att: 892
   Monterrey (MEX) v Al Jazira (UAE)  3-1
-     (ZAYED SULTAN 4'(og), Rogelio FUNES MORI 11', Cesar  MONTES 25';
+     (ZAYED SULTAN 4'(og), Rogelio FUNES MORI 11', Cesar MONTES 25';
       BRUNO 90+1')
 
-Monterrey: Esteban ANDRADA - Cesar  MONTES [c], Erick  AGUIRRE, Hector MORENO (46' Sebastian VEGAS [Y 81']),
+Monterrey: Esteban ANDRADA - Cesar MONTES [c], Erick AGUIRRE, Hector MORENO (46' Sebastian VEGAS [Y 81']),
       Stefan MEDINA - Luis ROMO, Matias KRANEVITTER, Arturo GONZALEZ (46' Rodolfo PIZARRO [Y 56']) -
       Rogelio FUNES MORI (58' Vincent JANSSEN), Maximiliano MEZA [Y 73'] (75' Alfonso ALVARADO),
       Jesus GALLARDO [Y 41'] (46' Joel CAMPBELL [Y 54'])
@@ -137,7 +137,7 @@ Sat Feb 12 19:30 UTC+3 @ Mohammed Bin Zayed Stadium, Abu Dhabi, Att: 32871
 
 Chelsea: Edouard MENDY - Antonio RUEDIGER, Andreas CHRISTENSEN (91' Malang Sarr),
       THIAGO SILVA - Ngolo KANTE, Mateo KOVACIC (91' Hakim ZIYECH), Callum HUDSON - ODOI (76' SAUL),
-      Cesar AZPILICUETA [c] - Romelu LUKAKU (76' Timo Werner), Mason MOUNT (32' Christian  PULISIC),
+      Cesar AZPILICUETA [c] - Romelu LUKAKU (76' Timo Werner), Mason MOUNT (32' Christian PULISIC),
       Kai HAVERTZ [Y 118']
 Palmeiras: WEVERTON - MARCOS ROCHA (118' DEYVERSON), LUAN GARCIA [Y 115'] [R 120+6'],
       Gustavo GOMEZ [c], Joaquin PIQUEREZ - DUDU (103' RAFAEL NAVARRO), ZE RAFAEL (60' JAILSON),
@@ -145,5 +145,3 @@ Palmeiras: WEVERTON - MARCOS ROCHA (118' DEYVERSON), LUAN GARCIA [Y 115'] [R 120
       RONY (76' WESLEY [Y 105'])
 
 Refs: Chris Beath (AUS), Anton Schetinin (AUS), Ashley Beecham (AUS)
-
-

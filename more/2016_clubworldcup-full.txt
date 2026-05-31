@@ -38,7 +38,7 @@ Sun Dec 11 16:00 UTC+9 @ Suita City Football Stadium, Osaka
 Jeonbuk Motors: HONG Jungnam - LIM Jongeun, PARK Wonjae, CHOI Chulsoon [Y 61'], KIM Changsoo (76' Ko MU-YEOL) -
       SHIN Hyungmin [c] [Y 90+2'], JUNG Hyuk [Y 47'] (65' LEONARDO), KIM Bokyung,
       LEE Jaesung - EDU (75' LEE Donggook), KIM Shinwook
-América: Moises MUNOZ - Paolo GOLTZ [Y 14'], Miguel SAMUDIO, Pablo AGUILAR, Bruno  VALDEZ [Y 70'],
+América: Moises MUNOZ - Paolo GOLTZ [Y 14'], Miguel SAMUDIO, Pablo AGUILAR, Bruno VALDEZ [Y 70'],
       Edson ALVAREZ (45' Michael ARROYO) - WILLIAM DA SILVA, Osvaldo MARTINEZ (45' Jose GUERRERO) -
       Silvio ROMERO, Oribe PERALTA [c], Carlos Quintero (69' Ventura ALVARADO)
 
@@ -93,7 +93,7 @@ Thu Dec 15 19:30 UTC+9 @ International Stadium Yokohama, Yokohama
      (Karim Benzema 45+1', CRISTIANO RONALDO 90+2')
 
 América: Moises MUNOZ - Paolo GOLTZ, Miguel SAMUDIO, Pablo AGUILAR, Ventura ALVARADO (53' Jose GUERRERO),
-      Bruno  VALDEZ - WILLIAM DA SILVA, Rubens SAMBUEZA [c] [Y 21'], Alex IBARRA (61' Carlos Quintero) -
+      Bruno VALDEZ - WILLIAM DA SILVA, Rubens SAMBUEZA [c] [Y 21'], Alex IBARRA (61' Carlos Quintero) -
       Silvio ROMERO (69' Michael ARROYO), Oribe PERALTA
 Real Madrid: Keylor NAVAS - Dani CARVAJAL, Raphael VARANE, NACHO [Y 90'], MARCELO [c] -
       Toni Kroos (71' James RODRIGUEZ), CASEMIRO, Lucas VAZQUEZ, Luka MODRIC -
@@ -114,7 +114,7 @@ Penalties:     Osvaldo MARTINEZ (missed), 0-1 Jhon MOSQUERA,
            3-3 Michael ARROYO, 3-4 Miguel BORJA
 
 América: Moises MUNOZ - Erik PIMENTEL [Y 66'], Miguel SAMUDIO, Pablo AGUILAR [Y 56'],
-      Ventura ALVARADO (45' Carlos Quintero), Bruno  VALDEZ - WILLIAM DA SILVA,
+      Ventura ALVARADO (45' Carlos Quintero), Bruno VALDEZ - WILLIAM DA SILVA,
       Rubens SAMBUEZA [c] (69' Osvaldo MARTINEZ), Jose GUERRERO - Silvio ROMERO (58' Oribe PERALTA),
       Michael ARROYO
 Atlético Nacional: Franco ARMANI - Daniel BOCANEGRA, Felipe AGUILAR, Alexis CHARALES [c] [Y 77'],
@@ -138,6 +138,3 @@ Kashima Antlers: Hitoshi SOGAHATA - Gen SHOJI, Shuto Yamamoto [Y 58'], Daigo Nis
       Ryota Nagaki (113' Shuhei AKASAKI), Gaku Shibasaki, Yasushi ENDO (102' Yukitoshi ITO),
       Mitsuo OGASAWARA [c] (66' FABRICIO [Y 92']) - Shoma Doi (87' Yuma Suzuki),
       Mu Kanazaki
-
-
-

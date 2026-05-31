@@ -45,7 +45,7 @@ Refs: Roberto Tobar Vargas (CHI), Christian Rodolfo Schiemann Alonso (CHI), Clau
 Sat Dec 14 20:30 UTC+3 @ Jassim Bin Hamad Stadium, Doha, Att: 4878
   Monterrey (MEX) v Al Sadd (QAT)  0-0
 
-Monterrey: Marcelo BAROVERO - Cesar  MONTES, Nicolas SANCHEZ, Leonel VANGIONI, Stefan MEDINA -
+Monterrey: Marcelo BAROVERO - Cesar MONTES, Nicolas SANCHEZ, Leonel VANGIONI, Stefan MEDINA -
       Dorlan PABON [c], Jesus GALLARDO, Rodolfo PIZARRO, Jonathan Alexander GONZALEZ,
       Carlos RODRIGUEZ - Rogelio FUNES MORI
 Al Sadd: SAAD ALSHEEB - PEDRO MIGUEL, ABDELKARIM HASSAN, TAREK SALMAN, BOUALEM KHOUKHI -
@@ -88,7 +88,7 @@ Refs: Ismail Elfath (USA), Kyle Atkins (USA), Corey Parker (USA)
 Wed Dec 18 20:30 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 45416
   Monterrey (MEX) v Liverpool (ENG)  0-0
 
-Monterrey: Marcelo BAROVERO - Cesar  MONTES, Nicolas SANCHEZ, Leonel VANGIONI -
+Monterrey: Marcelo BAROVERO - Cesar MONTES, Nicolas SANCHEZ, Leonel VANGIONI -
       Dorlan PABON [c], Celso ORTIZ, Jesus GALLARDO, Rodolfo PIZARRO, Carlos RODRIGUEZ,
       Stefan MEDINA - Rogelio FUNES MORI
 Liverpool: ALISSON - James MILNER, Joe Gomez, Jordan HENDERSON [c], Andrew Robertson -
@@ -100,11 +100,17 @@ Refs: Roberto Tobar Vargas (CHI), Christian Rodolfo Schiemann Alonso (CHI), Clau
 
 ▪ 3rd Place
 Sat Dec 21 17:30 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 19318
-  Monterrey (MEX) v Al Hilal (KSA)  2-2 a.e.t., 4-3 pen.
-     (Arturo GONZALEZ 55', Maximiliano MEZA 60', Jonathan Alexander GONZALEZ 90+2', Stefan MEDINA 90+3', Rogelio FUNES MORI 90+5', Luis CARDENAS 90+8';
-      Carlos Eduardo de Oliveira Alves 35', Bafetimbi Gomis 66', 90+1', Sebastian GIOVINCO 90+3', JANG Hyunsoo 90+6')
+  Monterrey (MEX)  2-2  Al Hilal (KSA)   (4-3 pen)
+     (Arturo GONZALEZ 55', Maximiliano MEZA 60';
+      Carlos Eduardo de Oliveira Alves 35', Bafetimbi Gomis 66')
 
-Penalties: 
+Penalties:  Jonathan Alexander GONZALEZ,
+            Stefan MEDINA, Rogelio FUNES MORI,
+            Luis CARDENAS;
+            Bafetimbi Gomis,
+            Sebastian GIOVINCO,
+            JANG Hyunsoo
+
 
 Monterrey: Édson Antonio Gutiérrez Moreno, Jonathan URRETAVISCAYA, Angel ZALDIVAR,
       José BASANTA [c], Miguel LAYUN, Arturo GONZALEZ, Luis CARDENAS, Johan VASQUEZ,
@@ -128,5 +134,3 @@ Flamengo: DIEGO ALVES - RODRIGO CAIO, Pablo Marí Villar, RAFINHA, FILIPE LUIS -
       GABRIEL BARBOSA
 
 Refs: Abdulrahman AL JASSIM (QAT), Taleb AL MARRI (QAT), Saoud AL MAQALEH (QAT)
-
-
