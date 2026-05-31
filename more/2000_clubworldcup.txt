@@ -13,7 +13,7 @@
 # Matches  14
 # Venues   2 (in 2 cities)
 #   Maracanã, Rio de Janeiro (BRA)
-#   Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo (BRA)
+#   Morumbi-Estádio Cícero Pompeu de Toledo, São Paulo (BRA)
 
 
 ▪ First Stage

@@ -13,11 +13,11 @@
 # Matches  14
 # Venues   2 (in 2 cities)
 #   Maracanã, Rio de Janeiro (BRA)
-#   Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo (BRA)
+#   Morumbi-Estádio Cícero Pompeu de Toledo, São Paulo (BRA)
 
 ▪ First Stage
 ▪▪ Group A
-Wed Jan 5 18:45 UTC-2 @ Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo
+Wed Jan 5 18:45 UTC-2 @ Morumbi-Estádio Cícero Pompeu de Toledo, São Paulo
   Real Madrid CF (ESP) v Al Nassr FC (KSA)  3-1
      (Nicolas ANELKA 21', RAUL 61', SAVIO 69'(p);
       Fahad AL HUSSEINI 45+1'(p))
@@ -32,7 +32,7 @@ Al Nassr FC: Mohammed BABKR - Mohsin HARTHI, Hadi SHARIFY, Ibrahim AL SHOKIA - F
 Refs: Oscar RUIZ (COL), Fernando CRESCI (URU), Miguel GIACOMUZZI (PAR)
 
 
-Wed Jan 5 21:15 UTC-2 @ Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo
+Wed Jan 5 21:15 UTC-2 @ Morumbi-Estádio Cícero Pompeu de Toledo, São Paulo
   Corinthians (BRA) v Raja Casablanca (MAR)  2-0
      (LUIZAO 50', FABIO LUCIANO 64')
 
@@ -46,7 +46,7 @@ Raja Casablanca: Mustapha EL CHADILI [Y 65'] - Redouane EL HAIMEUR, Talal EL KAR
 Refs: Stefano BRASCHI (ITA), Jens LARSEN (DEN), Jacek POCIEGIEL (POL)
 
 
-Fri Jan 7 18:45 UTC-2 @ Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo
+Fri Jan 7 18:45 UTC-2 @ Morumbi-Estádio Cícero Pompeu de Toledo, São Paulo
   Real Madrid CF (ESP) v Corinthians (BRA)  2-2
      (Nicolas ANELKA 19', 71';
       EDILSON 28', 64')
@@ -61,7 +61,7 @@ Corinthians: DIDA - INDIO, JOAO CARLOS, KLEBER [Y 89'] - VAMPETA (74' EDU), MARC
 Refs: William MATTUS (CRC), Jacek POCIEGIEL (POL), Fernando CRESCI (URU)
 
 
-Fri Jan 7 21:15 UTC-2 @ Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo
+Fri Jan 7 21:15 UTC-2 @ Morumbi-Estádio Cícero Pompeu de Toledo, São Paulo
   Raja Casablanca (MAR) v Al Nassr FC (KSA)  3-4
      (Madhi AL DOSARI 24'(og), Bouchaib EL MOUBARKI 66', Talal EL KARKOURI 73';
       Fuad AL AMIN 4', Ahmed BAHJA 63', Fahad AL HUSSEINI 64', Moussa SAIB 85')
@@ -78,7 +78,7 @@ Al Nassr FC: Mohammed BABKR (29' Madhi AL DOSARI) - Mohsin HARTHI, Hadi SHARIFY,
 Refs: Derek RUGG (NZL), Miguel GIACOMUZZI (PAR), Jens LARSEN (DEN)
 
 
-Mon Jan 10 18:45 UTC-2 @ Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo
+Mon Jan 10 18:45 UTC-2 @ Morumbi-Estádio Cícero Pompeu de Toledo, São Paulo
   Real Madrid CF (ESP) v Raja Casablanca (MAR)  3-2
      (Fernando HIERRO 49', Fernando MORIENTES 53', GEREMI 88';
       Youssef ACHAMI 28', Mustapha MOUSTAOUDIA 59')
@@ -94,7 +94,7 @@ Raja Casablanca: Mustapha EL CHADILI - Redouane EL HAIMEUR, Talal EL KARKOURI [Y
 Refs: Horacio ELIZONDO (ARG), Miguel GIACOMUZZI (PAR), Ali TOMUSANGE (UGA)
 
 
-Mon Jan 10 21:15 UTC-2 @ Morumbi - Estádio Cícero Pompeu de Toledo, São Paulo
+Mon Jan 10 21:15 UTC-2 @ Morumbi-Estádio Cícero Pompeu de Toledo, São Paulo
   Al Nassr FC (KSA) v Corinthians (BRA)  0-2
      (RICARDINHO 24', Freddy RINCON 81')
 
@@ -237,5 +237,3 @@ Vasco da Gama: HELTON - ODVAN, MAURO GALVAO, FELIPE [Y 16'] (90+12' ALEX OLIVEIR
       EDMUNDO [c] [Y 90+8'], ROMÁRIO, PAULO MIRANDA [Y 54']
 
 Refs: Dick JOL (NED), Jens LARSEN (DEN), Fernando CRESCI (URU)
-
-
