@@ -16,7 +16,9 @@
 
 ▪ 1st Round
 Wed Dec 11 20:30 UTC+3 @ Jassim Bin Hamad Stadium, Doha, Att: 7047
-  Al Sadd (QAT) v Hienghène Sport (NCL)  0-0
+  Al Sadd (QAT) v Hienghène Sport (NCL)  3-1 a.e.t.
+     (BOUNEDJAH Baghdad 26', ABDELKARIM HASSAN 100', PEDRO MIGUEL 114';
+      Amy ROINE 46')
 
 Al Sadd: SAAD ALSHEEB - PEDRO MIGUEL, ABDELKARIM HASSAN, JUNG Wooyoung, BOUALEM KHOUKHI -
       Abdulaziz Rashid Al Ansari, GABI [c], NAM Taehee, SALEM AL HAJRI, AKRAM AFIF -
@@ -30,7 +32,8 @@ Refs: Mustapha Ghorbal (ALG), Mahmoud Ahmed Kamel Abo El Regal (EGY), Mokrane Go
 
 ▪ 2nd Round
 Sat Dec 14 17:00 UTC+3 @ Jassim Bin Hamad Stadium, Doha, Att: 7726
-  Al Hilal (KSA) v Espérance Tunis (TUN)  0-0
+  Al Hilal (KSA) v Espérance Tunis (TUN)  1-0
+     (Bafetimbi Gomis 73')
 
 Al Hilal: ABDULLAH ALMAYOUF - MOHAMMED ALBURAYK, ALI ALBULAYHI, YASSER ALSHAHRANI,
       JANG Hyunsoo - Carlos Eduardo de Oliveira Alves [c], Gustavo CUELLAR,
@@ -43,7 +46,9 @@ Refs: Roberto Tobar Vargas (CHI), Christian Rodolfo Schiemann Alonso (CHI), Clau
 
 
 Sat Dec 14 20:30 UTC+3 @ Jassim Bin Hamad Stadium, Doha, Att: 4878
-  Monterrey (MEX) v Al Sadd (QAT)  0-0
+  Monterrey (MEX) v Al Sadd (QAT)  3-2
+     (Leonel VANGIONI 23', Rogelio FUNES MORI 45+1', Carlos RODRIGUEZ 77';
+      BOUNEDJAH Baghdad 66', ABDELKARIM HASSAN 89')
 
 Monterrey: Marcelo BAROVERO - Cesar MONTES, Nicolas SANCHEZ, Leonel VANGIONI, Stefan MEDINA -
       Dorlan PABON [c], Jesus GALLARDO, Rodolfo PIZARRO, Jonathan Alexander GONZALEZ,
@@ -73,7 +78,9 @@ Refs: Abdelkader ZITOUNI (TAH), Octavian SOVRE (ROU), Sebastian Eugen Gheorghe (
 
 ▪ Semi-Final
 Tue Dec 17 20:30 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 21588
-  Flamengo (BRA) v Al Hilal (KSA)  0-0
+  Flamengo (BRA) v Al Hilal (KSA)  3-1
+     (Giorgian DE ARRASCAETA 49', Bruno Henrique Pinto 78', ALI ALBULAYHI 82'(og);
+      SALEM ALDAWSARI 18')
 
 Flamengo: DIEGO ALVES - RODRIGO CAIO, Pablo Marí Villar, RAFINHA, FILIPE LUIS -
       WILLIAN ARAO, GERSON, Giorgian DE ARRASCAETA - EVERTON RIBEIRO [c], GABRIEL BARBOSA,
@@ -86,7 +93,9 @@ Refs: Ismail Elfath (USA), Kyle Atkins (USA), Corey Parker (USA)
 
 
 Wed Dec 18 20:30 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 45416
-  Monterrey (MEX) v Liverpool (ENG)  0-0
+  Monterrey (MEX) v Liverpool (ENG)  1-2
+     (Rogelio FUNES MORI 14';
+      Naby KEITA 12', ROBERTO FIRMINO 90+1')
 
 Monterrey: Marcelo BAROVERO - Cesar MONTES, Nicolas SANCHEZ, Leonel VANGIONI -
       Dorlan PABON [c], Celso ORTIZ, Jesus GALLARDO, Rodolfo PIZARRO, Carlos RODRIGUEZ,
@@ -124,7 +133,8 @@ Refs: Ovidiu HATEGAN (ROU), Octavian SOVRE (ROU), Sebastian Eugen Gheorghe (ROU)
 
 ▪ Final
 Sat Dec 21 20:30 UTC+3 @ Khalifa International Stadium, Ar-Rayyan, Att: 45416
-  Liverpool (ENG) v Flamengo (BRA)  0-0
+  Liverpool (ENG) v Flamengo (BRA)  1-0 a.e.t.
+     (ROBERTO FIRMINO 99')
 
 Liverpool: ALISSON - Virgil VAN DIJK, Joe Gomez, Andrew Robertson, Trent ALEXANDER-ARNOLD -
       Naby KEITA, Jordan HENDERSON [c], Alex OXLADE CHAMBERLAIN - ROBERTO FIRMINO,
