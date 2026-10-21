@@ -40,7 +40,7 @@ CF Pachuca: Oscar PEREZ [c] - Emmanuel GARCIA, Joaquin MARTINEZ (105' Raul LOPEZ
       Jonathan URRETAVISCAYA, Erick AGUIRRE [Y 20'] (78' Erick SANCHEZ [Y 96']),
       Jorge HERNÁNDEZ - Angelo SAGAL (57' Franco JARA)
 Wydad AC: Zouhair LAAROUBI - Amine ATOUCHI, Cheick Ibrahim COMARA [Y 38'] - Salaheddine Saadi,
-      Brahim NAKACH [c] [Y 45+1'], EL KARTI Walid, Abdeladim KHADROUF (89' Reda HAJHOUJ [Y 107']) -
+      Brahim NAKACH [c] [Y 45+1'] [Y/R 68'], EL KARTI Walid, Abdeladim KHADROUF (89' Reda HAJHOUJ [Y 107']) -
       Mohamed AOULAD YOUSSEF (61' EL HADDAD Ismail), BENCHARKI Achraf, Zakaria EL HACHIMI [Y 119'],
       Abdelatif NOUSSIR [Y 115']
 
@@ -88,7 +88,7 @@ Grêmio: MARCELO GROHE - EDILSON (90' LEO MOURA), PEDRO GEROMEL [c], Walter Kann
       BRUNO CORTEZ - MICHEL (71' EVERTON), RAMIRO [Y 50'], JAILSON - LUAN,
       Lucas BARRIOS (54' JAEL [Y 112']), FERNANDINHO (116' RAFAEL THYERE)
 CF Pachuca: Oscar PEREZ [c] - Omar GONZALEZ, Emmanuel GARCIA [Y 83'] (100' Angelo SAGAL),
-      Joaquin MARTINEZ, Oscar MURILLO - Keisuke HONDA, Victor GUZMAN [Y 109'],
+      Joaquin MARTINEZ, Oscar MURILLO - Keisuke HONDA, Victor GUZMAN [Y 33'] [Y/R 109'],
       Jonathan URRETAVISCAYA (105' German CANO), Erick AGUIRRE (66' Erick SANCHEZ),
       Jorge HERNÁNDEZ [Y 104'] - Franco JARA (90' Robert HERRERA)
 

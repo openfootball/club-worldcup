@@ -84,7 +84,7 @@ Mon Jan 10 18:45 UTC-2 @ Morumbi-Estádio Cícero Pompeu de Toledo, São Paulo
       Youssef ACHAMI 28', Mustapha MOUSTAOUDIA 59')
 
 Real Madrid CF: Iker CASILLAS - Michel SALGADO (80' Aitor KARANKA), ROBERTO CARLOS, Fernando HIERRO [Y 38'] -
-      Fernando REDONDO, Steve McMANAMAN (45' GEREMI), GUTI [R 62'], Christian KAREMBEU [Y 87'] -
+      Fernando REDONDO, Steve McMANAMAN (45' GEREMI), GUTI [R 62'], Christian KAREMBEU [Y 45'] [Y/R 87'] -
       RAUL, SAVIO [Y 61'], Nicolas ANELKA (37' Fernando MORIENTES)
 Raja Casablanca: Mustapha EL CHADILI - Redouane EL HAIMEUR, Talal EL KARKOURI [Y 14'],
       Mohamed KHARBOUCH - Zakaria ABOUB, Reda EREYAHI, Hamid NATER (90+3' Said KHARAZI) -
@@ -102,7 +102,7 @@ Al Nassr FC: Mohammed BABKR - Mohsin HARTHI [Y 1'], Hadi SHARIFY, Ibrahim AL SHO
       Fahad AL HUSSEINI (41' Abdulaziz AL JANOUBI), Fuad AL AMIN, Mansour AL MOUSA,
       Abdullah AL KARNI - Mehaisen AL DOSARI (88' Smahi TRIKI), Ahmed BAHJA,
       Moussa SAIB (73' Fahad AL MEHALEL)
-Corinthians: DIDA - JOAO CARLOS (10' ADILSON), KLEBER, DANIEL [Y 67'], FABIO LUCIANO -
+Corinthians: DIDA - JOAO CARLOS (10' ADILSON), KLEBER, DANIEL [Y 20'] [Y/R 67'], FABIO LUCIANO -
       VAMPETA (72' DINEI), MARCELINHO CARIOCA [Y 30'], Freddy RINCON [c], RICARDINHO (27' EDU) -
       LUIZAO [Y 59'], EDILSON
 
