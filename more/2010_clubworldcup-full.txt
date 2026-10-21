@@ -35,7 +35,7 @@ Fri Dec 10 20:00 UTC+4 @ Mohammed Bin Zayed Stadium, Abu Dhabi
      (Mbenza BEDI 20')
 
 TP Mazembe: Robert KIDIABA - Joel KIMWAKI, Kilitcho KASUSULA, Miala NKULUKUTA - Mbenza BEDI [Y 67'],
-      Stoppila SUNZU [Y 80'], Pamphile MIHAYO [c] [Y 82'], Narcisse EKANGA (45' Ngandu KASONGO [Y 58']) -
+      Stoppila SUNZU [Y 60'] [Y/R 80'], Pamphile MIHAYO [c] [Y 82'], Narcisse EKANGA (45' Ngandu KASONGO [Y 58']) -
       Given SINGULUMA, Mulota KABANGU (84' Mukinayi TSHANI), Alain KALUYITUKA (90' Deo KANDA)
 Pachuca: Miguel CALERO [c] - Leobardo LOPEZ, Paul AGUILAR, Javier MUNOZ - Braulio LUNA (73' Herculez GOMEZ),
       José TORRES (72' Edy BRAMBILA), Alejandro MANSO, Raul MARTINEZ, Carlos PENA (57' Edgar BENITEZ) -
@@ -89,7 +89,7 @@ Pachuca: Miguel CALERO [c] - Leobardo LOPEZ, Paul AGUILAR [Y 16'] (61' Juan Carl
       Javier MUNOZ - Braulio LUNA, Luis MONTES, José TORRES, Alejandro MANSO,
       Raul MARTINEZ (76' Dario CVITANICH) - Herculez GOMEZ (61' Edgar BENITEZ),
       Franco ARIZALA
-Al-Wahda Sports Club: Adel AL HOSANI - BASHEER SAEED, MAHMOUD KHAMIS, EISA AHMED, HAMDAN AL KAMALI [Y 71'] -
+Al-Wahda Sports Club: Adel AL HOSANI - BASHEER SAEED, MAHMOUD KHAMIS, EISA AHMED, HAMDAN AL KAMALI [Y 67'] [Y/R 71'] -
       YAQOUB AL HOSANI, FAHED MASOUD [Y 29'] (63' Mohamed AL SHEHHI [Y 90+1']),
       ABDULRAHEEM JUMAA [c], HUGO - ISMAEIL MATAR (74' Omar AHMED), SAEED AL KATHIRI (45' Modibi DIARRA)
 
@@ -121,7 +121,7 @@ Internacional: RENAN (73' Roberto ABBONDANZIERI) - BOLIVAR [c], INDIO [Y 21'], N
       KLEBER - Pablo GUINAZU, TINGA, Andres D ALESSANDRO, WILSON MATIAS (80' ANDREZINHO) -
       ALECSANDRO, RAFAEL SOBIS (61' GIULIANO)
 Seongnam: JUNG Sungryong - KO Jae Sung, YUN Youngsun, KIM Sung Hwan [c], HONG Chul,
-      JANG Suk Won [Y 33'] - Mauricio MOLINA, JO Jae Cheol - CHOI Sung Kuk,
+      JANG Suk Won [Y 23'] [Y/R 33'] - Mauricio MOLINA, JO Jae Cheol - CHOI Sung Kuk,
       CHO Dong Geon, SONG Ho Young (27' RADONCIC Dzenan (42' KIM Jin Ryong (77' CHEON Kwang Jin)))
 
 Refs: Michael HESTER (NZL), Jan Hendrik HINTZ (NZL), Tevita MAKASINI (TGA)
